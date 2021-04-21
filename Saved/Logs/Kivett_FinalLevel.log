@@ -807,3 +807,225 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.21-23.44.11:558][279]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.04.21-23.44.11:558][279]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
 [2021.04.21-23.44.11:558][279]LogFileHelpers: Loading map 'Kivett_FinalMap' took 0.128
+[2021.04.21-23.45.49:792][641]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.21-23.47.27:229][590]Cmd: DELETE
+[2021.04.21-23.47.27:268][590]Cmd: ACTOR DELETE
+[2021.04.21-23.47.28:942][590]LogEditorActor: Deleted Actor: SkyLight
+[2021.04.21-23.47.28:952][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.04.21-23.47.28:959][590]LogEditorActor: Deleted 1 Actors (0.355 secs)
+[2021.04.21-23.47.37:869][339]Cmd: DELETE
+[2021.04.21-23.47.37:869][339]Cmd: ACTOR DELETE
+[2021.04.21-23.47.37:870][339]LogEditorActor: Deleted Actor: RectLight
+[2021.04.21-23.47.37:959][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.21-23.47.38:048][339]LogEditorActor: Deleted 1 Actors (0.178 secs)
+[2021.04.21-23.47.59:723][844]Cmd: DELETE
+[2021.04.21-23.47.59:723][844]Cmd: ACTOR DELETE
+[2021.04.21-23.47.59:738][844]LogEditorActor: Deleted Actor: VolumetricLightmapDensityVolume
+[2021.04.21-23.47.59:744][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.04.21-23.47.59:745][844]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.04.21-23.48.33:478][ 68]Cmd: DELETE
+[2021.04.21-23.48.33:478][ 68]Cmd: ACTOR DELETE
+[2021.04.21-23.48.33:479][ 68]LogEditorActor: Deleted Actor: SkyLight
+[2021.04.21-23.48.33:484][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.21-23.48.33:485][ 68]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.04.21-23.48.36:335][401]Cmd: DELETE
+[2021.04.21-23.48.36:335][401]Cmd: ACTOR DELETE
+[2021.04.21-23.48.36:336][401]LogEditorActor: Deleted Actor: RectLight
+[2021.04.21-23.48.36:341][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.21-23.48.36:342][401]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.04.21-23.48.38:820][664]Cmd: DELETE
+[2021.04.21-23.48.38:820][664]Cmd: ACTOR DELETE
+[2021.04.21-23.48.38:821][664]LogEditorActor: Deleted Actor: PointLight
+[2021.04.21-23.48.38:842][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.04.21-23.48.38:843][664]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.04.21-23.51.17:323][105]LogSlate: Took 0.017520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.21-23.52.04:610][811]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.21-23.52.37:320][ 83]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.21-23.53.05:724][ 78]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.21-23.53.18:362][291]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.21-23.54.00:288][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.04.21-23.54.01:584][763]LogSlate: Window 'Save Content' being destroyed
+[2021.04.21-23.54.01:748][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.21-23.54.02:006][763]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Saved/Kivett_FinalMap9D42FA844D00058BAD1F66B79BCFB8DC.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap.umap'
+[2021.04.21-23.54.02:138][763]LogFileHelpers: Saving map 'Kivett_FinalMap' took 0.446
+[2021.04.21-23.54.02:172][763]AssetCheck: New page: Asset Save: Kivett_FinalMap
+[2021.04.21-23.54.02:172][763]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap
+[2021.04.21-23.54.16:998][461]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.04.21-23.54.59:722][954]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.21-23.55.07:842][465]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.21-23.55.54:253][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.04.21-23.55.55:433][539]LogSlate: Window 'Save Content' being destroyed
+[2021.04.21-23.55.55:462][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.21-23.55.55:470][539]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Saved/Kivett_FinalMap16FD72CD4CB7B0A4FF98E599444C8535.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap.umap'
+[2021.04.21-23.55.55:474][539]LogFileHelpers: Saving map 'Kivett_FinalMap' took 0.016
+[2021.04.21-23.55.55:497][539]AssetCheck: New page: Asset Save: Kivett_FinalMap
+[2021.04.21-23.55.55:497][539]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap
+[2021.04.21-23.56.25:764][ 19]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.21-23.56.26:037][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.21-23.56.26:108][ 19]PIE: New page: PIE session: Kivett_FinalMap (Apr 21, 2021, 3:56:26 PM)
+[2021.04.21-23.56.26:349][ 19]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.21-23.56.26:351][ 19]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.21-23.56.26:403][ 19]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap
+[2021.04.21-23.56.26:640][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.213850s)
+[2021.04.21-23.56.26:656][ 19]LogAIModule: Creating AISystem for world Kivett_FinalMap
+[2021.04.21-23.56.26:682][ 19]LogPlayLevel: PIE: World Init took: (0.041877s)
+[2021.04.21-23.56.26:697][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap to /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap.Kivett_FinalMap (0.293894s)
+[2021.04.21-23.56.26:706][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.04.21-23.56.26:727][ 19]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.21-23.56.26:727][ 19]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.21-23.56.26:727][ 19]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.21-23.56.26:727][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.21-23.56.26:727][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.21-23.56.26:727][ 19]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.21-23.56.26:727][ 19]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.21-23.56.26:727][ 19]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.21-23.56.26:727][ 19]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.21-23.56.26:728][ 19]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.21-23.56.26:728][ 19]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.21-23.56.26:767][ 19]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.21-23.56.26:767][ 19]LogAudioMixer: Display: 1: FrontRight
+[2021.04.21-23.56.26:788][ 19]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.21-23.56.26:788][ 19]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.21-23.56.26:789][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.21-23.56.26:789][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.21-23.56.26:789][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.21-23.56.26:789][ 19]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.21-23.56.26:789][ 19]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.21-23.56.26:823][ 19]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.21-23.56.26:823][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.21-23.56.26:823][ 19]LogInit: FAudioDevice initialized.
+[2021.04.21-23.56.26:823][ 19]LogAudio: Display: Audio Device (ID: 2) registered with world 'Kivett_FinalMap'.
+[2021.04.21-23.56.27:017][ 19]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.21-23.56.27:398][ 19]LogWorld: Bringing World /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap.Kivett_FinalMap up for play (max tick rate 0) at 2021.04.21-19.56.27
+[2021.04.21-23.56.27:459][ 19]LogWorld: Bringing up level for play took: 0.061041
+[2021.04.21-23.56.27:497][ 19]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.04.21-23.56.28:036][ 19]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2021.04.21-23.56.28:481][ 19]PIE: Server logged in
+[2021.04.21-23.56.28:482][ 19]PIE: Play in editor total start time 2.625 seconds.
+[2021.04.21-23.56.35:846][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-23.56.35:847][569]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap
+[2021.04.21-23.56.35:956][569]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-23.56.36:001][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-23.56.36:146][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.21-23.56.36:197][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-23.56.36:219][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-23.56.36:275][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.21-23.56.36:277][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.21-23.56.36:660][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.04.21-23.56.36:701][570]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.04.21-23.56.39:124][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.21-23.56.39:279][845]LogSlate: Window 'Kivett_FinalLevel - Unreal Editor' being destroyed
+[2021.04.21-23.56.40:743][846]Cmd: QUIT_EDITOR
+[2021.04.21-23.56.40:744][846]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.04.21-23.56.40:826][846]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.04.21-23.56.41:735][846]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.04.21-23.56.41:735][846]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.04.21-23.56.41:735][846]LogAudio: Display: Audio Device unregistered from world 'Kivett_FinalMap'.
+[2021.04.21-23.56.41:758][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.21-23.56.41:759][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.21-23.56.41:830][846]LogAudio: Display: Audio Device Manager Shutdown
+[2021.04.21-23.56.41:849][846]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.21-23.56.41:889][846]LogExit: Preparing to exit.
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717EA6B00] Windows
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717EA6A00] Default__DeviceProfile
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717E71700] WindowsNoEditor
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717EA5700] WindowsServer
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717E72B00] WindowsClient
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717EA6D00] IOS
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717E73700] iPadAir
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717EA5400] iPadAir2
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717E23E00] IPadPro
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717E23F00] iPadAir3
+[2021.04.21-23.56.43:170][846]LogDeviceProfile: Device profile begin destroy: [0000021717EA6C00] iPadAir4
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E21C00] iPadMini2
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717EA5600] iPadMini3
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E23A00] iPadMini4
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717EA4B00] iPadMini5
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E53700] iPhone6
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E53800] iPodTouch6
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E21B00] iPhone7
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E21A00] iPodTouch7
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51B00] iPhone5S
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E22000] iPhone6Plus
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E53D00] iPhone6S
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E21600] iPhone6SPlus
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51700] iPhone7Plus
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E20500] iPhoneSE
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52000] iPhone8
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E23D00] iPhone8Plus
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E53B00] iPhoneX
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E22200] iPhoneXS
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52200] iPhoneXSMax
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E21F00] iPhoneXR
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52A00] iPhone11
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E23B00] iPhone11Pro
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51300] iPhone11ProMax
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E21700] iPhoneSE2
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52B00] iPhone12Mini
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E21100] iPhone12
+[2021.04.21-23.56.43:171][846]LogDeviceProfile: Device profile begin destroy: [0000021717E50900] iPhone12Pro
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E23900] iPhone12ProMax
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52D00] iPadPro105
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E20A00] iPadPro129
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51C00] iPadPro97
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E21800] iPadPro2_129
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E53E00] iPad5
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E20400] iPad6
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52700] iPad7
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E21900] iPad8
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E53600] iPadPro11
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E22E00] iPadPro2_11
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E53C00] iPadPro3_129
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E22900] iPadPro4_129
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E22F00] AppleTV
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E73400] AppleTV4K
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717F00400] TVOS
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E72F00] Mac
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51800] MacClient
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E73000] MacNoEditor
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51200] MacServer
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E70F00] Linux
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E50100] LinuxAArch64
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E70300] LinuxNoEditor
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51600] LinuxAArch64NoEditor
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E73B00] LinuxClient
+[2021.04.21-23.56.43:172][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52C00] LinuxAArch64Client
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E71300] LinuxServer
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51100] LinuxAArch64Server
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E70100] Android
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E50600] Android_Low
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E70D00] Android_Mid
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E50700] Android_High
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E70B00] Android_Default
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E53A00] Android_Adreno4xx
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E71900] Android_Adreno5xx_Low
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E50F00] Android_Adreno5xx
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E73200] Android_Adreno6xx
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52300] Android_Adreno6xx_Vulkan
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E72800] Android_Mali_T6xx
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51400] Android_Mali_T7xx
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E73800] Android_Mali_T8xx
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E50B00] Android_Mali_G71
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E71F00] Android_Mali_G72
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52500] Android_Mali_G72_Vulkan
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E72200] Android_Mali_G76
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E50E00] Android_Mali_G76_Vulkan
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E73500] Android_Mali_G77
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51500] Android_Mali_G77_Vulkan
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E73A00] Android_Vulkan_SM5
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52F00] Android_PowerVR_G6xxx
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E71800] Android_PowerVR_GT7xxx
+[2021.04.21-23.56.43:173][846]LogDeviceProfile: Device profile begin destroy: [0000021717E51A00] Android_PowerVR_GE8xxx
+[2021.04.21-23.56.43:174][846]LogDeviceProfile: Device profile begin destroy: [0000021717E71100] Android_PowerVR_GM9xxx
+[2021.04.21-23.56.43:174][846]LogDeviceProfile: Device profile begin destroy: [0000021717E52E00] Android_PowerVR_GM9xxx_Vulkan
+[2021.04.21-23.56.43:174][846]LogDeviceProfile: Device profile begin destroy: [0000021717E73100] Android_TegraK1
+[2021.04.21-23.56.43:174][846]LogDeviceProfile: Device profile begin destroy: [0000021717E22800] Android_Unknown_Vulkan
+[2021.04.21-23.56.43:174][846]LogDeviceProfile: Device profile begin destroy: [0000021717EA5100] Lumin
+[2021.04.21-23.56.43:174][846]LogDeviceProfile: Device profile begin destroy: [0000021717E20600] Lumin_Desktop
+[2021.04.21-23.56.43:174][846]LogDeviceProfile: Device profile begin destroy: [0000021717EA7A00] HoloLens
+[2021.04.21-23.56.46:843][846]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-23.56.46:843][846]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-23.56.47:683][846]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.04.21-23.56.48:754][846]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-23.56.48:754][846]LogExit: Editor shut down
+[2021.04.21-23.56.48:755][846]LogExit: Transaction tracking system shut down
