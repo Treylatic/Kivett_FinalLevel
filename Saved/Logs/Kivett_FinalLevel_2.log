@@ -1428,3 +1428,9 @@ Exception rethrown at [0]:
 [2021.04.22-02.36.24:338][604]LogFileHelpers: Saving map 'Kivett_FinalMap' took 3.654
 [2021.04.22-02.36.24:363][604]AssetCheck: New page: Asset Save: Kivett_FinalMap
 [2021.04.22-02.36.24:363][604]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap
+[2021.04.22-02.37.30:142][408]LogImageWriteQueue: Warning: Fail to check free space for ../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Saved/Screenshots/Windows. Error: 3 (The system cannot find the path specified.)
+[2021.04.22-02.37.30:150][408]LogClient: High resolution screenshot saved as C:/Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Saved/Screenshots/Windows/HighresScreenshot00000.png
+[2021.04.22-02.37.40:707][855]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2021.04.22-02.37.50:087][733]LogClient: High resolution screenshot saved as C:/Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Saved/Screenshots/Windows/HighresScreenshot00001.png
+[2021.04.22-02.37.58:558][ 83]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2021.04.22-02.38.00:184][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
