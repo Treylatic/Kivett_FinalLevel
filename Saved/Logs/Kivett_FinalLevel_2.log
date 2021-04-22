@@ -1410,3 +1410,21 @@ Exception rethrown at [0]:
 [2021.04.22-02.22.48:571][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
 [2021.04.22-02.22.48:827][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2021.04.22-02.22.48:992][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.04.22-02.34.38:055][712]LogEditorViewport: Clicking on Actor (LMB): Enemy_Character_C (Enemy_Character)
+[2021.04.22-02.34.52:366][855]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.22-02.34.53:410][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.22-02.34.56:636][913]LogSlate: Window 'Save Content' being destroyed
+[2021.04.22-02.35.10:741][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.22-02.35.12:080][ 68]LogSlate: Window 'Save Content' being destroyed
+[2021.04.22-02.35.12:182][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.04.22-02.35.15:768][ 68]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Saved/Kivett_FinalMap336309524982F00FBDA509944DDD3B1E.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap.umap'
+[2021.04.22-02.35.15:787][ 68]LogFileHelpers: Saving map 'Kivett_FinalMap' took 3.633
+[2021.04.22-02.35.15:828][ 68]AssetCheck: New page: Asset Save: Kivett_FinalMap
+[2021.04.22-02.35.15:828][ 68]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap
+[2021.04.22-02.36.19:463][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.04.22-02.36.20:656][604]LogSlate: Window 'Save Content' being destroyed
+[2021.04.22-02.36.20:703][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.22-02.36.24:328][604]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Saved/Kivett_FinalMap6D5630854D00FA73088E79BE7011C9E5.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap.umap'
+[2021.04.22-02.36.24:338][604]LogFileHelpers: Saving map 'Kivett_FinalMap' took 3.654
+[2021.04.22-02.36.24:363][604]AssetCheck: New page: Asset Save: Kivett_FinalMap
+[2021.04.22-02.36.24:363][604]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap
