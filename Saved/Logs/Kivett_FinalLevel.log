@@ -2863,3 +2863,78 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.22-01.36.26:985][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
 [2021.04.22-01.36.27:038][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_33
 [2021.04.22-01.36.29:861][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.04.22-01.41.34:854][557]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.22-01.41.34:859][557]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.22-01.41.34:984][557]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-01.41.34:984][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-01.49.38:421][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.22-01.49.38:428][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.22-01.49.38:428][ 58]PIE: New page: PIE session: Kivett_FinalMap (Apr 21, 2021, 5:49:38 PM)
+[2021.04.22-01.49.38:460][ 58]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap
+[2021.04.22-01.49.40:147][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (1.685769s)
+[2021.04.22-01.49.40:148][ 58]LogAIModule: Creating AISystem for world Kivett_FinalMap
+[2021.04.22-01.49.40:149][ 58]LogPlayLevel: PIE: World Init took: (0.001587s)
+[2021.04.22-01.49.40:149][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap to /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap.Kivett_FinalMap (1.687640s)
+[2021.04.22-01.49.40:354][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2021.04.22-01.49.40:486][ 58]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.04.22-01.49.40:486][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.22-01.49.40:486][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.22-01.49.40:486][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.22-01.49.40:486][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.22-01.49.40:486][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.22-01.49.40:486][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.22-01.49.40:486][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.22-01.49.40:487][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.22-01.49.40:487][ 58]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.22-01.49.40:487][ 58]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.22-01.49.40:534][ 58]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.22-01.49.40:534][ 58]LogAudioMixer: Display: 1: FrontRight
+[2021.04.22-01.49.40:549][ 58]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.22-01.49.40:550][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.22-01.49.40:550][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.22-01.49.40:550][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.22-01.49.40:551][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.22-01.49.40:551][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.22-01.49.40:552][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.22-01.49.40:582][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.22-01.49.40:582][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.22-01.49.40:582][ 58]LogInit: FAudioDevice initialized.
+[2021.04.22-01.49.40:582][ 58]LogAudio: Display: Audio Device (ID: 26) registered with world 'Kivett_FinalMap'.
+[2021.04.22-01.49.40:727][ 58]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.22-01.49.40:751][ 58]LogWorld: Bringing World /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap.Kivett_FinalMap up for play (max tick rate 0) at 2021.04.21-21.49.40
+[2021.04.22-01.49.40:781][ 58]LogWorld: Bringing up level for play took: 0.053981
+[2021.04.22-01.49.40:789][ 58]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.04.22-01.49.40:977][ 58]PIE: Server logged in
+[2021.04.22-01.49.40:979][ 58]PIE: Play in editor total start time 2.551 seconds.
+[2021.04.22-01.50.36:910][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.22-01.50.36:911][718]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap
+[2021.04.22-01.50.36:911][718]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-01.50.36:911][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-01.50.36:953][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.22-01.50.37:008][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-01.50.37:050][718]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.22-01.50.37:050][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.22-01.50.37:052][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.22-01.50.37:072][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.22-01.50.37:079][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.04.22-01.50.37:269][719]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.04.22-01.50.38:200][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.04.22-01.50.39:129][808]LogSlate: Window 'Save Content' being destroyed
+[2021.04.22-01.50.39:249][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.22-01.50.42:810][808]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Saved/Kivett_FinalMap007FB2C847AE335DD9AAF4AD77E6BC51.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap.umap'
+[2021.04.22-01.50.42:843][808]LogFileHelpers: Saving map 'Kivett_FinalMap' took 3.667
+[2021.04.22-01.50.42:872][808]AssetCheck: New page: Asset Save: Kivett_FinalMap
+[2021.04.22-01.50.42:873][808]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap
+[2021.04.22-01.50.47:362][213]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.22-01.50.47:402][213]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.22-01.50.49:850][476]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2021.04.22-01.50.49:855][476]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.22-01.50.50:920][561]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.04.22-01.50.56:597][ 25]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Saved/Kai_Engel_-_05_-_Great_ExpectatiF3E7561D47C7BF0F17C6EF8D8CC4D4C1.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Content/Kivett_FinalMap/Audio/Kai_Engel_-_05_-_Great_Expectations.uasset'
+[2021.04.22-01.50.56:602][ 25]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Saved/Kai_Engel_-_05_-_Great_Expectati67B5641349D0248B098E7BA64C906B43.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Kivett_FinalLevel/Content/Kivett_FinalMap/Kai_Engel_-_05_-_Great_Expectations.uasset'
+[2021.04.22-01.50.57:481][ 25]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.22-01.50.57:481][ 25]LogContentValidation: Display: Validating ObjectRedirector /Game/Kivett_FinalMap/Kai_Engel_-_05_-_Great_Expectations.Kai_Engel_-_05_-_Great_Expectations
+[2021.04.22-01.50.57:482][ 25]LogContentValidation: Display: Validating SoundWave /Game/Kivett_FinalMap/Audio/Kai_Engel_-_05_-_Great_Expectations.Kai_Engel_-_05_-_Great_Expectations
+[2021.04.22-01.50.58:889][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.04.22-01.50.59:997][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.22-01.51.00:136][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
