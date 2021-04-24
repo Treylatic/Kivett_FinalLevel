@@ -788,3 +788,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.24-15.51.01:822][  0]LogDirectoryWatcher: Display: A directory notification failed for '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/' because it was empty or there was a buffer overflow. Attemping another request...
 [2021.04.24-15.51.01:822][  0]LogDirectoryWatcher: Display: A directory notification failed for '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/' because it was empty or there was a buffer overflow. Attemping another request...
 [2021.04.24-15.51.02:333][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.24-15.51.04:591][  2]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0162 seconds. Added 3601 classes and 859 folders.
+[2021.04.24-15.51.05:141][  2]LogSlate: Took 0.035009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.24-15.51.05:217][  3]LogAssetRegistry: Asset discovery search completed in 195.1217 seconds
+[2021.04.24-15.51.05:332][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.033324 seconds (updated 0 objects)
