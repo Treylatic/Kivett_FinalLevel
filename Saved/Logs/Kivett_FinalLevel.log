@@ -778,3 +778,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.24-15.50.41:723][  0]LogPakFile: PakFile PathHashIndexSize=101
 [2021.04.24-15.50.41:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
 [2021.04.24-15.50.41:723][  0]LogPakFile: OnPakFileMounted2Time == 0.090632
+[2021.04.24-15.50.52:073][  0]LogSlate: Took 0.062616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.24-15.50.52:272][  0]LogSlate: Took 0.097549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.24-15.50.52:721][  0]LogSlate: Took 0.040538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.24-15.50.56:289][  0]LogRenderer: Reallocating scene render targets to support 1048x552 Format 10 NumSamples 1 (Frame:1).
+[2021.04.24-15.51.00:919][  0]LogLoad: (Engine Initialization) Total time: 335.04 seconds
+[2021.04.24-15.51.00:919][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.24-15.51.00:944][  0]LogInit: First time updating LLM stats...
+[2021.04.24-15.51.01:822][  0]LogDirectoryWatcher: Display: A directory notification failed for '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2021.04.24-15.51.01:822][  0]LogDirectoryWatcher: Display: A directory notification failed for '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2021.04.24-15.51.02:333][  0]LogContentStreaming: Texture pool size now 1000 MB
