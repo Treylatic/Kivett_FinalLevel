@@ -1759,3 +1759,45 @@ Exception rethrown at [0]:
 [2021.04.26-00.35.32:564][426]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
 [2021.04.26-00.35.32:580][426]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A4F2DD6-4BC0-B1E5-857E-79BB7CA015AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=cdabe6774b13a7353e63f7a1d57cec9e%7C2913ae1c9d9e4d7e9c77753c3ab22a9e%7Ca8883b63-2030-4494-ac27-b85ad5490515&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
 [2021.04.26-00.35.32:580][426]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.04.26-00.35.32:593][426]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.04.26-00.35.32:594][426]LogModuleManager: Shutting down and abandoning module MLSDK (72)
+[2021.04.26-00.35.32:594][426]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2021.04.26-00.35.32:733][426]LogModuleManager: Shutting down and abandoning module Media (69)
+[2021.04.26-00.35.32:734][426]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2021.04.26-00.35.32:734][426]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2021.04.26-00.35.32:762][426]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2021.04.26-00.35.32:762][426]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2021.04.26-00.35.32:762][426]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.04.26-00.35.32:762][426]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2021.04.26-00.35.32:784][426]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.04.26-00.35.32:784][426]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.04.26-00.35.32:785][426]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.04.26-00.35.32:785][426]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.04.26-00.35.32:812][426]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.04.26-00.35.32:822][426]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.04.26-00.35.32:822][426]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.04.26-00.35.32:822][426]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.04.26-00.35.32:822][426]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.04.26-00.35.32:986][426]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.04.26-00.35.33:074][426]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.04.26-00.35.33:090][426]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.04.26-00.35.33:090][426]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.04.26-00.35.33:090][426]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.04.26-00.35.33:090][426]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.04.26-00.35.33:181][426]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.04.26-00.35.33:212][426]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.04.26-00.35.33:212][426]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.04.26-00.35.33:277][426]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.04.26-00.35.33:277][426]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.04.26-00.35.33:326][426]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.04.26-00.35.33:326][426]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.04.26-00.35.33:351][426]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.04.26-00.35.33:351][426]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.04.26-00.35.33:402][426]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.04.26-00.35.33:412][426]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.04.26-00.35.33:434][426]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.04.26-00.35.33:463][426]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.04.26-00.35.33:465][426]LogD3D11RHI: Shutdown
+[2021.04.26-00.35.33:465][426]LogD3D11RHI: CleanupD3DDevice
+[2021.04.26-00.35.34:119][426]LogExit: Exiting.
+[2021.04.26-00.35.34:149][426]Log file closed, 04/25/21 20:35:34
