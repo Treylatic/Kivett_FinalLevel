@@ -2124,3 +2124,376 @@ SpotLight3
 [2021.04.26-01.31.21:882][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_l_2x39)
 [2021.04.26-01.31.51:109][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2021.04.26-01.32.30:884][156]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.33.43:147][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_l_2x73)
+[2021.04.26-01.34.34:129][314]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.04.26-01.34.35:099][416]Cmd: DELETE
+[2021.04.26-01.34.35:099][416]Cmd: ACTOR DELETE
+[2021.04.26-01.34.35:106][416]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.04.26-01.34.35:111][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.04.26-01.34.35:115][416]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.04.26-01.34.36:346][563]Cmd: TRANSACTION UNDO
+[2021.04.26-01.34.36:346][563]LogEditorTransaction: Undo Delete Actors
+[2021.04.26-01.35.18:044][703]LogActorFactory: Actor Factory created store_front_windows_intact_4x1_c
+[2021.04.26-01.35.18:654][763]LogActorFactory: Actor Factory created store_front_windows_intact_4x1_c
+[2021.04.26-01.35.18:772][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_windows_intact_4x1_c)
+[2021.04.26-01.35.22:958][193]LogActorFactory: Actor Factory created store_front_windows_intact_4x1_b
+[2021.04.26-01.35.23:461][238]LogActorFactory: Actor Factory created store_front_windows_intact_4x1_b
+[2021.04.26-01.35.28:038][690]LogActorFactory: Actor Factory created store_front_windows_intact_4x1_a
+[2021.04.26-01.35.28:504][721]LogActorFactory: Actor Factory created store_front_windows_intact_4x1_a
+[2021.04.26-01.35.30:275][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_windows_intact_4x1_a)
+[2021.04.26-01.35.30:959][960]Cmd: DELETE
+[2021.04.26-01.35.30:959][960]Cmd: ACTOR DELETE
+[2021.04.26-01.35.30:966][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.35.30:972][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.26-01.35.30:975][960]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.04.26-01.35.32:379][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_windows_intact_4x1_c)
+[2021.04.26-01.35.37:069][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_windows_intact_4x1_c)
+[2021.04.26-01.35.38:155][677]Cmd: DELETE
+[2021.04.26-01.35.38:155][677]Cmd: ACTOR DELETE
+[2021.04.26-01.35.38:162][677]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.35.38:167][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.26-01.35.38:170][677]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.04.26-01.35.39:806][795]LogActorFactory: Actor Factory created store_front_windows_broken_4x1_c
+[2021.04.26-01.35.40:244][839]LogActorFactory: Actor Factory created store_front_windows_broken_4x1_c
+[2021.04.26-01.35.41:006][915]Cmd: DELETE
+[2021.04.26-01.35.41:006][915]Cmd: ACTOR DELETE
+[2021.04.26-01.35.41:013][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.35.41:019][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.26-01.35.41:020][915]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.04.26-01.35.41:625][958]LogActorFactory: Actor Factory created store_front_windows_broken_4x1_b
+[2021.04.26-01.35.42:036][997]LogActorFactory: Actor Factory created store_front_windows_broken_4x1_b
+[2021.04.26-01.35.42:341][ 23]Cmd: DELETE
+[2021.04.26-01.35.42:341][ 23]Cmd: ACTOR DELETE
+[2021.04.26-01.35.42:348][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.35.42:353][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.26-01.35.42:354][ 23]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.04.26-01.35.42:885][ 64]LogActorFactory: Actor Factory created store_front_windows_broken_4x1_a
+[2021.04.26-01.35.43:098][ 83]LogActorFactory: Actor Factory created store_front_windows_broken_4x1_a
+[2021.04.26-01.35.43:421][110]Cmd: DELETE
+[2021.04.26-01.35.43:421][110]Cmd: ACTOR DELETE
+[2021.04.26-01.35.43:428][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.35.43:433][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.04.26-01.35.43:435][110]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.04.26-01.35.43:994][148]LogActorFactory: Actor Factory created store_front_shutters_4x1_a
+[2021.04.26-01.35.44:404][193]LogActorFactory: Actor Factory created store_front_shutters_4x1_a
+[2021.04.26-01.35.44:587][207]Cmd: DELETE
+[2021.04.26-01.35.44:588][207]Cmd: ACTOR DELETE
+[2021.04.26-01.35.44:595][207]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.35.44:600][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.26-01.35.44:601][207]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.04.26-01.35.45:188][247]LogActorFactory: Actor Factory created store_front_shutters_3x1_a
+[2021.04.26-01.35.45:560][288]LogActorFactory: Actor Factory created store_front_shutters_3x1_a
+[2021.04.26-01.35.45:720][299]Cmd: DELETE
+[2021.04.26-01.35.45:720][299]Cmd: ACTOR DELETE
+[2021.04.26-01.35.45:727][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.35.45:732][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.26-01.35.45:733][299]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.04.26-01.35.46:258][333]LogActorFactory: Actor Factory created store_front_door_5x1_a
+[2021.04.26-01.35.46:750][385]LogActorFactory: Actor Factory created store_front_door_5x1_a
+[2021.04.26-01.35.48:984][597]Cmd: DELETE
+[2021.04.26-01.35.48:984][597]Cmd: ACTOR DELETE
+[2021.04.26-01.35.48:991][597]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.35.49:006][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.04.26-01.35.49:007][597]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.04.26-01.35.49:442][626]LogActorFactory: Actor Factory created store_front_door_4x1_b
+[2021.04.26-01.35.56:360][427]LogActorFactory: Actor Factory created store_front_door_4x1_b
+[2021.04.26-01.36.00:277][765]LogActorFactory: Actor Factory created store_front_door_4x1_a
+[2021.04.26-01.36.01:573][888]LogActorFactory: Actor Factory created store_front_door_4x1_a
+[2021.04.26-01.36.01:682][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_4x1_a)
+[2021.04.26-01.36.02:528][983]Cmd: DELETE
+[2021.04.26-01.36.02:528][983]Cmd: ACTOR DELETE
+[2021.04.26-01.36.02:535][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.36.02:540][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.26-01.36.02:543][983]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.04.26-01.36.13:039][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_4x1_b)
+[2021.04.26-01.36.14:108][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_windows_intact_4x1_b)
+[2021.04.26-01.36.17:605][639]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.36.21:595][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_4x1_b)
+[2021.04.26-01.36.24:722][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_windows_intact_4x1_b)
+[2021.04.26-01.36.28:065][690]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.36.29:907][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_windows_intact_4x1_b)
+[2021.04.26-01.36.31:528][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.36.38:472][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_windows_intact_4x1_b)
+[2021.04.26-01.36.38:901][766]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (store_front_door_4x1_b)
+[2021.04.26-01.36.52:955][  9]LogActorFactory: Actor Factory created beam_pillar_metal_1x2
+[2021.04.26-01.36.54:145][111]LogActorFactory: Actor Factory created beam_pillar_metal_1x2
+[2021.04.26-01.37.15:958][254]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.04.26-01.37.25:586][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_4x1_b)
+[2021.04.26-01.37.26:001][241]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (store_front_windows_intact_4x1_b)
+[2021.04.26-01.37.29:948][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x2)
+[2021.04.26-01.37.38:981][409]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.37.39:891][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x2)
+[2021.04.26-01.37.49:211][448]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.37.54:611][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x2)
+[2021.04.26-01.38.09:384][512]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (store_front_door_4x1_b)
+[2021.04.26-01.38.10:461][624]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.38.11:541][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x2)
+[2021.04.26-01.38.39:760][650]Cmd: EDCALLBACK SURFPROPS
+[2021.04.26-01.38.40:791][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x2)
+[2021.04.26-01.38.46:642][353]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.38.48:934][560]Cmd: SELECT NONE
+[2021.04.26-01.38.49:346][608]Cmd: SELECT NONE
+[2021.04.26-01.38.50:013][688]Cmd: SELECT NONE
+[2021.04.26-01.39.18:712][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x2)
+[2021.04.26-01.39.31:560][394]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.41.11:208][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.04.26-01.41.11:290][630]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_Auto1274142734D1D647BDFA176BCE427BE99.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Autosaves/Game/Kivett_FinalMap/Kivett_FinalMap_Auto1.umap'
+[2021.04.26-01.41.11:298][630]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Kivett_FinalMap/Kivett_FinalMap' took 0.098
+[2021.04.26-01.41.11:298][630]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2021.04.26-01.42.00:937][684]LogActorFactory: Actor Factory created plane_wall_3x2
+[2021.04.26-01.42.01:281][710]LogActorFactory: Actor Factory created plane_wall_3x2
+[2021.04.26-01.42.02:069][785]Cmd: DELETE
+[2021.04.26-01.42.02:069][785]Cmd: ACTOR DELETE
+[2021.04.26-01.42.02:076][785]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.42.02:081][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.26-01.42.02:084][785]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.04.26-01.42.07:496][149]LogActorFactory: Actor Factory created plane_wall_right_2x2
+[2021.04.26-01.42.08:355][226]LogActorFactory: Actor Factory created plane_wall_right_2x2
+[2021.04.26-01.42.32:386][239]LogActorFactory: Actor Factory created upper_brick_wall_a_r_3x2
+[2021.04.26-01.42.33:329][304]LogActorFactory: Actor Factory created upper_brick_wall_a_r_3x2
+[2021.04.26-01.42.34:925][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plane_wall_right_2x2)
+[2021.04.26-01.42.35:689][498]Cmd: DELETE
+[2021.04.26-01.42.35:689][498]Cmd: ACTOR DELETE
+[2021.04.26-01.42.35:696][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.42.35:702][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.04.26-01.42.35:704][498]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.04.26-01.42.36:768][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x5)
+[2021.04.26-01.43.34:657][129]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.43.36:829][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x35)
+[2021.04.26-01.43.37:195][345]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x5)
+[2021.04.26-01.43.52:139][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x36)
+[2021.04.26-01.43.52:876][789]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_3x37)
+[2021.04.26-01.43.53:195][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x37)
+[2021.04.26-01.43.53:934][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x37)
+[2021.04.26-01.43.54:459][939]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x36)
+[2021.04.26-01.44.19:980][518]Cmd: TRANSACTION UNDO
+[2021.04.26-01.44.19:980][518]LogEditorTransaction: Undo Move Actors
+[2021.04.26-01.44.29:755][380]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.04.26-01.44.38:361][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x37)
+[2021.04.26-01.44.47:498][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x3)
+[2021.04.26-01.44.53:028][607]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (beam_pillar_metal_1x2)
+[2021.04.26-01.45.06:129][725]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap:PersistentLevel.ModelComponent_361' invalid (268 verts, 0 indices).
+[2021.04.26-01.45.06:130][725]LogPhysics: Warning: Attempt to build physics data for /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap:PersistentLevel.ModelComponent_361.BodySetup_0 when we are unable to.
+[2021.04.26-01.45.06:130][725]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap:PersistentLevel.ModelComponent_362' invalid (268 verts, 0 indices).
+[2021.04.26-01.45.06:130][725]LogPhysics: Warning: Attempt to build physics data for /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap:PersistentLevel.ModelComponent_362.BodySetup_0 when we are unable to.
+[2021.04.26-01.45.11:310][225]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap:PersistentLevel.ModelComponent_370' invalid (236 verts, 0 indices).
+[2021.04.26-01.45.11:310][225]LogPhysics: Warning: Attempt to build physics data for /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap:PersistentLevel.ModelComponent_370.BodySetup_0 when we are unable to.
+[2021.04.26-01.45.13:115][423]Cmd: TRANSACTION UNDO
+[2021.04.26-01.45.13:115][423]LogEditorTransaction: Undo Move Actors
+[2021.04.26-01.45.13:214][423]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap:PersistentLevel.ModelComponent_361' invalid (268 verts, 0 indices).
+[2021.04.26-01.45.13:214][423]LogPhysics: Warning: Attempt to build physics data for /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap:PersistentLevel.ModelComponent_361.BodySetup_0 when we are unable to.
+[2021.04.26-01.45.13:214][423]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap:PersistentLevel.ModelComponent_362' invalid (268 verts, 0 indices).
+[2021.04.26-01.45.13:214][423]LogPhysics: Warning: Attempt to build physics data for /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap:PersistentLevel.ModelComponent_362.BodySetup_0 when we are unable to.
+[2021.04.26-01.45.14:341][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x4)
+[2021.04.26-01.45.17:552][764]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (beam_pillar_metal_1x5)
+[2021.04.26-01.45.24:595][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x5)
+[2021.04.26-01.45.26:881][612]Cmd: TRANSACTION UNDO
+[2021.04.26-01.45.26:881][612]LogEditorTransaction: Undo Move Actors
+[2021.04.26-01.45.27:759][661]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (beam_pillar_metal_1x4)
+[2021.04.26-01.46.25:003][305]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.46.27:033][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x5)
+[2021.04.26-01.46.30:251][816]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.46.35:877][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_pillar_metal_1x4)
+[2021.04.26-01.46.39:539][728]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.46.44:598][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x35)
+[2021.04.26-01.46.45:112][251]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x5)
+[2021.04.26-01.47.13:311][826]LogActorFactory: Actor Factory created upper_brick_wall_a_l_2x2
+[2021.04.26-01.47.14:793][936]LogActorFactory: Actor Factory created upper_brick_wall_a_l_2x2
+[2021.04.26-01.47.38:355][ 27]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.04.26-01.47.43:749][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_2x10)
+[2021.04.26-01.48.07:426][771]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.48.12:894][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x36)
+[2021.04.26-01.48.13:513][343]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_l_2x10)
+[2021.04.26-01.48.14:015][384]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x39)
+[2021.04.26-01.48.14:569][428]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x38)
+[2021.04.26-01.48.15:520][515]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (beam_pillar_metal_1x5)
+[2021.04.26-01.48.16:232][579]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x37)
+[2021.04.26-01.48.18:614][811]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (beam_pillar_metal_1x2)
+[2021.04.26-01.48.21:245][ 19]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (beam_pillar_metal_1x4)
+[2021.04.26-01.48.23:877][243]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x35)
+[2021.04.26-01.48.24:344][281]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x5)
+[2021.04.26-01.48.25:988][420]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (beam_pillar_metal_1x3)
+[2021.04.26-01.48.26:521][466]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (store_front_windows_intact_4x1_b)
+[2021.04.26-01.48.27:873][587]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (store_front_door_4x1_b)
+[2021.04.26-01.48.28:861][672]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (store_front_door_4x1_b)
+[2021.04.26-01.48.37:560][285]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.48.46:303][988]LogActorFactory: Actor Factory created mid_brick_wndw_r_3x2
+[2021.04.26-01.48.49:620][311]LogActorFactory: Actor Factory created mid_brick_wndw_r_3x2
+[2021.04.26-01.48.52:613][578]LogActorFactory: Actor Factory created mid_brick_wndw_r_2x2
+[2021.04.26-01.48.53:806][685]LogActorFactory: Actor Factory created mid_brick_wndw_r_2x2
+[2021.04.26-01.48.54:852][791]Cmd: DELETE
+[2021.04.26-01.48.54:852][791]Cmd: ACTOR DELETE
+[2021.04.26-01.48.54:860][791]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.48.54:866][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.04.26-01.48.54:869][791]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.04.26-01.48.55:394][821]LogActorFactory: Actor Factory created mid_brick_wndw_l_3x2
+[2021.04.26-01.48.55:813][859]LogActorFactory: Actor Factory created mid_brick_wndw_l_3x2
+[2021.04.26-01.48.56:098][883]Cmd: DELETE
+[2021.04.26-01.48.56:098][883]Cmd: ACTOR DELETE
+[2021.04.26-01.48.56:105][883]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.48.56:111][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.26-01.48.56:113][883]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.04.26-01.48.56:774][934]LogActorFactory: Actor Factory created mid_brick_wndw_l_2x2
+[2021.04.26-01.48.57:434][  1]LogActorFactory: Actor Factory created mid_brick_wndw_l_2x2
+[2021.04.26-01.48.57:673][ 19]Cmd: DELETE
+[2021.04.26-01.48.57:673][ 19]Cmd: ACTOR DELETE
+[2021.04.26-01.48.57:680][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.48.57:686][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.04.26-01.48.57:687][ 19]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.04.26-01.48.58:242][ 56]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_3x2
+[2021.04.26-01.49.01:888][441]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_3x2
+[2021.04.26-01.49.02:392][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_r_3x2)
+[2021.04.26-01.49.02:890][537]Cmd: DELETE
+[2021.04.26-01.49.02:891][537]Cmd: ACTOR DELETE
+[2021.04.26-01.49.02:899][537]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.49.02:904][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.04.26-01.49.02:906][537]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.04.26-01.49.03:372][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x26)
+[2021.04.26-01.49.06:495][881]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.04.26-01.49.13:441][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x26)
+[2021.04.26-01.50.06:558][205]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_2x2
+[2021.04.26-01.50.11:078][652]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_2x2
+[2021.04.26-01.50.11:806][714]Cmd: DELETE
+[2021.04.26-01.50.11:806][714]Cmd: ACTOR DELETE
+[2021.04.26-01.50.11:814][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-01.50.11:831][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.26-01.50.11:833][714]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.04.26-01.50.12:424][742]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_l_2x2
+[2021.04.26-01.50.16:017][110]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_l_2x2
+[2021.04.26-01.50.24:777][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x26)
+[2021.04.26-01.51.04:986][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_l_2x2)
+[2021.04.26-01.51.19:882][569]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.51.27:836][304]LogActorFactory: Actor Factory created mid_brick_wndw_l_3x2
+[2021.04.26-01.51.29:181][417]LogActorFactory: Actor Factory created mid_brick_wndw_l_3x2
+[2021.04.26-01.51.47:748][164]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.26-01.52.22:977][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.04.26-01.52.23:058][937]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_Auto2E90305F74049A1245DFEF899CBB09D1D.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Autosaves/Game/Kivett_FinalMap/Kivett_FinalMap_Auto2.umap'
+[2021.04.26-01.52.23:061][937]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Kivett_FinalMap/Kivett_FinalMap' took 0.090
+[2021.04.26-01.52.23:061][937]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2021.04.26-02.07.34:186][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.26-02.07.35:418][779]LogSlate: Window 'Save Content' being destroyed
+[2021.04.26-02.07.35:447][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.26-02.07.35:527][779]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap264863C940F13E563DBCB3B1C8CE275F.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap.umap'
+[2021.04.26-02.07.35:579][779]LogFileHelpers: Saving map 'Kivett_FinalMap' took 0.138
+[2021.04.26-02.07.35:616][779]AssetCheck: New page: Asset Save: Kivett_FinalMap
+[2021.04.26-02.07.35:616][779]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap.Kivett_FinalMap
+[2021.04.26-02.07.37:288][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.04.26-02.07.37:477][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.26-02.07.37:788][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.26-02.07.41:564][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.26-02.07.41:699][292]LogSlate: Window 'Kivett_FinalLevel - Unreal Editor' being destroyed
+[2021.04.26-02.07.41:726][292]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.26-02.07.42:412][293]Cmd: QUIT_EDITOR
+[2021.04.26-02.07.42:413][293]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.04.26-02.07.42:466][293]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.04.26-02.07.42:688][293]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.04.26-02.07.42:688][293]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.04.26-02.07.42:688][293]LogAudio: Display: Audio Device unregistered from world 'Kivett_FinalMap'.
+[2021.04.26-02.07.42:893][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.26-02.07.42:936][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.26-02.07.43:038][293]LogAudio: Display: Audio Device Manager Shutdown
+[2021.04.26-02.07.43:125][293]LogExit: Preparing to exit.
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [0000018573757000] Windows
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [0000018573756F00] Default__DeviceProfile
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [000001857375D200] WindowsNoEditor
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [0000018573755200] WindowsServer
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [000001857375E900] WindowsClient
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [0000018573756800] IOS
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [000001857375DA00] iPadAir
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [0000018573755900] iPadAir2
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [000001857370C400] IPadPro
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [000001857370C500] iPadAir3
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [0000018573757200] iPadAir4
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [000001857370EC00] iPadMini2
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [0000018573755000] iPadMini3
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [000001857370C700] iPadMini4
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [0000018573756B00] iPadMini5
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [00000185736FFC00] iPhone6
+[2021.04.26-02.07.43:476][293]LogDeviceProfile: Device profile begin destroy: [00000185736FFD00] iPodTouch6
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370ED00] iPhone7
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370EE00] iPodTouch7
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FD600] iPhone5S
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370CD00] iPhone6Plus
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FFE00] iPhone6S
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370C900] iPhone6SPlus
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FD400] iPhone7Plus
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370E400] iPhoneSE
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FE700] iPhone8
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370C200] iPhone8Plus
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FEF00] iPhoneX
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370F200] iPhoneXS
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FFF00] iPhoneXSMax
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370EA00] iPhoneXR
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FE600] iPhone11
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370E800] iPhone11Pro
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FD700] iPhone11ProMax
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370D200] iPhoneSE2
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FDD00] iPhone12Mini
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370E700] iPhone12
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FC900] iPhone12Pro
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370C600] iPhone12ProMax
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FE400] iPadPro105
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370F600] iPadPro129
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FCE00] iPadPro97
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370EB00] iPadPro2_129
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FEE00] iPad5
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370F800] iPad6
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FC800] iPad7
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370DB00] iPad8
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FD500] iPadPro11
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370C100] iPadPro2_11
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FC600] iPadPro3_129
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370E100] iPadPro4_129
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FCA00] AppleTV
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370DD00] AppleTV4K
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FF000] TVOS
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857370CF00] Mac
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185737E8E00] MacClient
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857375F200] MacNoEditor
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185737E8A00] MacServer
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857375EC00] Linux
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185737E9200] LinuxAArch64
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857375DF00] LinuxNoEditor
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185737E8600] LinuxAArch64NoEditor
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857375FE00] LinuxClient
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185737E9100] LinuxAArch64Client
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857375F600] LinuxServer
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185737E8100] LinuxAArch64Server
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857375E800] Android
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FFA00] Android_Low
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857375C900] Android_Mid
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FD100] Android_High
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857375D300] Android_Default
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FF400] Android_Adreno4xx
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [000001857375FF00] Android_Adreno5xx_Low
+[2021.04.26-02.07.43:477][293]LogDeviceProfile: Device profile begin destroy: [00000185736FEA00] Android_Adreno5xx
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375DC00] Android_Adreno6xx
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FC300] Android_Adreno6xx_Vulkan
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375C100] Android_Mali_T6xx
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FC500] Android_Mali_T7xx
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375C300] Android_Mali_T8xx
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FCD00] Android_Mali_G71
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375E700] Android_Mali_G72
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FE900] Android_Mali_G72_Vulkan
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375CA00] Android_Mali_G76
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FE000] Android_Mali_G76_Vulkan
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375FC00] Android_Mali_G77
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FF300] Android_Mali_G77_Vulkan
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375D700] Android_Vulkan_SM5
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FD900] Android_PowerVR_G6xxx
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375EA00] Android_PowerVR_GT7xxx
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FE200] Android_PowerVR_GE8xxx
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375C600] Android_PowerVR_GM9xxx
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FC100] Android_PowerVR_GM9xxx_Vulkan
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375D500] Android_TegraK1
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FF800] Android_Unknown_Vulkan
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375E000] Lumin
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [00000185736FD000] Lumin_Desktop
+[2021.04.26-02.07.43:478][293]LogDeviceProfile: Device profile begin destroy: [000001857375D400] HoloLens
+[2021.04.26-02.07.43:583][293]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-02.07.43:610][293]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-02.07.44:655][293]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.04.26-02.07.45:001][293]LogExit: Editor shut down
+[2021.04.26-02.07.45:019][293]LogExit: Transaction tracking system shut down
+[2021.04.26-02.07.50:917][293]LogExit: Object subsystem successfully closed.
+[2021.04.26-02.07.51:778][293]LogShaderCompilers: Display: Shaders left to compile 0
