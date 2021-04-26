@@ -2912,3 +2912,5 @@ SpotLight3
 [2021.04.26-02.08.07:037][293]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
 [2021.04.26-02.08.07:042][293]LogD3D11RHI: Shutdown
 [2021.04.26-02.08.07:042][293]LogD3D11RHI: CleanupD3DDevice
+[2021.04.26-02.08.07:358][293]LogExit: Exiting.
+[2021.04.26-02.08.07:414][293]Log file closed, 04/25/21 22:08:07
