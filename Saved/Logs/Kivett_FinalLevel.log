@@ -1669,3 +1669,182 @@ Script Stack (0 frames):
 [2021.04.27-00.11.34:597][470]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.04.27-00.11.34:609][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
 [2021.04.27-00.11.34:612][470]LogEditorActor: Deleted 1 Actors (0.439 secs)
+[2021.04.27-00.12.59:284][588]LogContentBrowser: Deferred new asset file creation: NewWorld1
+[2021.04.27-00.12.59:298][588]LogContentBrowser: Creating deferred item: NewWorld1
+[2021.04.27-00.13.05:383][303]LogContentBrowser: Attempting asset rename: NewWorld1 -> CityBuild
+[2021.04.27-00.13.05:445][303]LogContentBrowser: End creating deferred item NewWorld1
+[2021.04.27-00.13.08:108][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.27-00.13.09:460][602]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-00.13.09:524][602]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-00.13.09:525][602]Cmd: MAP LOAD FILE="../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-00.13.09:525][602]LightingResults: New page: Lighting Build
+[2021.04.27-00.13.09:525][602]LoadErrors: New page: Loading map: CityBuild.umap
+[2021.04.27-00.13.09:526][602]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_GBox, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-00.13.09:527][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-00.13.09:527][602]MapCheck: New page: Map Check
+[2021.04.27-00.13.09:527][602]LightingResults: New page: Lighting Build
+[2021.04.27-00.13.09:539][602]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-00.13.09:632][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.04.27-00.13.09:668][602]LogAudio: Display: Audio Device (ID: 1) registered with world 'CityBuild'.
+[2021.04.27-00.13.09:761][602]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-00.13.09:761][602]LogAIModule: Creating AISystem for world CityBuild
+[2021.04.27-00.13.09:770][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.04.27-00.13.09:787][602]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-00.13.09:788][602]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.24ms to complete.
+[2021.04.27-00.13.09:788][602]LogFileHelpers: Loading map 'CityBuild' took 0.263
+[2021.04.27-00.13.15:315][ 21]LogSlate: Window 'New Level' being destroyed
+[2021.04.27-00.13.17:311][ 21]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-00.13.17:344][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.27-00.13.17:350][ 21]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuildAFC3CAE2446FDA31DD672AA7F5951A6F.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap'
+[2021.04.27-00.13.17:356][ 21]LogFileHelpers: Saving map 'CityBuild' took 0.017
+[2021.04.27-00.13.17:361][ 21]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-00.13.17:618][ 21]LightingResults: New page: Lighting Build
+[2021.04.27-00.13.17:618][ 21]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.04.27-00.13.17:649][ 21]LogWorld: UWorld::CleanupWorld for CityBuild, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-00.13.17:649][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-00.13.17:649][ 21]MapCheck: New page: Map Check
+[2021.04.27-00.13.17:649][ 21]LightingResults: New page: Lighting Build
+[2021.04.27-00.13.17:657][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-00.13.17:659][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.27-00.13.18:991][ 21]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.04.27-00.13.19:011][ 21]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2021.04.27-00.13.19:013][ 21]LogAIModule: Creating AISystem for world Untitled_2
+[2021.04.27-00.13.19:552][ 21]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-00.13.19:569][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.04.27-00.13.19:575][ 21]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-00.13.19:575][ 21]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.276ms to complete.
+[2021.04.27-00.13.19:576][ 21]LogFileHelpers: Loading map 'Template_Default' took 2.214
+[2021.04.27-00.13.19:581][ 21]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-00.13.19:581][ 21]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-00.13.22:613][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.27-00.13.22:639][287]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuild157A71944A139642278095AF79D18C3C.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap'
+[2021.04.27-00.13.22:642][287]LogFileHelpers: Saving map 'CityBuild' took 0.061
+[2021.04.27-00.13.22:651][287]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-00.13.22:651][287]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-00.13.23:512][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.27-00.13.23:515][385]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuildE2F6F86C447B5441E08B2F9D5E778D87.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap'
+[2021.04.27-00.13.23:517][385]LogFileHelpers: Saving map 'CityBuild' took 0.012
+[2021.04.27-00.13.23:525][385]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-00.13.23:525][385]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-00.13.24:860][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.27-00.13.24:900][542]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuild20DE725B4D2C46C2791E0D9E299B95CE.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap'
+[2021.04.27-00.13.24:902][542]LogFileHelpers: Saving map 'CityBuild' took 0.048
+[2021.04.27-00.13.24:936][542]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-00.13.24:936][542]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-00.13.26:578][732]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-00.13.27:236][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.27-00.13.32:529][299]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-00.13.34:944][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.27-00.13.36:490][536]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-00.13.39:947][536]LogSlate: Window 'Save Level As' being destroyed
+[2021.04.27-00.13.41:807][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.27-00.13.43:096][742]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-00.13.44:747][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.27-00.13.44:751][933]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuildE2EDE2E345A1C7780D079DBE862690C9.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap'
+[2021.04.27-00.13.44:753][933]LogFileHelpers: Saving map 'CityBuild' took 0.012
+[2021.04.27-00.13.44:761][933]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-00.13.44:761][933]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-00.13.45:230][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.27-00.13.45:234][984]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuild83E76AF54255E0CAB72A47A568867741.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap'
+[2021.04.27-00.13.45:236][984]LogFileHelpers: Saving map 'CityBuild' took 0.011
+[2021.04.27-00.13.45:244][984]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-00.13.45:244][984]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-00.13.45:564][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.27-00.13.45:567][ 17]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuild6E8AF0434B6AAE1E3A6927A5B4DE52CC.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap'
+[2021.04.27-00.13.45:569][ 17]LogFileHelpers: Saving map 'CityBuild' took 0.011
+[2021.04.27-00.13.45:604][ 17]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-00.13.45:604][ 17]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-00.13.49:317][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.04.27-00.13.50:808][425]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-00.13.54:240][425]LogSlate: Window 'Message' being destroyed
+[2021.04.27-00.13.54:244][425]Message dialog closed, result: Yes, title: Message, text: CityBuild already exists. Do you want to replace it?
+[2021.04.27-00.13.54:244][425]LogSlate: Window 'Save Level As' being destroyed
+[2021.04.27-00.13.54:259][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.27-00.13.54:265][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.04.27-00.13.54:290][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.27-00.13.54:352][425]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuildD2847B9A4032ECCC7EA979A6AA1521BD.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap'
+[2021.04.27-00.13.54:358][425]LogFileHelpers: Saving map 'CityBuild' took 0.093
+[2021.04.27-00.13.54:366][425]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-00.13.54:366][425]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-00.13.56:082][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-00.13.57:243][616]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-00.13.57:383][616]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuild_BuiltDataCE0588D644B38706E2552FBDF1D41C05.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild_BuiltData.uasset'
+[2021.04.27-00.13.57:413][616]AssetCheck: New page: Asset Save: CityBuild_BuiltData
+[2021.04.27-00.13.57:414][616]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Kivett_FinalMap/CityBuild_BuiltData.CityBuild_BuiltData
+[2021.04.27-00.14.00:254][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.27-00.14.01:268][925]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-00.14.01:268][925]Cmd: MAP LOAD FILE="../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-00.14.01:268][925]LightingResults: New page: Lighting Build
+[2021.04.27-00.14.01:268][925]LoadErrors: New page: Loading map: Kivett_FinalMap_GBox.umap
+[2021.04.27-00.14.01:269][925]LogWorld: UWorld::CleanupWorld for CityBuild, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-00.14.01:269][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-00.14.01:269][925]MapCheck: New page: Map Check
+[2021.04.27-00.14.01:269][925]LightingResults: New page: Lighting Build
+[2021.04.27-00.14.01:283][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-00.14.01:308][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.27-00.14.01:309][925]LogAudio: Display: Audio Device (ID: 1) registered with world 'Kivett_FinalMap_GBox'.
+[2021.04.27-00.14.02:022][925]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-00.14.02:022][925]LogAIModule: Creating AISystem for world Kivett_FinalMap_GBox
+[2021.04.27-00.14.02:068][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.27-00.14.02:098][925]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-00.14.02:098][925]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.245ms to complete.
+[2021.04.27-00.14.02:098][925]LogFileHelpers: Loading map 'Kivett_FinalMap_GBox' took 0.830
+[2021.04.27-00.14.22:057][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.27-00.14.23:031][177]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-00.14.23:073][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.04.27-00.14.26:695][177]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox9E0F752044FE55E40193B694F2822F91.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-00.14.26:705][177]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 3.641
+[2021.04.27-00.14.26:719][177]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-00.14.26:719][177]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-00.14.31:237][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.27-00.14.31:405][679]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-00.14.31:405][679]Cmd: MAP LOAD FILE="../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-00.14.31:405][679]LightingResults: New page: Lighting Build
+[2021.04.27-00.14.31:405][679]LoadErrors: New page: Loading map: CityBuild.umap
+[2021.04.27-00.14.31:464][679]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_GBox, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-00.14.31:464][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-00.14.31:465][679]MapCheck: New page: Map Check
+[2021.04.27-00.14.31:465][679]LightingResults: New page: Lighting Build
+[2021.04.27-00.14.31:474][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-00.14.31:495][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.04.27-00.14.31:497][679]LogAudio: Display: Audio Device (ID: 1) registered with world 'CityBuild'.
+[2021.04.27-00.14.31:677][679]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-00.14.31:677][679]LogAIModule: Creating AISystem for world CityBuild
+[2021.04.27-00.14.31:688][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.27-00.14.31:709][679]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-00.14.31:709][679]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2021.04.27-00.14.31:709][679]LogFileHelpers: Loading map 'CityBuild' took 0.304
+[2021.04.27-00.14.42:354][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Building_F_Bricks_A': Can't find file.
+[2021.04.27-00.14.42:355][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Building_F_Bricks_A': Can't find file.
+[2021.04.27-00.14.42:355][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Building_Wood_Brick_Trim': Can't find file.
+[2021.04.27-00.14.42:356][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Building_Wood_Brick_Trim': Can't find file.
+[2021.04.27-00.14.42:356][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Glass/MI_Glass_Building_A': Can't find file.
+[2021.04.27-00.14.42:357][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Glass/MI_Glass_Building_A': Can't find file.
+[2021.04.27-00.14.42:357][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Building_F_Bricks_A': Can't find file.
+[2021.04.27-00.14.42:357][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Building_Wood_Brick_Trim': Can't find file.
+[2021.04.27-00.14.42:358][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Glass/MI_Glass_Building_A': Can't find file.
+[2021.04.27-00.14.42:359][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Building_Wood_Brick_Trim': Can't find file.
+[2021.04.27-00.14.42:359][891]LoadErrors: Failed to load /Game/Downtown_West/Materials/Buildings_Shared/MI_Building_Wood_Brick_Trim.MI_Building_Wood_Brick_Trim Referenced by SM_build_f_mod_lvl2_window_a
+[2021.04.27-00.14.42:359][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Building_F_Bricks_A': Can't find file.
+[2021.04.27-00.14.42:359][891]LoadErrors: Failed to load /Game/Downtown_West/Materials/Buildings_Shared/MI_Building_F_Bricks_A.MI_Building_F_Bricks_A Referenced by SM_build_f_mod_lvl2_window_a
+[2021.04.27-00.14.42:360][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Glass/MI_Glass_Building_A': Can't find file.
+[2021.04.27-00.14.42:360][891]LoadErrors: Failed to load /Game/Downtown_West/Materials/Glass/MI_Glass_Building_A.MI_Glass_Building_A Referenced by SM_build_f_mod_lvl2_window_a
+[2021.04.27-00.14.42:360][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Building_Wood_Brick_Trim': Can't find file.
+[2021.04.27-00.14.42:361][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Building_F_Bricks_A': Can't find file.
+[2021.04.27-00.14.42:361][891]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\building_f\SM_build_f_mod_lvl2_window_a.uasset: Failed to load '/Game/Downtown_West/Materials/Glass/MI_Glass_Building_A': Can't find file.
+[2021.04.27-00.14.42:504][891]LogActorFactory: Actor Factory created SM_build_f_mod_lvl2_window_a
+[2021.04.27-00.14.43:079][953]LogActorFactory: Actor Factory created SM_build_f_mod_lvl2_window_a
+[2021.04.27-00.14.47:277][391]LogActorFactory: Actor Factory created SM_build_f_mod_lvl2_window_b
+[2021.04.27-00.14.47:952][448]LogActorFactory: Actor Factory created SM_build_f_mod_lvl2_window_b
+[2021.04.27-00.14.49:467][594]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-00.14.55:609][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_build_f_mod_lvl2_window_a)
+[2021.04.27-00.14.56:183][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_build_f_mod_lvl2_window_b)
+[2021.04.27-00.15.04:286][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.04.27-00.15.06:488][143]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.27-00.15.06:555][143]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Kivett_FinalMap/ImportedAssets/Downtown_West/Assets/building_f/SM_build_f_mod_lvl2_window_b.SM_build_f_mod_lvl2_window_b
+	Asset Name: /Game/Kivett_FinalMap/ImportedAssets/Downtown_West/Assets/building_f/SM_build_f_mod_lvl2_window_a.SM_build_f_mod_lvl2_window_a
+[2021.04.27-00.15.22:967][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.27-00.15.23:795][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.27-00.15.23:800][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.27-00.15.23:804][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
