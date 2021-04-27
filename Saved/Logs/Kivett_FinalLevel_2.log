@@ -1201,3 +1201,1030 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.27-23.06.10:870][184]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.859
 [2021.04.27-23.06.10:897][184]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
 [2021.04.27-23.06.10:897][184]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.07.12:513][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-23.07.14:089][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-23.07.16:759][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x8)
+[2021.04.27-23.07.28:873][567]Cmd: DELETE
+[2021.04.27-23.07.28:921][567]Cmd: ACTOR DELETE
+[2021.04.27-23.07.29:847][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:849][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:850][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:851][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:852][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:853][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:854][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:855][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:856][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:857][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:858][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:859][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:860][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:861][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:862][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:863][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:864][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:865][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:866][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:867][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:868][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:869][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:870][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:871][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:872][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:873][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:874][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:875][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:876][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:877][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:878][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:878][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:880][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:881][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:882][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:883][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:884][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:885][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:887][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:888][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:889][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:890][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:891][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:892][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:894][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:895][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:896][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:897][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:898][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:900][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:902][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:904][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:906][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:908][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:909][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:910][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:910][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:911][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:912][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:913][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:913][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:914][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:915][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:916][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:916][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:917][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:918][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:919][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:920][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:920][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:921][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:922][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:922][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:923][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:924][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:924][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:925][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:926][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:926][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:927][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:928][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:928][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:929][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:930][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:930][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:931][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:931][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:932][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:933][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:933][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:934][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:934][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:935][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:936][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:936][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:937][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:937][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:938][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:938][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:939][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:939][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:940][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:941][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:941][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:942][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:942][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:943][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:943][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:944][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:944][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:945][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:945][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:946][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:946][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:947][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:947][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:947][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:948][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:948][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:949][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:949][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:950][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:950][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:951][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:951][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:951][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:952][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:952][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:953][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:953][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:953][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:954][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:954][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:954][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:955][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:955][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:956][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:956][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:956][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:957][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:957][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:957][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:958][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:958][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:958][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:959][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:959][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:959][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:959][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:960][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:960][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:960][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:961][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:961][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:961][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:961][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:962][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:962][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:962][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:962][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:963][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:963][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:963][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:963][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:963][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:964][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:964][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:964][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:964][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:964][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:965][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:965][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:965][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:965][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:965][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:965][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:966][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:966][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:966][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:966][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:966][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:966][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:966][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:966][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:966][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:967][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:968][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.07.29:975][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.27-23.07.29:977][567]LogEditorActor: Deleted 187 Actors (0.301 secs)
+[2021.04.27-23.07.30:936][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_2x2)
+[2021.04.27-23.07.32:165][721]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m6)
+[2021.04.27-23.07.32:779][751]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m5)
+[2021.04.27-23.07.33:686][796]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m4)
+[2021.04.27-23.08.21:489][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_building_a_awning_5m13)
+[2021.04.27-23.08.22:708][523]Cmd: DELETE
+[2021.04.27-23.08.22:708][523]Cmd: ACTOR DELETE
+[2021.04.27-23.08.22:747][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.08.22:755][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.04.27-23.08.22:757][523]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.04.27-23.08.23:219][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_building_a_awning_5m14)
+[2021.04.27-23.08.23:463][568]Cmd: DELETE
+[2021.04.27-23.08.23:463][568]Cmd: ACTOR DELETE
+[2021.04.27-23.08.23:503][568]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.08.23:510][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.08.23:511][568]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.04.27-23.08.24:762][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_building_a_awning_5m15)
+[2021.04.27-23.08.27:143][824]Cmd: DELETE
+[2021.04.27-23.08.27:143][824]Cmd: ACTOR DELETE
+[2021.04.27-23.08.27:186][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.08.27:194][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-23.08.27:195][824]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.04.27-23.08.52:275][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x55)
+[2021.04.27-23.08.58:343][985]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.09.01:990][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wndw_c_r_2x14)
+[2021.04.27-23.09.04:412][288]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_l_2x20)
+[2021.04.27-23.09.05:313][321]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.09.08:655][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-23.09.09:552][487]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-23.09.09:580][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.09.10:423][487]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox132851ED40C5DBD150058EAD0D176A8D.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.umap'
+[2021.04.27-23.09.10:457][487]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.887
+[2021.04.27-23.09.10:482][487]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-23.09.10:482][487]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.09.18:899][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.04.27-23.09.41:292][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_clmn_dvdr_1x208)
+[2021.04.27-23.09.43:240][540]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m7)
+[2021.04.27-23.09.43:809][563]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m8)
+[2021.04.27-23.09.44:284][586]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m9)
+[2021.04.27-23.10.10:823][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_building_a_awning_5m13)
+[2021.04.27-23.10.12:202][514]Cmd: DELETE
+[2021.04.27-23.10.12:202][514]Cmd: ACTOR DELETE
+[2021.04.27-23.10.12:245][514]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.10.12:252][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.04.27-23.10.12:254][514]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.04.27-23.10.26:142][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_2x25)
+[2021.04.27-23.10.27:821][512]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m14)
+[2021.04.27-23.10.28:391][536]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m15)
+[2021.04.27-23.10.34:172][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_building_a_awning_5m14)
+[2021.04.27-23.10.35:907][808]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m15)
+[2021.04.27-23.10.36:393][836]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m14)
+[2021.04.27-23.11.33:854][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_building_a_awning_5m14)
+[2021.04.27-23.11.44:560][ 18]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m14)
+[2021.04.27-23.11.45:051][ 44]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_building_a_awning_5m15)
+[2021.04.27-23.11.59:061][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.04.27-23.11.59:927][742]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-23.11.59:965][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.12.00:880][742]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxF359FF8B491514EA9249F0B213625DC6.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.umap'
+[2021.04.27-23.12.00:899][742]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.943
+[2021.04.27-23.12.00:928][742]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-23.12.00:928][742]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.12.05:492][974]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.12.12:128][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.04.27-23.12.13:448][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.27-23.12.13:617][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-23.12.13:768][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-23.12.13:936][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.27-23.12.14:088][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-23.12.14:256][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-23.12.19:017][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-23.12.19:204][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-23.12.22:517][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.12.22:677][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-23.12.23:051][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-23.12.23:194][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-23.12.23:366][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-23.12.43:395][693]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.27-23.12.43:415][693]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.27-23.12.47:785][ 60]LogContentBrowser: Attempting asset rename: NewFolder -> BluePrints
+[2021.04.27-23.12.47:786][ 60]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.27-23.12.58:599][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.04.27-23.13.15:167][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-23.13.15:897][217]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kivett_FinalMap/Built_Levels/CityBuildComponents.CityBuildComponents
+[2021.04.27-23.13.15:897][217]LightingResults: New page: Lighting Build
+[2021.04.27-23.13.15:897][217]LoadErrors: New page: Loading map: CityBuildComponents.umap
+[2021.04.27-23.13.15:913][217]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_GBox, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-23.13.15:913][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-23.13.15:914][217]MapCheck: New page: Map Check
+[2021.04.27-23.13.15:914][217]LightingResults: New page: Lighting Build
+[2021.04.27-23.13.15:927][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-23.13.15:953][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.04.27-23.13.15:965][217]LogAudio: Display: Audio Device (ID: 1) registered with world 'CityBuildComponents'.
+[2021.04.27-23.13.16:910][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-23.13.16:910][217]LogAIModule: Creating AISystem for world CityBuildComponents
+[2021.04.27-23.13.16:964][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.04.27-23.13.16:969][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-23.13.16:969][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2021.04.27-23.13.16:969][217]LogFileHelpers: Loading map 'CityBuildComponents' took 1.071
+[2021.04.27-23.13.19:572][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.04.27-23.13.19:651][495]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kivett_FinalMap/Built_Levels/CityBuild.CityBuild
+[2021.04.27-23.13.19:651][495]Cmd: MAP LOAD FILE="../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Built_Levels/CityBuild.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-23.13.19:651][495]LightingResults: New page: Lighting Build
+[2021.04.27-23.13.19:651][495]LoadErrors: New page: Loading map: CityBuild.umap
+[2021.04.27-23.13.19:653][495]LogWorld: UWorld::CleanupWorld for CityBuildComponents, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-23.13.19:654][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-23.13.19:654][495]MapCheck: New page: Map Check
+[2021.04.27-23.13.19:654][495]LightingResults: New page: Lighting Build
+[2021.04.27-23.13.19:663][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-23.13.19:668][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.04.27-23.13.19:672][495]LogAudio: Display: Audio Device (ID: 1) registered with world 'CityBuild'.
+[2021.04.27-23.13.19:797][495]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-23.13.19:797][495]LogAIModule: Creating AISystem for world CityBuild
+[2021.04.27-23.13.19:812][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.04.27-23.13.19:818][495]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-23.13.19:819][495]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.273ms to complete.
+[2021.04.27-23.13.19:819][495]LogFileHelpers: Loading map 'CityBuild' took 0.168
+[2021.04.27-23.13.27:946][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_5x1_a)
+[2021.04.27-23.13.37:028][113]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-23.13.37:659][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_5x1_a2)
+[2021.04.27-23.13.38:730][187]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (mid_brick_wndw_l_2x5)
+[2021.04.27-23.13.58:416][ 85]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-23.13.59:689][153]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wndw_d_3x3)
+[2021.04.27-23.14.00:292][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_5x1_a2)
+[2021.04.27-23.14.06:854][523]LogStaticMesh: Warning: Mesh store_front_door_b_right is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_b_right.store_front_door_b_right.
+[2021.04.27-23.14.07:040][529]LogActorFactory: Actor Factory created store_front_door_b_right
+[2021.04.27-23.14.07:845][589]LogActorFactory: Actor Factory created store_front_door_b_right
+[2021.04.27-23.14.10:640][854]LogStaticMesh: Warning: Mesh store_front_door_b_left is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_b_left.store_front_door_b_left.
+[2021.04.27-23.14.10:703][855]LogActorFactory: Actor Factory created store_front_door_b_left
+[2021.04.27-23.14.11:327][900]LogActorFactory: Actor Factory created store_front_door_b_left
+[2021.04.27-23.14.15:303][285]LogStaticMesh: Warning: Mesh store_front_door_a_right is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_a_right.store_front_door_a_right.
+[2021.04.27-23.14.15:372][285]LogActorFactory: Actor Factory created store_front_door_a_right
+[2021.04.27-23.14.16:103][351]LogActorFactory: Actor Factory created store_front_door_a_right
+[2021.04.27-23.14.18:953][663]Cmd: DELETE
+[2021.04.27-23.14.18:953][663]Cmd: ACTOR DELETE
+[2021.04.27-23.14.18:965][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.14.18:971][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.04.27-23.14.18:975][663]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.04.27-23.14.19:631][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.27-23.14.20:476][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.27-23.14.21:295][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.27-23.14.23:122][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.27-23.14.24:124][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_b_right)
+[2021.04.27-23.14.24:259][185]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.04.27-23.14.25:196][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_b_left)
+[2021.04.27-23.14.37:326][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.27-23.14.38:056][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.27-23.14.44:299][248]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-23.14.46:587][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_5x1_a2)
+[2021.04.27-23.14.48:355][620]Cmd: DELETE
+[2021.04.27-23.14.48:355][620]Cmd: ACTOR DELETE
+[2021.04.27-23.14.48:375][620]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.14.48:380][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.04.27-23.14.48:382][620]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.04.27-23.14.55:627][186]LogActorFactory: Actor Factory created store_front_door_4x1_a
+[2021.04.27-23.14.56:687][290]LogActorFactory: Actor Factory created store_front_door_4x1_a
+[2021.04.27-23.14.57:535][371]Cmd: DELETE
+[2021.04.27-23.14.57:535][371]Cmd: ACTOR DELETE
+[2021.04.27-23.14.57:547][371]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.14.57:552][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.04.27-23.14.57:554][371]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.04.27-23.14.58:295][408]LogActorFactory: Actor Factory created store_front_door_4x1_b
+[2021.04.27-23.15.02:478][886]LogActorFactory: Actor Factory created store_front_door_4x1_b
+[2021.04.27-23.15.02:570][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_4x1_b3)
+[2021.04.27-23.15.03:569][994]Cmd: DELETE
+[2021.04.27-23.15.03:569][994]Cmd: ACTOR DELETE
+[2021.04.27-23.15.03:581][994]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.15.03:586][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.27-23.15.03:588][994]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.04.27-23.15.09:510][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.27-23.15.10:333][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_b_right)
+[2021.04.27-23.15.25:177][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_l_2x6)
+[2021.04.27-23.15.27:048][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wndw_d_2x3)
+[2021.04.27-23.15.31:282][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x20)
+[2021.04.27-23.15.33:038][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x23)
+[2021.04.27-23.15.34:162][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x22)
+[2021.04.27-23.15.35:318][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x21)
+[2021.04.27-23.15.36:031][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x25)
+[2021.04.27-23.15.37:227][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x21)
+[2021.04.27-23.16.15:832][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x27)
+[2021.04.27-23.16.21:596][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x28)
+[2021.04.27-23.16.38:861][401]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-23.16.46:444][999]Cmd: TRANSACTION UNDO
+[2021.04.27-23.16.46:444][999]LogEditorTransaction: Undo Create Actors
+[2021.04.27-23.17.12:194][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.27-23.17.14:191][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x29)
+[2021.04.27-23.17.18:856][338]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-23.17.33:908][657]LogActorFactory: Actor Factory created SM_building_a_awning_5m
+[2021.04.27-23.17.35:809][823]LogActorFactory: Actor Factory created SM_building_a_awning_5m
+[2021.04.27-23.17.37:537][  9]Cmd: DELETE
+[2021.04.27-23.17.37:537][  9]Cmd: ACTOR DELETE
+[2021.04.27-23.17.37:549][  9]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.17.37:555][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.04.27-23.17.37:557][  9]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.04.27-23.17.41:920][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x27)
+[2021.04.27-23.17.42:481][555]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x29)
+[2021.04.27-23.17.42:894][593]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x28)
+[2021.04.27-23.17.43:543][656]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2021.04.27-23.17.44:516][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x27)
+[2021.04.27-23.17.44:868][787]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_3x27)
+[2021.04.27-23.17.49:097][109]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x28)
+[2021.04.27-23.17.50:215][195]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (store_front_door_b_right)
+[2021.04.27-23.17.51:108][263]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (store_front_door_b_left)
+[2021.04.27-23.17.51:672][305]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_3x29)
+[2021.04.27-23.17.53:622][412]LogToolMenus: Error: UI command not found for menu entry: GroupActors, menu: LevelEditor.ActorContextMenu.GroupMenu
+[2021.04.27-23.17.57:674][687]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_3x27)
+[2021.04.27-23.18.01:163][909]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_3x27)
+[2021.04.27-23.18.04:626][117]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_3x27)
+[2021.04.27-23.18.07:152][271]Cmd: EDIT COPY
+[2021.04.27-23.18.12:137][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.27-23.18.13:799][649]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-23.18.13:856][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-23.18.14:083][649]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuild9618718642FEB71314C22CB7F7B22B8F.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Built_Levels/CityBuild.umap'
+[2021.04.27-23.18.14:099][649]LogFileHelpers: Saving map 'CityBuild' took 0.251
+[2021.04.27-23.18.14:946][649]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.18.14:946][649]LightingResults: New page: Lighting Build
+[2021.04.27-23.18.14:946][649]LoadErrors: New page: Loading map: Kivett_FinalMap_GBox.umap
+[2021.04.27-23.18.14:955][649]LogWorld: UWorld::CleanupWorld for CityBuild, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-23.18.14:955][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-23.18.14:955][649]MapCheck: New page: Map Check
+[2021.04.27-23.18.14:955][649]LightingResults: New page: Lighting Build
+[2021.04.27-23.18.14:975][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-23.18.14:979][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.04.27-23.18.14:981][649]LogAudio: Display: Audio Device (ID: 1) registered with world 'Kivett_FinalMap_GBox'.
+[2021.04.27-23.18.15:342][649]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-23.18.15:343][649]LogAIModule: Creating AISystem for world Kivett_FinalMap_GBox
+[2021.04.27-23.18.15:382][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.04.27-23.18.15:386][649]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-23.18.15:387][649]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.37ms to complete.
+[2021.04.27-23.18.15:387][649]LogFileHelpers: Loading map 'Kivett_FinalMap_GBox' took 0.441
+[2021.04.27-23.18.15:399][649]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-23.18.15:399][649]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Built_Levels/CityBuild.CityBuild
+[2021.04.27-23.18.25:851][496]Cmd: DELETE
+[2021.04.27-23.18.25:851][496]Cmd: ACTOR DELETE
+[2021.04.27-23.18.25:900][496]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-23.18.25:936][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.04.27-23.18.26:909][496]LogEditorActor: Deleted 1 Actors (1.057 secs)
+[2021.04.27-23.18.28:358][629]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_2x8)
+[2021.04.27-23.18.32:735][867]Cmd: EDIT PASTE
+[2021.04.27-23.19.23:220][664]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.19.40:649][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rubble_trash_pile_a19)
+[2021.04.27-23.19.47:684][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_building_a_awning_5m6)
+[2021.04.27-23.20.06:844][260]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2021.04.27-23.20.22:457][281]LogEditorViewport: Clicking on Actor (LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b)
+[2021.04.27-23.20.23:326][334]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lamps_light_sign_b3)
+[2021.04.27-23.20.23:995][376]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lamps_light_sign_b4)
+[2021.04.27-23.20.25:178][446]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lamps_light_sign_b5)
+[2021.04.27-23.20.40:792][489]Cmd: TRANSACTION UNDO
+[2021.04.27-23.20.40:792][489]LogEditorTransaction: Undo Move Actors
+[2021.04.27-23.20.42:468][567]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lamps_light_sign_b2)
+[2021.04.27-23.21.06:389][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_building_a_awning_5m13)
+[2021.04.27-23.21.12:817][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_l_3x12)
+[2021.04.27-23.21.17:534][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_building_a_awning_5m13)
+[2021.04.27-23.21.27:120][367]Cmd: DELETE
+[2021.04.27-23.21.27:120][367]Cmd: ACTOR DELETE
+[2021.04.27-23.21.27:167][367]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.21.27:182][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.04.27-23.21.27:184][367]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2021.04.27-23.21.31:666][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b)
+[2021.04.27-23.21.37:629][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b)
+[2021.04.27-23.21.41:744][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b2)
+[2021.04.27-23.21.45:894][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b5)
+[2021.04.27-23.21.48:241][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b4)
+[2021.04.27-23.21.51:079][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b3)
+[2021.04.27-23.21.54:924][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b2)
+[2021.04.27-23.21.56:574][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_3x30)
+[2021.04.27-23.21.59:351][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.04.27-23.22.00:347][347]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-23.22.00:380][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-23.22.01:365][347]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox02CD338043B9DA811D25F7BE2DD097FE.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.umap'
+[2021.04.27-23.22.01:384][347]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 1.013
+[2021.04.27-23.22.01:411][347]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-23.22.01:411][347]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.22.04:646][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.04.27-23.22.04:791][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-23.22.04:953][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-23.24.40:688][289]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.24.45:539][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b6)
+[2021.04.27-23.25.56:679][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.04.27-23.25.57:534][398]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-23.25.57:562][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.25.58:546][398]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxC0AA1AA2491369777BF4A7A10699F72B.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.umap'
+[2021.04.27-23.25.58:560][398]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 1.006
+[2021.04.27-23.25.58:580][398]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-23.25.58:580][398]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.26.09:338][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x67)
+[2021.04.27-23.26.10:573][168]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_3x67)
+[2021.04.27-23.26.14:189][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_b_left)
+[2021.04.27-23.26.14:855][409]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (store_front_door_b_right)
+[2021.04.27-23.26.20:293][786]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x68)
+[2021.04.27-23.26.21:437][864]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_3x67)
+[2021.04.27-23.26.33:419][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.27-23.26.34:328][538]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-23.26.34:365][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.26.35:290][538]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxEB5BFAD14536A1E6D709CE97C5D330B2.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.umap'
+[2021.04.27-23.26.35:299][538]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.943
+[2021.04.27-23.26.35:314][538]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-23.26.35:314][538]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.26.54:982][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-23.27.29:349][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-23.27.29:510][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-23.27.41:542][763]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2021.04.27-23.28.11:142][541]LogActorFactory: Actor Factory created store_front_door_4x1_a
+[2021.04.27-23.28.12:270][623]LogActorFactory: Actor Factory created store_front_door_4x1_a
+[2021.04.27-23.28.23:779][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_4x1_a)
+[2021.04.27-23.28.25:092][758]Cmd: DELETE
+[2021.04.27-23.28.25:092][758]Cmd: ACTOR DELETE
+[2021.04.27-23.28.25:139][758]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.28.25:146][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.04.27-23.28.25:149][758]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2021.04.27-23.28.27:508][893]LogActorFactory: Actor Factory created store_front_door_4x1_b
+[2021.04.27-23.28.28:247][947]LogActorFactory: Actor Factory created store_front_door_4x1_b
+[2021.04.27-23.28.44:040][439]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.04.27-23.28.45:289][558]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.27-23.28.46:962][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_4x1_b9)
+[2021.04.27-23.29.22:355][909]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.29.32:546][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b16)
+[2021.04.27-23.29.33:493][926]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lamps_light_sign_b15)
+[2021.04.27-23.29.34:185][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lamps_light_sign_b14)
+[2021.04.27-23.30.03:307][438]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_2x2
+[2021.04.27-23.30.04:426][512]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_2x2
+[2021.04.27-23.30.07:389][774]Cmd: DELETE
+[2021.04.27-23.30.07:389][774]Cmd: ACTOR DELETE
+[2021.04.27-23.30.07:438][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.30.07:448][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.04.27-23.30.07:450][774]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.04.27-23.30.08:399][835]LogActorFactory: Actor Factory created mid_brick_wndw_r_2x2
+[2021.04.27-23.30.09:357][919]LogActorFactory: Actor Factory created mid_brick_wndw_r_2x2
+[2021.04.27-23.30.10:470][ 25]Cmd: DELETE
+[2021.04.27-23.30.10:471][ 25]Cmd: ACTOR DELETE
+[2021.04.27-23.30.10:515][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-23.30.10:523][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.04.27-23.30.10:524][ 25]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.04.27-23.30.11:756][114]LogActorFactory: Actor Factory created mid_brick_wndw_l_2x2
+[2021.04.27-23.30.12:369][171]LogActorFactory: Actor Factory created mid_brick_wndw_l_2x2
+[2021.04.27-23.30.23:422][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_l_2x2)
+[2021.04.27-23.30.27:333][494]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.30.37:184][232]LogActorFactory: Actor Factory created upper_brick_wall_a_l_3x2
+[2021.04.27-23.30.38:038][292]LogActorFactory: Actor Factory created upper_brick_wall_a_l_3x2
+[2021.04.27-23.31.14:570][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_l_2x9)
+[2021.04.27-23.31.15:186][374]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_l_2x2)
+[2021.04.27-23.31.57:549][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.31.59:829][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b15)
+[2021.04.27-23.32.00:830][247]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lamps_light_sign_b14)
+[2021.04.27-23.32.02:224][377]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lamps_light_sign_b16)
+[2021.04.27-23.32.29:062][725]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2021.04.27-23.32.32:339][ 20]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.32.37:466][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_4x1_b9)
+[2021.04.27-23.32.51:199][512]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.32.52:908][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.04.27-23.32.53:751][629]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-23.32.53:796][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.27-23.32.54:753][629]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox884459664D71069B3E41B9AB27EE8301.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.umap'
+[2021.04.27-23.32.54:766][629]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.978
+[2021.04.27-23.32.54:790][629]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-23.32.54:790][629]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.33.11:021][675]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2021.04.27-23.33.13:582][923]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.33.15:225][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.04.27-23.33.16:330][ 42]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-23.33.16:366][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-23.33.17:413][ 42]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox7AE317484377344800A384BC0EA5F945.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.umap'
+[2021.04.27-23.33.17:423][ 42]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 1.066
+[2021.04.27-23.33.17:463][ 42]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-23.33.17:463][ 42]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.33.18:989][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-23.33.20:356][267]MapCheck: New page: Map Check
+[2021.04.27-23.33.20:407][267]Cmd: MAP REBUILD ALLVISIBLE
+[2021.04.27-23.33.20:408][267]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.04.27-23.33.20:767][267]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_GBox, bSessionEnded=true, bCleanupResources=false
+[2021.04.27-23.33.21:279][267]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.04.27-23.33.21:279][267]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.04.27-23.33.21:279][267]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.04.27-23.33.21:307][267]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.04.27-23.33.21:328][267]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.03s
+[2021.04.27-23.33.21:352][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.27-23.33.21:426][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.04.27-23.33.22:123][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:125][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:127][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 52
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 51
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 50
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 49
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 48
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 47
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 46
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 45
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 44
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 43
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 42
+[2021.04.27-23.33.22:131][267]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 41
+[2021.04.27-23.33.22:131][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:136][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:140][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:144][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:146][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:148][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:150][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:152][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:154][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:156][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:158][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:160][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:162][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:164][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:166][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:167][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:169][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.22:173][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-23.33.33:730][267]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 78
+[2021.04.27-23.33.33:730][267]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 77
+[2021.04.27-23.33.33:730][267]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 76
+[2021.04.27-23.33.33:730][267]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 75
+[2021.04.27-23.33.33:730][267]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 74
+[2021.04.27-23.33.33:730][267]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 73
+[2021.04.27-23.33.33:730][267]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 72
+[2021.04.27-23.33.33:730][267]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 71
+[2021.04.27-23.33.33:730][267]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 70
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 69
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 68
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 67
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 66
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 65
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 64
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 63
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 62
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 61
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 60
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 59
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 58
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 57
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 56
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 55
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 54
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 53
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 52
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 51
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 50
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 48
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 47
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 46
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 45
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 44
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 42
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 41
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 40
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 39
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 38
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 37
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 36
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 35
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 34
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 33
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 32
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 31
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 30
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 29
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 28
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 27
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 25
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 24
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 23
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 21
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 19
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 18
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 16
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2021.04.27-23.33.33:731][267]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.04.27-23.33.33:732][267]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.04.27-23.33.33:732][267]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.04.27-23.33.33:732][267]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.04.27-23.33.33:732][267]TextureStreamingBuild: Display: Compiling optional shaders took 12.330 seconds.
+[2021.04.27-23.33.33:898][267]LogLevel: Display: Export Material TexCoord Scales took 0.166 seconds.
+[2021.04.27-23.33.33:916][267]TextureStreamingBuild: Display: Build Texture Streaming took 0.018 seconds.
+[2021.04.27-23.33.33:933][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.33.34:023][267]LightingResults: New page: Lighting Build - Apr 27, 2021, 3:33:34 PM
+[2021.04.27-23.33.35:134][267]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.27-23.33.35:936][267]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.27-23.33.37:000][267]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.27-23.33.39:312][267]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.27-23.33.39:312][267]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8412
+[2021.04.27-23.33.55:655][267]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.04.27-23.33.55:670][267]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.27-23.33.55:670][267]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.27-23.33.55:670][267]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.27-23.33.55:670][267]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.27-23.33.55:670][267]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.27-23.33.56:643][267]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.04.27-23.33.56:643][267]MapCheck: New page: Kivett_FinalMap_GBox - Apr 27, 2021, 3:33:56 PM
+[2021.04.27-23.33.56:644][267]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.04.27-23.33.56:760][267]MapCheck: Warning: BP_lightpost_a3 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:760][267]MapCheck: Warning: BP_lightpost_a4 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:760][267]MapCheck: Warning: BP_lightpost_a5 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:760][267]MapCheck: Warning: BP_lightpost_a6 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:760][267]MapCheck: Warning: BP_lightpost_a7 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:760][267]MapCheck: Warning: BP_lightpost_a8 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:760][267]MapCheck: Warning: BP_lightpost_a9 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:760][267]MapCheck: Warning: BP_lightpost_a10 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:760][267]MapCheck: Warning: BP_lightpost_a11 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a12 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a13 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a14 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a15 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a16 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a17 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a18 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a19 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a20 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a21 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:761][267]MapCheck: Warning: BP_lightpost_a22 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:762][267]MapCheck: Warning: BP_lamps_light_sign_b_2 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:762][267]MapCheck: Warning: BP_lamps_light_sign_b2 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:762][267]MapCheck: Warning: BP_lamps_light_sign_b3 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:762][267]MapCheck: Warning: BP_lamps_light_sign_b4 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:762][267]MapCheck: Warning: BP_lamps_light_sign_b5 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:762][267]MapCheck: Warning: BP_lamps_light_sign_b6 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:763][267]MapCheck: Warning: BP_lamps_light_sign_b7 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:763][267]MapCheck: Warning: BP_lamps_light_sign_b8 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:763][267]MapCheck: Warning: BP_lamps_light_sign_b9 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:763][267]MapCheck: Warning: BP_lamps_light_sign_b10 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:763][267]MapCheck: Warning: BP_lamps_light_sign_b11 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:763][267]MapCheck: Warning: BP_lamps_light_sign_b12 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:763][267]MapCheck: Warning: BP_lamps_light_sign_b13 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:763][267]MapCheck: Warning: BP_lamps_light_sign_b14 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:763][267]MapCheck: Warning: BP_lamps_light_sign_b15 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:764][267]MapCheck: Warning: BP_lamps_light_sign_b16 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:764][267]MapCheck: Warning: BP_lamps_light_sign_b17 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:764][267]MapCheck: Warning: BP_lamps_light_sign_b18 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:769][267]MapCheck: Warning: BP_lamps_light_sign_b19 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:769][267]MapCheck: Warning: BP_lamps_light_sign_b20 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:769][267]MapCheck: Warning: BP_lamps_light_sign_b21 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:769][267]MapCheck: Warning: BP_lamps_light_sign_b22 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:769][267]MapCheck: Warning: BP_lamps_light_sign_b23 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.33.56:769][267]MapCheck: Map check complete: 1 Error(s), 43 Warning(s), took 125.32ms to complete.
+[2021.04.27-23.33.56:774][267]LogEditorBuildUtils: Build time 0:36
+[2021.04.27-23.33.57:210][267]LogSlate: Took 0.078217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.27-23.33.57:716][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.04.27-23.34.06:050][542]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.06:051][542]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.09:132][657]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.09:132][657]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.09:781][682]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.09:781][682]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.10:029][691]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.10:029][691]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.10:234][699]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.10:234][699]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.10:407][706]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.10:407][706]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.10:508][710]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.10:508][710]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.10:606][714]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.10:607][714]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.10:780][719]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.10:780][719]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.13:262][808]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.13:262][808]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.17:934][974]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.17:934][974]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.18:014][977]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.18:014][977]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.18:143][981]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.18:143][981]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.18:268][985]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.18:268][985]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.18:358][988]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.18:358][988]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.18:534][994]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.18:534][994]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.18:534][994]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.18:534][994]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.18:629][996]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.18:629][996]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.18:895][  3]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.18:895][  3]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.22:525][131]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.22:525][131]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.22:641][135]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.22:642][135]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.23:611][170]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.23:611][170]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.23:744][175]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.27-23.34.23:745][175]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-23.34.24:292][200]Job is a success!
+[2021.04.27-23.34.24:838][201]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.054s
+[2021.04.27-23.34.24:838][201]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.04.27-23.34.24:838][201]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 1.2Mb due to 0.010000 MinBrickError)
+[2021.04.27-23.34.24:838][201]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.27-23.34.24:838][201]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2021.04.27-23.34.24:838][201]LogVolumetricLightmapImport:          1: 90.0% covering 14.1% of volume
+[2021.04.27-23.34.24:838][201]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.04.27-23.34.24:838][201]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.27-23.34.24:838][201]LogVolumetricLightmapImport:          Kivett_FinalMap_GBox 			 10 bricks 	 100.0% (Persistent Level)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:030][201]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:031][201]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:031][201]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:031][201]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2021.04.27-23.34.28:031][201]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2021.04.27-23.34.28:031][201]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 64X64)
+[2021.04.27-23.34.28:031][201]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 64X64)
+[2021.04.27-23.34.28:937][201]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2021.04.27-23.34.28:937][201]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2021.04.27-23.34.38:094][201]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2021.04.27-23.34.38:095][201]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2021.04.27-23.34.38:095][201]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2021.04.27-23.34.38:095][201]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2021.04.27-23.34.38:095][201]Lightmass on DESKTOP-NR30UB4: 28.3 sec total, 1.78 sec importing, 286 ms setup, 2.76 sec photons, 23.2 sec processing, 0 ms extra exporting [1846/1846 mappings]. Threads: 5:48 min total, 3:48 min processing.
+[2021.04.27-23.34.38:124][201]LogStaticLightingSystem: Kivett_FinalMap_GBox_BuiltData storing lightmap data for 1767 meshes in 36 LightmapResourceClusters (49.1 Meshes per cluster).
+[2021.04.27-23.34.38:213][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.04.27-23.34.38:700][201]LogStaticLightingSystem: Illumination: 1:04 min (2.02 sec encoding lightmaps, 1.09 sec encoding shadowmaps)
+[2021.04.27-23.34.38:706][201]LogStaticLightingSystem: Lightmap texture memory:  30.0 MB (28.0 MB streaming, 2.0 MB non-streaming), 32 textures
+[2021.04.27-23.34.38:706][201]LogStaticLightingSystem: Shadowmap texture memory: 6.0 MB (5.3 MB streaming, 0.7 MB non-streaming), 6 textures
+[2021.04.27-23.34.39:710][201]DumpUnbuiltLightIteractions
+[2021.04.27-23.34.39:710][201]Lights with unbuilt interactions: 0
+[2021.04.27-23.34.39:710][201]
+[2021.04.27-23.34.39:710][201]Primitives with unbuilt interactions: 0
+[2021.04.27-23.34.39:910][202]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.27-23.34.39:910][202]MapCheck: New page: Kivett_FinalMap_GBox - Apr 27, 2021, 3:34:39 PM
+[2021.04.27-23.34.39:917][202]MapCheck: Warning: BP_lightpost_a3 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:917][202]MapCheck: Warning: BP_lightpost_a4 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:917][202]MapCheck: Warning: BP_lightpost_a5 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:917][202]MapCheck: Warning: BP_lightpost_a6 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:917][202]MapCheck: Warning: BP_lightpost_a7 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:917][202]MapCheck: Warning: BP_lightpost_a8 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:917][202]MapCheck: Warning: BP_lightpost_a9 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a10 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a11 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a12 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a13 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a14 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a15 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a16 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a17 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a18 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a19 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a20 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a21 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lightpost_a22 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lamps_light_sign_b_2 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lamps_light_sign_b2 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:918][202]MapCheck: Warning: BP_lamps_light_sign_b3 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b4 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b5 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b6 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b7 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b8 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b9 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b10 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b11 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b12 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b13 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b14 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b15 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b16 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b17 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:919][202]MapCheck: Warning: BP_lamps_light_sign_b18 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:922][202]MapCheck: Warning: BP_lamps_light_sign_b19 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:922][202]MapCheck: Warning: BP_lamps_light_sign_b20 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:922][202]MapCheck: Warning: BP_lamps_light_sign_b21 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:922][202]MapCheck: Warning: BP_lamps_light_sign_b22 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:922][202]MapCheck: Warning: BP_lamps_light_sign_b23 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-23.34.39:922][202]MapCheck: Map check complete: 0 Error(s), 43 Warning(s), took 12.345ms to complete.
+[2021.04.27-23.34.47:404][828]LogSlate: Window 'Message Log' being destroyed
+[2021.04.27-23.34.47:411][828]LogSlate: Window 'Message Log' being destroyed
+[2021.04.27-23.34.50:207][111]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-23.34.50:260][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-23.34.50:261][111]PIE: New page: PIE session: Kivett_FinalMap_GBox (Apr 27, 2021, 3:34:50 PM)
+[2021.04.27-23.34.50:261][111]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_GBox
+[2021.04.27-23.34.50:559][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.299053s)
+[2021.04.27-23.34.50:562][111]LogAIModule: Creating AISystem for world Kivett_FinalMap_GBox
+[2021.04.27-23.34.50:576][111]LogPlayLevel: PIE: World Init took: (0.016882s)
+[2021.04.27-23.34.50:577][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_GBox.Kivett_FinalMap_GBox (0.317090s)
+[2021.04.27-23.34.50:588][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.04.27-23.34.50:591][111]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.27-23.34.50:591][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-23.34.50:591][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-23.34.50:591][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-23.34.50:591][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-23.34.50:591][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-23.34.50:592][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-23.34.50:592][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-23.34.50:592][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-23.34.50:592][111]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-23.34.50:592][111]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-23.34.50:684][111]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-23.34.50:684][111]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-23.34.50:738][111]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.27-23.34.50:738][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-23.34.50:738][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-23.34.50:738][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-23.34.50:739][111]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-23.34.50:739][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-23.34.50:739][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-23.34.50:796][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-23.34.50:796][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-23.34.50:796][111]LogInit: FAudioDevice initialized.
+[2021.04.27-23.34.50:796][111]LogAudio: Display: Audio Device (ID: 3) registered with world 'Kivett_FinalMap_GBox'.
+[2021.04.27-23.34.50:887][111]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-23.34.50:967][111]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_GBox.Kivett_FinalMap_GBox up for play (max tick rate 0) at 2021.04.27-19.34.50
+[2021.04.27-23.34.50:970][111]LogWorld: Bringing up level for play took: 0.081489
+[2021.04.27-23.34.50:972][111]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.04.27-23.34.51:009][111]PIE: Server logged in
+[2021.04.27-23.34.51:011][111]PIE: Play in editor total start time 0.773 seconds.
+[2021.04.27-23.35.00:569][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-23.35.00:569][890]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_GBox
+[2021.04.27-23.35.00:572][890]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_GBox, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-23.35.00:589][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-23.35.00:607][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-23.35.00:623][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-23.35.00:634][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-23.35.00:634][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-23.35.00:635][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-23.35.00:676][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.04.27-23.35.00:761][891]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.04.27-23.35.02:297][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.27-23.35.03:135][972]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-23.35.03:176][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.04.27-23.35.04:185][972]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox27237E5246C4E79D3C9FEFADCA6EFE13.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.umap'
+[2021.04.27-23.35.04:194][972]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 1.026
+[2021.04.27-23.35.05:177][972]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox_BuiltData9AA937EF467979C08D0659BEB3F2BFE5.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox_BuiltData.uasset'
+[2021.04.27-23.35.06:173][972]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox_BuiltDataDF9288D648DA91661C2066B274996194.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox_BuiltData.uasset'
+[2021.04.27-23.35.06:211][972]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.27-23.35.06:211][972]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.35.06:211][972]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox_BuiltData.Kivett_FinalMap_GBox_BuiltData
+[2021.04.27-23.36.39:472][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.04.27-23.36.40:749][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-23.36.40:901][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.36.41:101][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-23.38.48:493][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.27-23.38.48:659][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.38.48:822][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.38.48:984][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.38.49:181][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.38.49:374][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.27-23.38.58:586][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.27-23.38.59:025][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.38.59:189][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.27-23.38.59:352][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.38.59:489][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.04.27-23.38.59:650][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.38.59:811][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.04.27-23.39.00:130][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.39.00:326][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-23.39.08:308][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.39.08:452][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.39.08:624][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.27-23.39.08:808][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.39.08:950][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.39.09:124][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.39.09:322][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-23.39.09:488][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-23.39.09:743][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-23.39.09:910][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.27-23.39.10:076][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-23.39.10:273][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.39.10:442][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-23.39.10:749][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.39.10:919][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.39.11:093][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-23.39.11:240][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.39.11:438][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-23.39.18:721][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-23.39.18:894][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-23.39.19:043][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.39.19:219][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-23.39.19:367][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.39.19:569][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.27-23.39.19:697][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.27-23.39.19:850][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.39.20:027][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-23.39.20:152][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-23.39.20:347][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-23.39.20:496][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-23.39.20:670][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-23.39.20:832][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-23.39.21:005][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-23.39.21:177][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.39.21:443][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.39.21:616][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.39.25:269][360]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2021.04.27-23.39.32:967][119]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.39.36:720][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-23.39.37:654][367]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-23.39.37:696][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-23.39.38:630][367]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxE54C572B4242F89B12FCEABC4B16E69F.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.umap'
+[2021.04.27-23.39.38:639][367]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.952
+[2021.04.27-23.39.38:668][367]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-23.39.38:668][367]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-23.39.41:312][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-23.39.48:221][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.39.48:713][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-23.39.48:888][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
