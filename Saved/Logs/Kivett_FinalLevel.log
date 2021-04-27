@@ -6794,3 +6794,115 @@ Exception rethrown at [0]:
 [2021.04.27-02.48.58:692][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
 [2021.04.27-02.48.58:838][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
 [2021.04.27-02.51.13:474][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.27-02.55.29:374][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off': Can't find file.
+[2021.04.27-02.55.29:375][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off': Can't find file.
+[2021.04.27-02.55.29:375][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_On': Can't find file.
+[2021.04.27-02.55.29:376][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_On': Can't find file.
+[2021.04.27-02.55.29:376][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off': Can't find file.
+[2021.04.27-02.55.29:377][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_On': Can't find file.
+[2021.04.27-02.55.29:377][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_lights/SM_lamps_light_sign_b': Can't find file.
+[2021.04.27-02.55.29:378][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_lights/SM_lamps_light_sign_b': Can't find file.
+[2021.04.27-02.55.29:378][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_lights/SM_lamps_light_sign_b': Can't find file.
+[2021.04.27-02.55.29:379][374]LogLinker: Warning: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off': Can't find file.
+[2021.04.27-02.55.29:380][374]LogLinker: Warning: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_On': Can't find file.
+[2021.04.27-02.55.29:380][374]LogLinker: Warning: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off': Can't find file.
+[2021.04.27-02.55.29:380][374]LogLinker: Warning: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_On': Can't find file.
+[2021.04.27-02.55.29:380][374]LogLinker: Warning: Failed to load '/Game/Downtown_West/Assets/props/props_lights/SM_lamps_light_sign_b': Can't find file.
+[2021.04.27-02.55.29:381][374]LogLinker: Warning: Failed to load '/Game/Downtown_West/Assets/props/props_lights/SM_lamps_light_sign_b': Can't find file.
+[2021.04.27-02.55.29:383][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_On': Can't find file.
+[2021.04.27-02.55.29:383][374]LoadErrors: Failed to load /Game/Downtown_West/Assets/props/props_light_post/MI_Light_On.MI_Light_On Referenced by K2Node_CallFunction_3
+[2021.04.27-02.55.29:383][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off': Can't find file.
+[2021.04.27-02.55.29:384][374]LoadErrors: Failed to load /Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off.MI_Light_Off Referenced by K2Node_CallFunction_2
+[2021.04.27-02.55.29:385][374]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\BP_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_lights/SM_lamps_light_sign_b': Can't find file.
+[2021.04.27-02.55.29:385][374]LoadErrors: Failed to load /Game/Downtown_West/Assets/props/props_lights/SM_lamps_light_sign_b.SM_lamps_light_sign_b Referenced by SM_lamps_tree_light_GEN_VARIABLE
+[2021.04.27-02.55.34:090][827]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.04.27-02.55.35:244][946]Cmd: DELETE
+[2021.04.27-02.55.35:244][946]Cmd: ACTOR DELETE
+[2021.04.27-02.55.35:291][946]LogEditorActor: Deleted Actor: SpotLight
+[2021.04.27-02.55.35:304][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.04.27-02.55.35:328][946]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2021.04.27-02.55.35:965][ 19]LogEditorViewport: Clicking on Actor (LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b)
+[2021.04.27-02.55.40:106][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/building_a_awnings/awning_material/MI_building_a_awning_trim': Can't find file.
+[2021.04.27-02.55.40:107][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/building_a_awnings/awning_material/MI_building_a_awning_trim': Can't find file.
+[2021.04.27-02.55.40:107][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off_shiny': Can't find file.
+[2021.04.27-02.55.40:108][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off_shiny': Can't find file.
+[2021.04.27-02.55.40:108][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Trim_Wood_Metal_A': Can't find file.
+[2021.04.27-02.55.40:109][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Trim_Wood_Metal_A': Can't find file.
+[2021.04.27-02.55.40:109][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/building_a_awnings/awning_material/MI_building_a_awning_trim': Can't find file.
+[2021.04.27-02.55.40:110][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off_shiny': Can't find file.
+[2021.04.27-02.55.40:110][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Trim_Wood_Metal_A': Can't find file.
+[2021.04.27-02.55.40:111][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/building_a_awnings/awning_material/MI_building_a_awning_trim': Can't find file.
+[2021.04.27-02.55.40:111][443]LoadErrors: Failed to load /Game/Downtown_West/Assets/building_a_awnings/awning_material/MI_building_a_awning_trim.MI_building_a_awning_trim Referenced by SM_lamps_light_sign_b
+[2021.04.27-02.55.40:111][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off_shiny': Can't find file.
+[2021.04.27-02.55.40:111][443]LoadErrors: Failed to load /Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off_shiny.MI_Light_Off_shiny Referenced by SM_lamps_light_sign_b
+[2021.04.27-02.55.40:112][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Trim_Wood_Metal_A': Can't find file.
+[2021.04.27-02.55.40:112][443]LoadErrors: Failed to load /Game/Downtown_West/Materials/Buildings_Shared/MI_Trim_Wood_Metal_A.MI_Trim_Wood_Metal_A Referenced by SM_lamps_light_sign_b
+[2021.04.27-02.55.40:112][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/building_a_awnings/awning_material/MI_building_a_awning_trim': Can't find file.
+[2021.04.27-02.55.40:113][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Assets/props/props_light_post/MI_Light_Off_shiny': Can't find file.
+[2021.04.27-02.55.40:113][443]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\ImportedAssets\Downtown_West\Assets\props\props_lights\SM_lamps_light_sign_b.uasset: Failed to load '/Game/Downtown_West/Materials/Buildings_Shared/MI_Trim_Wood_Metal_A': Can't find file.
+[2021.04.27-02.55.40:209][447]LogActorFactory: Actor Factory created SM_lamps_light_sign_b
+[2021.04.27-02.55.41:066][502]LogActorFactory: Actor Factory created SM_lamps_light_sign_b
+[2021.04.27-02.56.18:600][121]LogEditorViewport: Clicking on Actor (LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b)
+[2021.04.27-02.57.06:056][237]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lamps_light_sign_b)
+[2021.04.27-02.57.06:748][310]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_lamps_light_sign_b)
+[2021.04.27-02.57.33:250][979]Cmd: TRANSACTION UNDO
+[2021.04.27-02.57.33:250][979]LogEditorTransaction: Undo Move Actors
+[2021.04.27-02.57.46:224][ 54]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b4)
+[2021.04.27-02.57.47:714][195]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b3)
+[2021.04.27-02.57.48:660][282]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b2)
+[2021.04.27-02.57.49:643][369]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b)
+[2021.04.27-02.58.02:454][499]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.58.13:329][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b5)
+[2021.04.27-02.58.58:639][883]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_lamps_light_sign_b7)
+[2021.04.27-02.59.02:572][195]Cmd: ACTOR MIRROR Y=-1
+[2021.04.27-02.59.20:999][115]LogEditorViewport: Clicking on Actor (LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b7)
+[2021.04.27-02.59.21:691][194]LogEditorViewport: Clicking on Actor (context menu): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b7)
+[2021.04.27-02.59.24:458][415]Cmd: ACTOR MIRROR Z=-1
+[2021.04.27-02.59.26:514][603]LogEditorViewport: Clicking on Actor (context menu): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b7)
+[2021.04.27-02.59.29:294][895]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_lamps_light_sign_b7)
+[2021.04.27-02.59.30:229][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b7)
+[2021.04.27-02.59.42:400][295]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.59.48:676][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b7)
+[2021.04.27-02.59.54:214][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b7)
+[2021.04.27-03.00.07:211][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b6)
+[2021.04.27-03.00.14:041][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b6)
+[2021.04.27-03.00.15:748][857]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-03.00.28:939][912]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush13)
+[2021.04.27-03.00.31:579][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b6)
+[2021.04.27-03.01.35:413][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b8)
+[2021.04.27-03.02.45:766][495]Cmd: TRANSACTION UNDO
+[2021.04.27-03.02.45:766][495]LogEditorTransaction: Undo Move Actors
+[2021.04.27-03.03.07:420][ 82]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-03.03.09:054][200]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-03.03.10:047][297]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.04.27-03.03.10:520][337]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-03.03.12:394][481]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-03.03.16:677][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b13)
+[2021.04.27-03.03.35:551][304]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.04.27-03.03.36:433][394]Cmd: DELETE
+[2021.04.27-03.03.36:433][394]Cmd: ACTOR DELETE
+[2021.04.27-03.03.36:491][394]LogEditorActor: Deleted Actor: SpotLight
+[2021.04.27-03.03.36:549][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.04.27-03.03.36:556][394]LogEditorActor: Deleted 1 Actors (0.122 secs)
+[2021.04.27-03.03.37:093][456]LogEditorViewport: Clicking on Actor (LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b14)
+[2021.04.27-03.04.02:782][996]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b15)
+[2021.04.27-03.04.03:557][ 78]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_lamps_light_sign_b_C (BP_lamps_light_sign_b14)
+[2021.04.27-03.04.08:694][642]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-03.04.12:879][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.04.27-03.04.13:797][ 65]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-03.04.13:843][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.04.27-03.04.14:471][ 65]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxD7334ACA4CD6E1134BFD73A7A272B393.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-03.04.14:485][ 65]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.652
+[2021.04.27-03.04.14:529][ 65]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-03.04.14:529][ 65]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-03.04.23:444][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b6)
+[2021.04.27-03.05.01:988][304]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-03.05.05:721][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lamps_light_sign_b18)
+[2021.04.27-03.05.15:762][624]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-03.05.23:282][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.04.27-03.05.24:170][139]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-03.05.24:211][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.27-03.05.24:837][139]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox0010D64949515659B9A0B0AB03760C7B.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-03.05.24:847][139]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.644
+[2021.04.27-03.05.24:891][139]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-03.05.24:891][139]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
