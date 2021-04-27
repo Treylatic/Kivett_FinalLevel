@@ -1521,3 +1521,108 @@ Script Stack (0 frames):
 [2021.04.26-23.59.49:176][594]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Kivett_FinalMap/NewWorld' took 21.948
 [2021.04.26-23.59.49:205][594]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 21.948
 [2021.04.26-23.59.52:781][603]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.04.27-00.05.36:230][423]LogObjectTools: Deleting 1 worlds: /Game/Kivett_FinalMap/CityBuildComponents.CityBuildComponents
+[2021.04.27-00.05.36:230][423]LogObjectTools: Currently 3 active worlds: /Game/Kivett_FinalMap/NewWorld.NewWorld, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2021.04.27-00.05.36:247][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.04.27-00.05.37:580][423]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.27-00.05.37:607][423]LogWorld: UWorld::CleanupWorld for CityBuildComponents, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-00.05.37:652][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-00.05.37:961][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.04.27-00.05.38:030][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.04.27-00.05.38:158][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.27-00.05.49:887][486]LogContentBrowser: Attempting asset rename: NewWorld -> CityBuildingArea
+[2021.04.27-00.05.50:326][486]LogMetaData: Removing '/Game/Kivett_FinalMap/CityBuildingArea.CityBuildingArea_C' ref from Metadata '/Game/Kivett_FinalMap/NewWorld.PackageMetaData'
+[2021.04.27-00.05.50:326][486]LogMetaData: Removing '/Game/Kivett_FinalMap/CityBuildingArea.CityBuildingArea:PersistentLevel.CityBuildingArea.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Kivett_FinalMap/NewWorld.PackageMetaData'
+[2021.04.27-00.05.50:326][486]LogMetaData: Removing '/Game/Kivett_FinalMap/CityBuildingArea.CityBuildingArea:PersistentLevel.CityBuildingArea.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Kivett_FinalMap/NewWorld.PackageMetaData'
+[2021.04.27-00.05.50:326][486]LogMetaData: Removing '/Game/Kivett_FinalMap/CityBuildingArea.SKEL_CityBuildingArea_C:ReceiveBeginPlay' ref from Metadata '/Game/Kivett_FinalMap/NewWorld.PackageMetaData'
+[2021.04.27-00.05.50:326][486]LogMetaData: Removing '/Game/Kivett_FinalMap/CityBuildingArea.SKEL_CityBuildingArea_C:ReceiveTick' ref from Metadata '/Game/Kivett_FinalMap/NewWorld.PackageMetaData'
+[2021.04.27-00.05.50:326][486]LogMetaData: Removing '/Game/Kivett_FinalMap/CityBuildingArea.SKEL_CityBuildingArea_C' ref from Metadata '/Game/Kivett_FinalMap/NewWorld.PackageMetaData'
+[2021.04.27-00.05.50:326][486]LogMetaData: Removing '/Game/Kivett_FinalMap/CityBuildingArea.CityBuildingArea_C:ReceiveTick' ref from Metadata '/Game/Kivett_FinalMap/NewWorld.PackageMetaData'
+[2021.04.27-00.05.50:377][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.04.27-00.05.50:471][486]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuildingArea53DC752B4B89131D13C56FBCDAE47E40.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuildingArea.umap'
+[2021.04.27-00.05.50:486][486]LogFileHelpers: Saving map 'CityBuildingArea' took 0.130
+[2021.04.27-00.05.50:612][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.27-00.05.50:625][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.27-00.05.50:629][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.27-00.05.51:504][486]AssetCheck: New page: Asset Save: CityBuildingArea
+[2021.04.27-00.05.51:504][486]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuildingArea.CityBuildingArea
+[2021.04.27-00.05.53:866][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-00.05.55:081][724]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-00.05.55:081][724]Cmd: MAP LOAD FILE="../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-00.05.55:158][724]LightingResults: New page: Lighting Build
+[2021.04.27-00.05.55:158][724]LoadErrors: New page: Loading map: Kivett_FinalMap_GBox.umap
+[2021.04.27-00.05.55:470][724]LogWorld: UWorld::CleanupWorld for CityBuildingArea, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-00.05.55:470][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-00.05.55:471][724]MapCheck: New page: Map Check
+[2021.04.27-00.05.55:471][724]LightingResults: New page: Lighting Build
+[2021.04.27-00.05.55:545][724]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-00.05.55:610][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.04.27-00.05.55:738][724]LogAudio: Display: Audio Device (ID: 1) registered with world 'Kivett_FinalMap_GBox'.
+[2021.04.27-00.05.57:808][724]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-00.05.57:808][724]LogAIModule: Creating AISystem for world Kivett_FinalMap_GBox
+[2021.04.27-00.05.58:629][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.04.27-00.05.58:635][724]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-00.05.58:636][724]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.659ms to complete.
+[2021.04.27-00.05.58:636][724]LogFileHelpers: Loading map 'Kivett_FinalMap_GBox' took 3.554
+[2021.04.27-00.06.32:257][929]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-00.06.34:551][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.27-00.06.35:404][147]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-00.06.35:440][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.04.27-00.06.39:263][147]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox0D1877424E80331A01D340894F6CD5D6.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-00.06.39:320][147]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 3.889
+[2021.04.27-00.06.39:342][147]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-00.06.39:342][147]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-00.06.56:999][173]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-00.06.57:118][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-00.06.57:119][173]PIE: New page: PIE session: Kivett_FinalMap_GBox (Apr 26, 2021, 4:06:57 PM)
+[2021.04.27-00.06.57:173][173]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox
+[2021.04.27-00.06.58:524][173]LogPlayLevel: PIE: StaticDuplicateObject took: (1.350579s)
+[2021.04.27-00.06.58:526][173]LogAIModule: Creating AISystem for world Kivett_FinalMap_GBox
+[2021.04.27-00.06.58:526][173]LogPlayLevel: PIE: World Init took: (0.002636s)
+[2021.04.27-00.06.58:546][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox to /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox.Kivett_FinalMap_GBox (1.373108s)
+[2021.04.27-00.06.58:562][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.04.27-00.06.58:567][173]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.27-00.06.58:567][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-00.06.58:567][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-00.06.58:567][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-00.06.58:567][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-00.06.58:567][173]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-00.06.58:567][173]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-00.06.58:567][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-00.06.58:567][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-00.06.58:706][173]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-00.06.58:706][173]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-00.06.58:716][173]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-00.06.58:716][173]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-00.06.58:812][173]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.27-00.06.58:813][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-00.06.58:813][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-00.06.58:813][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-00.06.58:814][173]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-00.06.58:814][173]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-00.06.58:814][173]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-00.06.58:902][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-00.06.58:902][173]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-00.06.58:902][173]LogInit: FAudioDevice initialized.
+[2021.04.27-00.06.58:902][173]LogAudio: Display: Audio Device (ID: 5) registered with world 'Kivett_FinalMap_GBox'.
+[2021.04.27-00.06.59:070][173]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-00.06.59:094][173]LogWorld: Bringing World /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox.Kivett_FinalMap_GBox up for play (max tick rate 0) at 2021.04.26-20.06.59
+[2021.04.27-00.06.59:094][173]LogWorld: Bringing up level for play took: 0.023537
+[2021.04.27-00.06.59:095][173]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.04.27-00.06.59:109][173]PIE: Server logged in
+[2021.04.27-00.06.59:111][173]PIE: Play in editor total start time 1.994 seconds.
+[2021.04.27-00.07.15:255][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-00.07.15:255][ 90]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox
+[2021.04.27-00.07.15:256][ 90]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_GBox, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-00.07.15:257][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-00.07.15:277][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-00.07.15:295][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-00.07.15:304][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-00.07.15:305][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-00.07.15:307][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-00.07.15:341][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-00.07.15:358][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.04.27-00.07.15:410][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.04.27-00.07.19:750][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.27-00.08.34:471][858]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.04.27-00.08.40:292][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
