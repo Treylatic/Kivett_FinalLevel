@@ -5670,3 +5670,299 @@ Exception rethrown at [0]:
 [2021.04.27-01.56.12:679][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2021.04.27-01.56.12:838][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
 [2021.04.27-01.56.12:967][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.27-01.59.19:154][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x9)
+[2021.04.27-01.59.20:181][528]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_3x9)
+[2021.04.27-01.59.23:856][654]Cmd: EDIT COPY
+[2021.04.27-01.59.27:722][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wndw_c_r_2x5)
+[2021.04.27-01.59.28:396][817]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_l_2x3)
+[2021.04.27-01.59.29:105][840]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x9)
+[2021.04.27-01.59.31:291][906]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (mid_brick_wndw_r_3x3)
+[2021.04.27-01.59.36:168][ 24]Cmd: EDIT COPY
+[2021.04.27-01.59.43:078][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-01.59.43:099][233]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-01.59.43:099][233]Cmd: MAP LOAD FILE="../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-01.59.43:099][233]LightingResults: New page: Lighting Build
+[2021.04.27-01.59.43:099][233]LoadErrors: New page: Loading map: Kivett_FinalMap_GBox.umap
+[2021.04.27-01.59.43:166][233]LogWorld: UWorld::CleanupWorld for CityBuild, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-01.59.43:167][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-01.59.43:167][233]MapCheck: New page: Map Check
+[2021.04.27-01.59.43:184][233]LightingResults: New page: Lighting Build
+[2021.04.27-01.59.43:192][233]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-01.59.43:199][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.04.27-01.59.43:200][233]LogAudio: Display: Audio Device (ID: 1) registered with world 'Kivett_FinalMap_GBox'.
+[2021.04.27-01.59.43:297][233]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-01.59.43:297][233]LogAIModule: Creating AISystem for world Kivett_FinalMap_GBox
+[2021.04.27-01.59.43:310][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.04.27-01.59.43:316][233]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-01.59.43:317][233]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2021.04.27-01.59.43:317][233]LogFileHelpers: Loading map 'Kivett_FinalMap_GBox' took 0.218
+[2021.04.27-01.59.51:410][997]Cmd: EDIT PASTE
+[2021.04.27-02.00.00:567][132]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.00.11:064][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_r_2x4)
+[2021.04.27-02.00.32:218][358]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (mid_brick_wndw_cnr_r_3x3)
+[2021.04.27-02.00.33:212][393]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.00.33:888][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_r_3x3)
+[2021.04.27-02.01.11:220][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_l_3x4)
+[2021.04.27-02.01.15:319][395]Cmd: DELETE
+[2021.04.27-02.01.15:319][395]Cmd: ACTOR DELETE
+[2021.04.27-02.01.15:332][395]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.01.15:341][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.04.27-02.01.15:765][395]LogEditorActor: Deleted 1 Actors (0.446 secs)
+[2021.04.27-02.01.18:112][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_r_2x5)
+[2021.04.27-02.01.51:031][231]Cmd: DELETE
+[2021.04.27-02.01.51:031][231]Cmd: ACTOR DELETE
+[2021.04.27-02.01.51:045][231]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.01.51:055][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.04.27-02.01.51:585][231]LogEditorActor: Deleted 1 Actors (0.554 secs)
+[2021.04.27-02.02.28:408][157]Cmd: TRANSACTION UNDO
+[2021.04.27-02.02.28:408][157]LogEditorTransaction: Undo Move Actors
+[2021.04.27-02.02.45:332][869]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush17)
+[2021.04.27-02.03.11:539][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_3x43)
+[2021.04.27-02.03.13:078][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x17)
+[2021.04.27-02.03.13:803][171]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_l_3x43)
+[2021.04.27-02.03.20:688][352]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.03.45:134][880]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.04.15:785][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.04.27:002][997]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.04.37:284][786]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.05.31:430][316]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.05.33:047][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.04.27-02.05.33:880][412]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.05.33:930][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.04.27-02.05.34:223][412]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox03EC727246F39C02744A43B84BF74A62.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.05.34:268][412]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.354
+[2021.04.27-02.05.34:286][412]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.05.34:286][412]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.06.02:909][272]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.06.18:763][365]Cmd: DELETE
+[2021.04.27-02.06.18:763][365]Cmd: ACTOR DELETE
+[2021.04.27-02.06.18:785][365]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.06.18:800][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.04.27-02.06.19:117][365]LogEditorActor: Deleted 1 Actors (0.353 secs)
+[2021.04.27-02.06.19:691][391]Cmd: DELETE
+[2021.04.27-02.06.19:691][391]Cmd: ACTOR DELETE
+[2021.04.27-02.06.19:705][391]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.06.19:713][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.04.27-02.06.19:912][391]LogEditorActor: Deleted 1 Actors (0.221 secs)
+[2021.04.27-02.06.22:844][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lightpost_light_post_b)
+[2021.04.27-02.06.27:468][750]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2021.04.27-02.06.30:891][940]Cmd: TRANSACTION UNDO
+[2021.04.27-02.06.30:891][940]LogEditorTransaction: Undo Move Actors
+[2021.04.27-02.06.37:119][231]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.06.44:339][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_2x3)
+[2021.04.27-02.07.03:201][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_2x2)
+[2021.04.27-02.07.12:759][403]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.07.22:064][875]Cmd: DELETE
+[2021.04.27-02.07.22:064][875]Cmd: ACTOR DELETE
+[2021.04.27-02.07.22:079][875]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.07.22:092][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.04.27-02.07.22:439][875]LogEditorActor: Deleted 1 Actors (0.374 secs)
+[2021.04.27-02.07.36:991][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wndw_c_r_3x3)
+[2021.04.27-02.08.21:652][191]Cmd: DELETE
+[2021.04.27-02.08.21:652][191]Cmd: ACTOR DELETE
+[2021.04.27-02.08.21:669][191]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.08.21:685][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.04.27-02.08.22:118][191]LogEditorActor: Deleted 1 Actors (0.466 secs)
+[2021.04.27-02.08.26:052][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_2x5)
+[2021.04.27-02.08.30:827][832]Cmd: DELETE
+[2021.04.27-02.08.30:828][832]Cmd: ACTOR DELETE
+[2021.04.27-02.08.30:846][832]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.08.30:857][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.04.27-02.08.30:998][832]LogEditorActor: Deleted 1 Actors (0.171 secs)
+[2021.04.27-02.08.33:444][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_3x49)
+[2021.04.27-02.08.43:306][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lightpost_light_post_b)
+[2021.04.27-02.08.45:225][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x30)
+[2021.04.27-02.09.12:337][684]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.10.11:965][580]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.10.19:074][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.04.27-02.10.20:064][277]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.10.20:098][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.04.27-02.10.20:368][277]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxEC4082D641D33AEEF63E5D83266424DD.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.10.20:419][277]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.337
+[2021.04.27-02.10.20:436][277]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.10.20:437][277]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.10.30:476][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_3x43)
+[2021.04.27-02.10.59:447][714]Cmd: DELETE
+[2021.04.27-02.10.59:447][714]Cmd: ACTOR DELETE
+[2021.04.27-02.10.59:474][714]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.10.59:488][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.27-02.10.59:676][714]LogEditorActor: Deleted 1 Actors (0.229 secs)
+[2021.04.27-02.11.03:582][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_2x14)
+[2021.04.27-02.11.12:292][508]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.11.41:568][441]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.12.01:573][402]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.12.50:785][310]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.12.55:048][704]Cmd: DELETE
+[2021.04.27-02.12.55:048][704]Cmd: ACTOR DELETE
+[2021.04.27-02.12.55:076][704]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.12.55:090][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.27-02.12.55:189][704]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2021.04.27-02.12.56:157][791]Cmd: DELETE
+[2021.04.27-02.12.56:157][791]Cmd: ACTOR DELETE
+[2021.04.27-02.12.56:185][791]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.12.56:199][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.04.27-02.12.56:270][791]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2021.04.27-02.12.56:714][832]Cmd: DELETE
+[2021.04.27-02.12.56:715][832]Cmd: ACTOR DELETE
+[2021.04.27-02.12.56:742][832]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.12.56:758][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.04.27-02.12.56:868][832]LogEditorActor: Deleted 1 Actors (0.153 secs)
+[2021.04.27-02.13.02:256][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_2x12)
+[2021.04.27-02.13.59:332][ 31]Cmd: DELETE
+[2021.04.27-02.13.59:332][ 31]Cmd: ACTOR DELETE
+[2021.04.27-02.13.59:363][ 31]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.13.59:380][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.04.27-02.13.59:583][ 31]LogEditorActor: Deleted 1 Actors (0.250 secs)
+[2021.04.27-02.14.01:027][196]LogEditorViewport: Clicking on Actor (LMB): Enemy_Character_C (Enemy_Character)
+[2021.04.27-02.14.04:539][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_2x34)
+[2021.04.27-02.14.55:081][242]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.15.11:896][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x4)
+[2021.04.27-02.15.53:627][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.16.00:537][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.04.27-02.16.01:500][738]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.16.01:546][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-02.16.01:952][738]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxDA7748FC42D81765D14542B53C8DE25C.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.16.02:018][738]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.493
+[2021.04.27-02.16.02:032][738]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.16.02:032][738]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.16.05:036][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.04.27-02.16.08:185][292]MapCheck: New page: Map Check
+[2021.04.27-02.16.08:202][292]Cmd: MAP REBUILD ALLVISIBLE
+[2021.04.27-02.16.08:202][292]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.04.27-02.16.08:397][292]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_GBox, bSessionEnded=true, bCleanupResources=false
+[2021.04.27-02.16.08:986][292]LogEditorServer: Cleared 2 NULL BSP materials after rebuild.
+[2021.04.27-02.16.08:986][292]LightingResults: New page: Lighting Build - Apr 26, 2021, 6:16:08 PM
+[2021.04.27-02.16.09:018][292]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.27-02.16.09:052][292]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.27-02.16.09:052][292]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.27-02.16.09:053][292]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.27-02.16.09:053][292]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5864
+[2021.04.27-02.16.13:623][292]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.04.27-02.16.13:624][292]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.27-02.16.13:624][292]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.27-02.16.13:624][292]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.27-02.16.13:624][292]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.27-02.16.13:624][292]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.27-02.16.14:117][292]LogEditorBuildUtils: Build time 0:05
+[2021.04.27-02.16.14:316][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Black, compiling. 
+[2021.04.27-02.16.14:319][292]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.04.27-02.16.14:320][292]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.04.27-02.16.14:320][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Black, compiling. 
+[2021.04.27-02.16.14:323][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer White, compiling. 
+[2021.04.27-02.16.14:326][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer White, compiling. 
+[2021.04.27-02.16.14:385][293]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Blue, compiling. 
+[2021.04.27-02.16.14:390][293]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Blue, compiling. 
+[2021.04.27-02.16.14:424][293]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.04.27-02.16.14:424][293]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.04.27-02.16.14:424][293]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.04.27-02.16.14:424][293]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.04.27-02.16.14:424][293]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.04.27-02.16.14:424][293]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.04.27-02.16.14:424][293]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.04.27-02.16.14:424][293]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.04.27-02.16.14:424][293]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.04.27-02.16.14:424][293]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.04.27-02.16.14:476][294]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer brick_wall_grey, compiling. 
+[2021.04.27-02.16.14:504][294]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer brick_wall_grey, compiling. 
+[2021.04.27-02.16.14:571][295]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer interior_lights, compiling. 
+[2021.04.27-02.16.14:651][295]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer interior_lights, compiling. 
+[2021.04.27-02.16.14:747][296]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer concrete_trim, compiling. 
+[2021.04.27-02.16.14:753][296]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer concrete_trim, compiling. 
+[2021.04.27-02.16.14:824][297]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal_trim___default, compiling. 
+[2021.04.27-02.16.14:859][297]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal_trim___default, compiling. 
+[2021.04.27-02.16.14:927][298]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Glass_Opaque, compiling. 
+[2021.04.27-02.16.14:933][298]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Glass_Opaque, compiling. 
+[2021.04.27-02.16.15:020][299]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer tile_trim___default, compiling. 
+[2021.04.27-02.16.15:041][299]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer tile_trim___default, compiling. 
+[2021.04.27-02.16.15:184][300]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Glass, compiling. 
+[2021.04.27-02.16.15:199][300]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Glass, compiling. 
+[2021.04.27-02.16.15:278][301]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer black_interior, compiling. 
+[2021.04.27-02.16.15:291][301]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer black_interior, compiling. 
+[2021.04.27-02.16.15:413][302]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Glass_Cracked, compiling. 
+[2021.04.27-02.16.15:429][302]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Glass_Cracked, compiling. 
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 36
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 32
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 29
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 23
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 21
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.04.27-02.16.20:630][304]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.04.27-02.16.21:325][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.04.27-02.16.38:067][ 57]Job is a success!
+[2021.04.27-02.16.38:294][ 58]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2021.04.27-02.16.38:294][ 58]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.04.27-02.16.38:294][ 58]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.9Mb due to 0.010000 MinBrickError)
+[2021.04.27-02.16.38:294][ 58]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.27-02.16.38:294][ 58]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2021.04.27-02.16.38:294][ 58]LogVolumetricLightmapImport:          1: 90.0% covering 14.1% of volume
+[2021.04.27-02.16.38:294][ 58]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.04.27-02.16.38:294][ 58]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.27-02.16.38:294][ 58]LogVolumetricLightmapImport:          Kivett_FinalMap_GBox 			 10 bricks 	 100.0% (Persistent Level)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:121][ 58]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:122][ 58]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:122][ 58]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:122][ 58]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2021.04.27-02.16.41:122][ 58]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 64X64)
+[2021.04.27-02.16.41:122][ 58]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 64X64)
+[2021.04.27-02.16.41:122][ 58]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2021.04.27-02.16.41:321][ 58]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2021.04.27-02.16.41:321][ 58]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X512)
+[2021.04.27-02.16.42:006][ 58]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2021.04.27-02.16.42:006][ 58]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2021.04.27-02.16.42:006][ 58]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2021.04.27-02.16.45:066][ 58]Lightmass on DESKTOP-NR30UB4: 22.1 sec total, 380 ms importing, 80 ms setup, 1.70 sec photons, 17.0 sec processing, 0 ms extra exporting [1313/1313 mappings]. Threads: 4:15 min total, 2:39 min processing.
+[2021.04.27-02.16.45:071][ 58]LogStaticLightingSystem: Kivett_FinalMap_GBox_BuiltData storing lightmap data for 1252 meshes in 29 LightmapResourceClusters (43.2 Meshes per cluster).
+[2021.04.27-02.16.45:431][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.27-02.16.46:226][ 58]LogStaticLightingSystem: Illumination: 37.2 sec (1.98 sec encoding lightmaps, 883 ms encoding shadowmaps)
+[2021.04.27-02.16.46:226][ 58]LogStaticLightingSystem: Lightmap texture memory:  22.0 MB (20.0 MB streaming, 2.0 MB non-streaming), 24 textures
+[2021.04.27-02.16.46:226][ 58]LogStaticLightingSystem: Shadowmap texture memory: 4.7 MB (4.0 MB streaming, 0.7 MB non-streaming), 5 textures
+[2021.04.27-02.16.51:667][ 58]DumpUnbuiltLightIteractions
+[2021.04.27-02.16.51:667][ 58]Lights with unbuilt interactions: 0
+[2021.04.27-02.16.51:667][ 58]
+[2021.04.27-02.16.51:667][ 58]Primitives with unbuilt interactions: 0
+[2021.04.27-02.16.51:816][ 59]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.27-02.16.51:816][ 59]MapCheck: New page: Kivett_FinalMap_GBox - Apr 26, 2021, 6:16:51 PM
+[2021.04.27-02.16.51:817][ 59]MapCheck: Warning: BP_lightpost_a1_2 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.16.51:818][ 59]MapCheck: Warning: BP_lightpost_a2 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.16.51:852][ 59]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 35.294ms to complete.
+[2021.04.27-02.17.23:942][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.27-02.17.24:819][ 97]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.17.24:846][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-02.17.25:201][ 97]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox58E14FFA4C026B638AC25AB7DC5542E9.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.17.25:210][ 97]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.372
+[2021.04.27-02.17.25:913][ 97]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox_BuiltData89215DC54FBE8EE46C6025B7506751FD.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox_BuiltData.uasset'
+[2021.04.27-02.17.26:677][ 97]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox_BuiltData335A5D1A48D8A49C198EC0AFA4746E73.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox_BuiltData.uasset'
+[2021.04.27-02.17.27:094][ 97]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.27-02.17.27:094][ 97]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Kivett_FinalMap/Kivett_FinalMap_GBox_BuiltData.Kivett_FinalMap_GBox_BuiltData
+[2021.04.27-02.17.27:094][ 97]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
