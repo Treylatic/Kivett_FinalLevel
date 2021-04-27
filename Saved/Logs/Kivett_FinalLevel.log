@@ -3227,3 +3227,59 @@ Script Stack (0 frames):
 [2021.04.27-01.27.13:626][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
 [2021.04.27-01.27.13:922][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
 [2021.04.27-01.27.14:069][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-01.27.54:805][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.27-01.27.54:831][836]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-01.27.54:831][836]Cmd: MAP LOAD FILE="../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-01.27.54:831][836]LightingResults: New page: Lighting Build
+[2021.04.27-01.27.54:831][836]LoadErrors: New page: Loading map: Kivett_FinalMap_GBox.umap
+[2021.04.27-01.27.54:836][836]LogWorld: UWorld::CleanupWorld for CityBuild, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-01.27.54:836][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-01.27.54:837][836]MapCheck: New page: Map Check
+[2021.04.27-01.27.54:853][836]LightingResults: New page: Lighting Build
+[2021.04.27-01.27.54:861][836]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-01.27.54:869][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.27-01.27.54:870][836]LogAudio: Display: Audio Device (ID: 1) registered with world 'Kivett_FinalMap_GBox'.
+[2021.04.27-01.27.55:581][836]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-01.27.55:581][836]LogAIModule: Creating AISystem for world Kivett_FinalMap_GBox
+[2021.04.27-01.27.55:639][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.04.27-01.27.55:645][836]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-01.27.55:645][836]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2021.04.27-01.27.55:645][836]LogFileHelpers: Loading map 'Kivett_FinalMap_GBox' took 0.815
+[2021.04.27-01.28.39:460][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.04.27-01.28.40:454][177]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-01.28.40:488][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-01.28.44:371][177]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox9E144D4641B79C3899F1449CADB7C347.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-01.28.44:392][177]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 3.914
+[2021.04.27-01.28.44:418][177]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-01.28.44:418][177]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-01.29.22:559][595]Cmd: DELETE
+[2021.04.27-01.29.22:559][595]Cmd: ACTOR DELETE
+[2021.04.27-01.29.22:982][595]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-01.29.22:995][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.04.27-01.29.24:850][595]LogEditorActor: Deleted 1 Actors (2.290 secs)
+[2021.04.27-01.29.28:424][621]Cmd: DELETE
+[2021.04.27-01.29.28:424][621]Cmd: ACTOR DELETE
+[2021.04.27-01.29.28:845][621]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-01.29.28:861][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.27-01.29.30:672][621]LogEditorActor: Deleted 1 Actors (2.248 secs)
+[2021.04.27-01.29.33:371][639]Cmd: DELETE
+[2021.04.27-01.29.33:371][639]Cmd: ACTOR DELETE
+[2021.04.27-01.29.33:821][639]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-01.29.33:836][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.27-01.29.35:568][639]LogEditorActor: Deleted 1 Actors (2.196 secs)
+[2021.04.27-01.29.37:784][651]Cmd: DELETE
+[2021.04.27-01.29.37:784][651]Cmd: ACTOR DELETE
+[2021.04.27-01.29.38:200][651]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-01.29.38:214][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.04.27-01.29.40:144][651]LogEditorActor: Deleted 1 Actors (2.360 secs)
+[2021.04.27-01.29.57:134][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.04.27-01.29.58:191][855]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-01.29.58:236][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.04.27-01.30.02:075][855]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxD4DFBD1D4B43ECE2EB53BC8079BB4669.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-01.30.02:091][855]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 3.868
+[2021.04.27-01.30.02:111][855]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-01.30.02:111][855]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-01.30.03:561][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.27-01.30.03:760][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.27-01.30.04:026][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.27-01.30.04:113][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
