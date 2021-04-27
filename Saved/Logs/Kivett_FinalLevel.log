@@ -3071,3 +3071,159 @@ Script Stack (0 frames):
 [2021.04.27-01.18.54:728][966]LogFileHelpers: Saving map 'CityBuild' took 0.198
 [2021.04.27-01.18.54:736][966]AssetCheck: New page: Asset Save: CityBuild
 [2021.04.27-01.18.54:737][966]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-01.19.32:128][416]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_3x2
+[2021.04.27-01.19.35:414][527]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_3x2
+[2021.04.27-01.19.40:404][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x4)
+[2021.04.27-01.19.48:747][ 89]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_l_2x2
+[2021.04.27-01.19.50:568][151]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_l_2x2
+[2021.04.27-01.20.07:501][991]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-01.20.14:541][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_l_2x4)
+[2021.04.27-01.20.15:112][335]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x4)
+[2021.04.27-01.21.04:019][914]LogActorFactory: Actor Factory created mid_brick_wndw_l_2x2
+[2021.04.27-01.21.05:262][960]LogActorFactory: Actor Factory created mid_brick_wndw_l_2x2
+[2021.04.27-01.21.09:399][118]LogActorFactory: Actor Factory created mid_brick_wndw_r_3x2
+[2021.04.27-01.21.11:503][196]LogActorFactory: Actor Factory created mid_brick_wndw_r_3x2
+[2021.04.27-01.21.12:542][237]Cmd: DELETE
+[2021.04.27-01.21.12:542][237]Cmd: ACTOR DELETE
+[2021.04.27-01.21.12:553][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-01.21.12:570][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.04.27-01.21.12:575][237]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.04.27-01.21.13:201][255]LogActorFactory: Actor Factory created mid_brick_wndw_r_2x2
+[2021.04.27-01.21.14:068][285]LogActorFactory: Actor Factory created mid_brick_wndw_r_2x2
+[2021.04.27-01.21.14:489][300]Cmd: DELETE
+[2021.04.27-01.21.14:489][300]Cmd: ACTOR DELETE
+[2021.04.27-01.21.14:500][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-01.21.14:529][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.27-01.21.14:530][300]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.04.27-01.21.14:977][312]LogActorFactory: Actor Factory created mid_brick_wndw_l_3x2
+[2021.04.27-01.21.15:868][345]LogActorFactory: Actor Factory created mid_brick_wndw_l_3x2
+[2021.04.27-01.21.16:171][356]Cmd: DELETE
+[2021.04.27-01.21.16:171][356]Cmd: ACTOR DELETE
+[2021.04.27-01.21.16:181][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-01.21.16:203][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.04.27-01.21.16:223][356]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.04.27-01.21.16:674][368]LogActorFactory: Actor Factory created mid_brick_wndw_l_2x2
+[2021.04.27-01.21.17:336][394]LogActorFactory: Actor Factory created mid_brick_wndw_l_2x2
+[2021.04.27-01.21.17:491][399]Cmd: DELETE
+[2021.04.27-01.21.17:491][399]Cmd: ACTOR DELETE
+[2021.04.27-01.21.17:501][399]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-01.21.17:519][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.27-01.21.17:521][399]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.04.27-01.21.17:990][412]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_3x2
+[2021.04.27-01.21.18:707][440]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_3x2
+[2021.04.27-01.21.19:682][479]Cmd: DELETE
+[2021.04.27-01.21.19:682][479]Cmd: ACTOR DELETE
+[2021.04.27-01.21.19:692][479]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-01.21.19:711][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.04.27-01.21.19:712][479]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.04.27-01.21.20:285][495]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_2x2
+[2021.04.27-01.21.21:083][528]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_2x2
+[2021.04.27-01.21.21:291][535]Cmd: DELETE
+[2021.04.27-01.21.21:291][535]Cmd: ACTOR DELETE
+[2021.04.27-01.21.21:303][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-01.21.21:320][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.04.27-01.21.21:321][535]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.04.27-01.21.21:918][551]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_l_3x2
+[2021.04.27-01.21.28:511][834]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_l_3x2
+[2021.04.27-01.21.38:926][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_l_2x3)
+[2021.04.27-01.21.49:653][757]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-01.21.52:517][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_l_2x3)
+[2021.04.27-01.21.54:539][976]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-01.21.58:617][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_l_2x3)
+[2021.04.27-01.22.02:798][294]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-01.22.04:735][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_l_3x4)
+[2021.04.27-01.22.11:687][713]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-01.22.24:222][267]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_l_2x2
+[2021.04.27-01.22.26:077][339]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_l_2x2
+[2021.04.27-01.22.28:983][457]Cmd: DELETE
+[2021.04.27-01.22.28:983][457]Cmd: ACTOR DELETE
+[2021.04.27-01.22.28:994][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-01.22.29:029][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.04.27-01.22.29:033][457]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.04.27-01.22.29:735][478]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_2x2
+[2021.04.27-01.22.33:140][619]LogActorFactory: Actor Factory created mid_brick_wndw_cnr_r_2x2
+[2021.04.27-01.22.41:637][970]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-01.22.49:595][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_5x1_a)
+[2021.04.27-01.22.53:819][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_clmn_dvdr_1x277)
+[2021.04.27-01.23.10:809][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x11)
+[2021.04.27-01.23.13:109][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x11)
+[2021.04.27-01.23.44:788][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x15)
+[2021.04.27-01.23.45:536][168]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_r_3x15)
+[2021.04.27-01.23.48:889][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x15)
+[2021.04.27-01.23.49:428][375]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x14)
+[2021.04.27-01.23.49:875][399]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x13)
+[2021.04.27-01.24.14:321][695]LogActorFactory: Actor Factory created upper_brick_wall_a_l_3x2
+[2021.04.27-01.24.19:331][899]LogActorFactory: Actor Factory created upper_brick_wall_a_l_3x2
+[2021.04.27-01.24.47:302][574]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Kivett_FinalMap/CityBuild.CityBuild:PersistentLevel.upper_brick_wall_a_l_3x54_219.StaticMeshComponent0)
+[2021.04.27-01.24.47:647][594]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Kivett_FinalMap/CityBuild.CityBuild:PersistentLevel.upper_brick_wall_a_l_3x54_219.StaticMeshComponent0)
+[2021.04.27-01.25.11:017][ 82]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.04.27-01.25.14:893][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_3x55)
+[2021.04.27-01.25.15:226][290]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_l_3x55)
+[2021.04.27-01.25.18:316][447]Cmd: ACTOR MIRROR Y=-1
+[2021.04.27-01.25.32:603][397]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-01.25.40:841][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x18)
+[2021.04.27-01.25.41:599][ 68]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x17)
+[2021.04.27-01.25.42:204][103]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x16)
+[2021.04.27-01.25.43:532][167]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_l_3x55)
+[2021.04.27-01.25.44:058][187]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_r_2x5)
+[2021.04.27-01.25.45:740][247]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_l_3x4)
+[2021.04.27-01.25.46:343][265]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_l_2x4)
+[2021.04.27-01.25.47:609][304]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_l_2x3)
+[2021.04.27-01.25.48:050][315]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x4)
+[2021.04.27-01.25.49:860][378]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_l_2x4)
+[2021.04.27-01.25.50:296][394]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_l_3x54)
+[2021.04.27-01.25.51:655][443]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (mid_brick_wndw_cnr_r_3x4)
+[2021.04.27-01.25.52:518][469]LogToolMenus: Error: UI command not found for menu entry: GroupActors, menu: LevelEditor.ActorContextMenu.GroupMenu
+[2021.04.27-01.25.57:694][683]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_clmn_dvdr_1x270)
+[2021.04.27-01.25.58:447][712]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wndw_d_3x2)
+[2021.04.27-01.25.59:630][759]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (store_front_door_5x1_a)
+[2021.04.27-01.26.00:691][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (store_front_door_5x1_a)
+[2021.04.27-01.26.01:316][825]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (store_front_door_5x1_a)
+[2021.04.27-01.26.04:306][941]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x4)
+[2021.04.27-01.26.05:673][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wndw_d_3x2)
+[2021.04.27-01.26.06:344][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wndw_d_3x2)
+[2021.04.27-01.26.07:117][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x4)
+[2021.04.27-01.26.07:973][ 90]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_l_3x4)
+[2021.04.27-01.26.08:825][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_l_2x4)
+[2021.04.27-01.26.09:707][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_l_2x3)
+[2021.04.27-01.26.10:311][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x4)
+[2021.04.27-01.26.11:860][250]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_l_2x3)
+[2021.04.27-01.26.12:283][266]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_l_2x4)
+[2021.04.27-01.26.12:754][282]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_l_3x4)
+[2021.04.27-01.26.14:476][342]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_l_2x4)
+[2021.04.27-01.26.14:873][353]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_l_3x54)
+[2021.04.27-01.26.16:229][421]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_r_3x16)
+[2021.04.27-01.26.17:298][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x16)
+[2021.04.27-01.26.18:258][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_3x54)
+[2021.04.27-01.26.19:729][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x16)
+[2021.04.27-01.26.23:663][867]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_clmn_dvdr_1x296)
+[2021.04.27-01.26.24:665][904]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_l_3x54)
+[2021.04.27-01.26.25:269][925]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_l_2x4)
+[2021.04.27-01.26.26:234][960]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_r_3x4)
+[2021.04.27-01.26.27:535][  1]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_l_2x3)
+[2021.04.27-01.26.28:022][ 13]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_l_2x4)
+[2021.04.27-01.26.28:525][ 30]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_l_3x4)
+[2021.04.27-01.26.30:263][ 93]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mid_brick_wndw_cnr_r_2x5)
+[2021.04.27-01.26.31:729][145]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (upper_brick_wall_a_l_3x55)
+[2021.04.27-01.26.32:394][172]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (upper_brick_wall_a_l_3x55)
+[2021.04.27-01.26.34:599][256]LogToolMenus: Error: UI command not found for menu entry: GroupActors, menu: LevelEditor.ActorContextMenu.GroupMenu
+[2021.04.27-01.26.37:141][358]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-01.26.37:676][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_3x55)
+[2021.04.27-01.26.43:069][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.04.27-01.26.44:047][564]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-01.26.44:088][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-01.26.44:223][564]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuild04A534EF4EDC2DF08D93098EA2995456.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap'
+[2021.04.27-01.26.44:240][564]LogFileHelpers: Saving map 'CityBuild' took 0.163
+[2021.04.27-01.26.44:249][564]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-01.26.44:249][564]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-01.27.08:027][257]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.27-01.27.11:106][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.04.27-01.27.11:996][380]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-01.27.12:047][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-01.27.12:176][380]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/CityBuildC1832929447FE034A50A50AE41112B51.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/CityBuild.umap'
+[2021.04.27-01.27.12:187][380]LogFileHelpers: Saving map 'CityBuild' took 0.164
+[2021.04.27-01.27.12:196][380]AssetCheck: New page: Asset Save: CityBuild
+[2021.04.27-01.27.12:196][380]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/CityBuild.CityBuild
+[2021.04.27-01.27.13:626][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.27-01.27.13:922][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-01.27.14:069][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
