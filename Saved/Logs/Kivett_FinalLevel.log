@@ -5966,3 +5966,831 @@ Exception rethrown at [0]:
 [2021.04.27-02.17.27:094][ 97]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.27-02.17.27:094][ 97]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Kivett_FinalMap/Kivett_FinalMap_GBox_BuiltData.Kivett_FinalMap_GBox_BuiltData
 [2021.04.27-02.17.27:094][ 97]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.18.25:473][377]LogEditorViewport: Clicking on Actor (LMB): Enemy_Character_C (Enemy_Character)
+[2021.04.27-02.18.38:811][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lightpost_light_post_b)
+[2021.04.27-02.19.05:518][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lightpost_light_post_b)
+[2021.04.27-02.19.06:259][686]Cmd: DELETE
+[2021.04.27-02.19.06:259][686]Cmd: ACTOR DELETE
+[2021.04.27-02.19.06:290][686]LogEditorActor: Deleted Actor: BP_lightpost_a1_C
+[2021.04.27-02.19.06:291][686]LogEditorActor: Deleted Actor: BP_lightpost_a1_C
+[2021.04.27-02.19.06:291][686]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.19.06:314][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.04.27-02.19.06:321][686]LogEditorActor: Deleted 3 Actors (0.062 secs)
+[2021.04.27-02.19.08:422][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lightpost_light_post_b2)
+[2021.04.27-02.19.16:464][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lightpost_light_post_b2)
+[2021.04.27-02.19.18:343][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_l_3x138)
+[2021.04.27-02.19.18:434][692]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (upper_brick_wall_a_l_3x138)
+[2021.04.27-02.19.19:999][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lightpost_light_post_b2)
+[2021.04.27-02.19.22:927][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lightpost_light_post_b3)
+[2021.04.27-02.19.24:130][189]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lightpost_light_post_b2)
+[2021.04.27-02.19.38:727][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_lightpost_light_post_b4)
+[2021.04.27-02.19.40:040][109]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_lightpost_light_post_b5)
+[2021.04.27-02.19.59:631][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.20.11:382][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.04.27-02.20.12:685][699]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.20.12:714][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-02.20.13:093][699]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox5A42783A4C5145ABFCE53F908ECC97DA.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.20.13:130][699]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.424
+[2021.04.27-02.20.13:142][699]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.20.13:142][699]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.20.31:054][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.04.27-02.20.42:144][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.27-02.20.43:500][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-02.20.43:693][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-02.21.15:588][339]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.21.26:351][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.04.27-02.21.27:943][224]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.21.27:970][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.04.27-02.21.28:352][224]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox864CE3ED46CF12A4148ED7915E8D166D.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.21.28:360][224]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.397
+[2021.04.27-02.21.28:371][224]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.21.28:371][224]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.21.29:133][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.04.27-02.21.29:231][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-02.21.29:362][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-02.21.36:179][778]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-02.21.36:187][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-02.21.36:187][778]PIE: New page: PIE session: Kivett_FinalMap_GBox (Apr 26, 2021, 6:21:36 PM)
+[2021.04.27-02.21.36:187][778]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox
+[2021.04.27-02.21.36:280][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093179s)
+[2021.04.27-02.21.36:282][778]LogAIModule: Creating AISystem for world Kivett_FinalMap_GBox
+[2021.04.27-02.21.36:282][778]LogPlayLevel: PIE: World Init took: (0.001958s)
+[2021.04.27-02.21.36:283][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox to /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox.Kivett_FinalMap_GBox (0.095600s)
+[2021.04.27-02.21.36:292][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.04.27-02.21.36:294][778]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.04.27-02.21.36:294][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-02.21.36:294][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-02.21.36:294][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-02.21.36:294][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-02.21.36:294][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-02.21.36:294][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-02.21.36:294][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-02.21.36:294][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-02.21.36:295][778]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-02.21.36:295][778]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-02.21.36:315][778]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-02.21.36:315][778]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-02.21.36:371][778]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.27-02.21.36:372][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-02.21.36:372][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-02.21.36:372][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-02.21.36:373][778]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-02.21.36:373][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-02.21.36:373][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-02.21.36:426][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-02.21.36:426][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-02.21.36:426][778]LogInit: FAudioDevice initialized.
+[2021.04.27-02.21.36:427][778]LogAudio: Display: Audio Device (ID: 7) registered with world 'Kivett_FinalMap_GBox'.
+[2021.04.27-02.21.36:447][778]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-02.21.36:500][778]LogWorld: Bringing World /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox.Kivett_FinalMap_GBox up for play (max tick rate 0) at 2021.04.26-22.21.36
+[2021.04.27-02.21.36:502][778]LogWorld: Bringing up level for play took: 0.053279
+[2021.04.27-02.21.36:502][778]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.04.27-02.21.36:512][778]PIE: Server logged in
+[2021.04.27-02.21.36:513][778]PIE: Play in editor total start time 0.328 seconds.
+[2021.04.27-02.22.42:138][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-02.22.42:139][671]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox
+[2021.04.27-02.22.42:140][671]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_GBox, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-02.22.42:148][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-02.22.42:212][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-02.22.42:232][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-02.22.42:243][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-02.22.42:249][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-02.22.42:251][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-02.22.42:308][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.04.27-02.22.42:384][672]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.04.27-02.22.43:647][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.04.27-02.22.43:827][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-02.22.43:988][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.04.27-02.22.45:404][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.27-02.22.45:565][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.27-02.22.45:730][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.27-02.22.45:885][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.27-02.22.51:244][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-02.22.51:417][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-02.22.51:546][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.27-02.22.51:881][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-02.22.52:048][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-02.22.52:196][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-02.23.02:778][370]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.27-02.25.36:148][543]Cmd: EDCALLBACK SURFPROPS
+[2021.04.27-02.25.58:379][941]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.27.47:907][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.04.27-02.27.48:963][640]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.27.49:017][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.27-02.27.49:440][640]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox54D578EE4913D5F181D79AB07F52B2FE.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.27.49:526][640]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.532
+[2021.04.27-02.27.49:548][640]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.27.49:548][640]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.27.56:601][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.04.27-02.28.39:008][855]Cmd: TRANSACTION UNDO
+[2021.04.27-02.28.39:008][855]LogEditorTransaction: Undo Scale Actors
+[2021.04.27-02.28.48:552][869]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2021.04.27-02.28.51:361][169]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2021.04.27-02.28.56:398][617]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.27-02.28.58:213][811]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2021.04.27-02.29.10:061][980]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.27-02.29.10:619][ 38]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.04.27-02.29.12:051][192]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2021.04.27-02.29.39:868][156]Cmd: TRANSACTION UNDO
+[2021.04.27-02.29.39:868][156]LogEditorTransaction: Undo Move Actors
+[2021.04.27-02.29.49:530][102]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.30.15:832][494]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.27-02.30.39:219][835]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2021.04.27-02.30.43:259][201]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.30.47:235][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.04.27-02.30.48:356][469]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.30.48:396][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-02.30.48:788][469]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxF220736E491DFB699C947E94C5835E26.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.30.48:797][469]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.409
+[2021.04.27-02.30.48:807][469]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.30.48:807][469]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.30.49:669][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.27-02.30.49:850][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.27-02.30.49:990][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-02.30.50:161][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.04.27-02.30.50:330][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-02.30.50:484][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-02.30.50:617][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.27-02.30.50:806][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-02.30.51:075][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.04.27-02.30.51:252][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.27-02.30.51:405][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.27-02.31.08:943][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.27-02.31.09:114][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-02.31.09:266][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-02.31.09:419][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.27-02.31.50:213][ 28]Cmd: TRANSACTION UNDO
+[2021.04.27-02.31.50:213][ 28]LogEditorTransaction: Undo Scale Actors
+[2021.04.27-02.31.52:098][ 98]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.32.02:473][824]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.32.56:644][854]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.33.36:470][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.34.05:216][775]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.34.10:996][162]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.04.27-02.34.11:787][181]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.34.45:529][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x34)
+[2021.04.27-02.35.16:474][976]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.35.53:774][180]Cmd: EDCALLBACK SURFPROPS
+[2021.04.27-02.35.57:963][445]Cmd: TRANSACTION UNDO
+[2021.04.27-02.35.57:963][445]LogEditorTransaction: Undo Select Brush Surface
+[2021.04.27-02.35.58:690][460]Cmd: TRANSACTION UNDO
+[2021.04.27-02.35.58:690][460]LogEditorTransaction: Undo Select Brush Surface
+[2021.04.27-02.35.59:660][460]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.903 s
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: 
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: Ensure condition failed: ComponentModel->Surfs.IsValidIndex(Node.iSurf) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/ModelRender.cpp] [Line: 408]
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: Invalid Surf Index, Idx:166, Num:179
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: Stack: 
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbb650e879 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbb55a657f UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbaaa4864f UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbaaa39ab8 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbaaa4cf09 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbaa405bad UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbaa9f4f13 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbaa9c918f UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbaa9de73d UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbaa9e2427 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbb8b0ecdc UE4Editor-Core.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbb8b0f0ce UE4Editor-Core.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbbb88a5c2 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbbb892c94 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbb906898b UE4Editor-Core.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffbb9061620 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffc29727034 KERNEL32.DLL!UnknownFunction []
+[2021.04.27-02.35.59:660][460]LogOutputDevice: Error: [Callstack] 0x00007ffc2b662651 ntdll.dll!UnknownFunction []
+[2021.04.27-02.35.59:661][460]LogOutputDevice: Error: 
+[2021.04.27-02.35.59:661][460]LogStats:                SubmitErrorReport -  0.000 s
+[2021.04.27-02.36.29:780][460]LogStats:                    SendNewReport - 30.120 s
+[2021.04.27-02.36.29:780][460]LogStats:             FDebug::EnsureFailed - 31.038 s
+[2021.04.27-02.36.30:143][461]Cmd: TRANSACTION UNDO
+[2021.04.27-02.36.30:143][461]LogEditorTransaction: Undo Select Surface
+[2021.04.27-02.36.30:184][461]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.36.30:249][461]LogEditorViewport: Clicking on Actor (context menu): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2021.04.27-02.36.30:721][461]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.36.30:739][461]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.36.30:746][461]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.04.27-02.36.32:810][542]Cmd: TRANSACTION UNDO
+[2021.04.27-02.36.32:810][542]LogEditorTransaction: Undo Clicking on Components
+[2021.04.27-02.36.33:380][569]Cmd: TRANSACTION UNDO
+[2021.04.27-02.36.33:380][569]LogEditorTransaction: Undo Clicking on Actors
+[2021.04.27-02.36.35:953][684]Cmd: TRANSACTION UNDO
+[2021.04.27-02.36.35:953][684]LogEditorTransaction: Undo Select Surfaces
+[2021.04.27-02.36.36:583][686]Cmd: TRANSACTION UNDO
+[2021.04.27-02.36.36:583][686]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.04.27-02.36.38:373][770]Cmd: TRANSACTION UNDO
+[2021.04.27-02.36.38:373][770]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.04.27-02.36.39:987][825]Cmd: TRANSACTION UNDO
+[2021.04.27-02.36.39:987][825]LogEditorTransaction: Undo Select Brush Surface
+[2021.04.27-02.36.41:276][867]Cmd: TRANSACTION UNDO
+[2021.04.27-02.36.41:276][867]LogEditorTransaction: Undo Move Actors
+[2021.04.27-02.36.58:215][713]Cmd: TRANSACTION UNDO
+[2021.04.27-02.36.58:215][713]LogEditorTransaction: Undo Select Brush Surface
+[2021.04.27-02.37.27:521][615]Cmd: DELETE
+[2021.04.27-02.37.27:521][615]Cmd: ACTOR DELETE
+[2021.04.27-02.37.27:594][615]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.37.27:595][615]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.37.27:595][615]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.37.27:595][615]LogEditorActor: Deleted Actor: Brush
+[2021.04.27-02.37.27:615][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.04.27-02.37.27:780][615]LogEditorActor: Deleted 4 Actors (0.258 secs)
+[2021.04.27-02.37.43:143][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_wall_a_r_3x34)
+[2021.04.27-02.37.50:613][877]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.37.57:235][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.04.27-02.37.58:178][261]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.37.58:219][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-02.37.58:667][261]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox8F197A764E6FA5C53A5A71BF02418100.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.37.58:730][261]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.530
+[2021.04.27-02.37.58:745][261]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.37.58:745][261]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.38.00:484][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.04.27-02.38.00:567][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-02.38.00:743][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-02.38.04:013][500]LogEditorViewport: Clicking on Actor (LMB): Enemy_Character_C (Enemy_Character)
+[2021.04.27-02.38.12:595][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.27-02.38.13:439][946]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.38.13:548][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.04.27-02.38.13:947][946]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxE0136BEB4EB0973A3956B49975481E6F.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.38.13:955][946]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.419
+[2021.04.27-02.38.13:965][946]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.38.13:966][946]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.38.31:091][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.27-02.38.31:271][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.27-02.38.31:530][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-02.38.31:708][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.27-02.38.31:863][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-02.38.32:076][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.04.27-02.38.32:260][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.27-02.38.32:642][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-02.38.32:823][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-02.38.32:983][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-02.38.33:168][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.27-02.38.33:289][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-02.38.33:469][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.04.27-02.38.37:327][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-02.38.37:482][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.27-02.38.37:637][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-02.38.39:055][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-02.38.39:207][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.04.27-02.39.04:605][830]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.39.04:824][837]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.39.07:500][966]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.39.08:369][997]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.39.11:682][227]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.39.20:349][694]LogActorFactory: Actor Factory created decal_sign_store_hours
+[2021.04.27-02.39.22:287][776]LogActorFactory: Actor Factory created decal_sign_store_hours
+[2021.04.27-02.39.32:314][417]Cmd: DELETE
+[2021.04.27-02.39.32:314][417]Cmd: ACTOR DELETE
+[2021.04.27-02.39.32:361][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.39.32:369][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.04.27-02.39.32:376][417]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.04.27-02.39.33:227][454]LogActorFactory: Actor Factory created decal_poster_lost_chicken
+[2021.04.27-02.39.33:927][486]LogActorFactory: Actor Factory created decal_poster_lost_chicken
+[2021.04.27-02.39.34:763][542]Cmd: DELETE
+[2021.04.27-02.39.34:763][542]Cmd: ACTOR DELETE
+[2021.04.27-02.39.34:813][542]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.39.34:821][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.04.27-02.39.34:823][542]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2021.04.27-02.39.36:300][601]LogActorFactory: Actor Factory created decal_sign_store_health_code
+[2021.04.27-02.39.36:952][626]LogActorFactory: Actor Factory created decal_sign_store_health_code
+[2021.04.27-02.39.40:230][849]Cmd: DELETE
+[2021.04.27-02.39.40:230][849]Cmd: ACTOR DELETE
+[2021.04.27-02.39.40:273][849]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.39.40:282][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.04.27-02.39.40:284][849]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.04.27-02.39.40:883][873]LogActorFactory: Actor Factory created decal_sign_store_hours
+[2021.04.27-02.39.41:403][889]LogActorFactory: Actor Factory created decal_sign_store_hours
+[2021.04.27-02.39.42:790][981]Cmd: DELETE
+[2021.04.27-02.39.42:791][981]Cmd: ACTOR DELETE
+[2021.04.27-02.39.42:833][981]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.39.42:841][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.27-02.39.42:843][981]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.04.27-02.39.43:521][  4]LogActorFactory: Actor Factory created decal_sign_store_sorry_open
+[2021.04.27-02.39.43:901][ 19]LogActorFactory: Actor Factory created decal_sign_store_sorry_open
+[2021.04.27-02.39.46:805][215]Cmd: DELETE
+[2021.04.27-02.39.46:805][215]Cmd: ACTOR DELETE
+[2021.04.27-02.39.46:847][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.39.46:856][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.04.27-02.39.46:858][215]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.04.27-02.39.47:368][232]LogActorFactory: Actor Factory created decal_sticker_alarm_warning
+[2021.04.27-02.39.47:740][242]LogActorFactory: Actor Factory created decal_sticker_alarm_warning
+[2021.04.27-02.39.50:873][455]Cmd: DELETE
+[2021.04.27-02.39.50:873][455]Cmd: ACTOR DELETE
+[2021.04.27-02.39.50:916][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.39.50:924][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.04.27-02.39.50:927][455]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.04.27-02.39.51:447][472]LogActorFactory: Actor Factory created decal_sticker_store_address_a
+[2021.04.27-02.39.51:893][483]LogActorFactory: Actor Factory created decal_sticker_store_address_a
+[2021.04.27-02.39.53:845][614]Cmd: DELETE
+[2021.04.27-02.39.53:845][614]Cmd: ACTOR DELETE
+[2021.04.27-02.39.53:888][614]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.39.53:896][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.04.27-02.39.53:898][614]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.04.27-02.39.54:385][628]LogActorFactory: Actor Factory created decal_sticker_store_address_b
+[2021.04.27-02.39.54:709][638]LogActorFactory: Actor Factory created decal_sticker_store_address_b
+[2021.04.27-02.39.55:973][721]Cmd: DELETE
+[2021.04.27-02.39.55:973][721]Cmd: ACTOR DELETE
+[2021.04.27-02.39.56:018][721]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.39.56:077][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.04.27-02.39.56:079][721]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2021.04.27-02.39.56:700][748]LogActorFactory: Actor Factory created decal_sticker_store_pull
+[2021.04.27-02.39.56:913][755]LogActorFactory: Actor Factory created decal_sticker_store_pull
+[2021.04.27-02.39.58:137][835]Cmd: DELETE
+[2021.04.27-02.39.58:137][835]Cmd: ACTOR DELETE
+[2021.04.27-02.39.58:181][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.39.58:189][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.04.27-02.39.58:191][835]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.04.27-02.39.58:986][874]LogActorFactory: Actor Factory created decal_sticker_store_push
+[2021.04.27-02.39.59:224][883]LogActorFactory: Actor Factory created decal_sticker_store_push
+[2021.04.27-02.40.00:293][953]Cmd: DELETE
+[2021.04.27-02.40.00:293][953]Cmd: ACTOR DELETE
+[2021.04.27-02.40.00:337][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.40.00:345][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.04.27-02.40.00:347][953]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.04.27-02.40.09:166][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rubble_dirt_pebble_pile_a)
+[2021.04.27-02.40.09:993][575]Cmd: DELETE
+[2021.04.27-02.40.09:994][575]Cmd: ACTOR DELETE
+[2021.04.27-02.40.10:043][575]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.40.10:051][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-02.40.10:054][575]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2021.04.27-02.40.10:546][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rubble_trash_pile_a)
+[2021.04.27-02.40.11:283][651]Cmd: DELETE
+[2021.04.27-02.40.11:283][651]Cmd: ACTOR DELETE
+[2021.04.27-02.40.11:325][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.40.11:333][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.04.27-02.40.11:335][651]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2021.04.27-02.40.32:104][694]LogActorFactory: Actor Factory created sign_store_b1
+[2021.04.27-02.40.32:520][712]LogActorFactory: Actor Factory created sign_store_b1
+[2021.04.27-02.40.35:587][905]Cmd: DELETE
+[2021.04.27-02.40.35:587][905]Cmd: ACTOR DELETE
+[2021.04.27-02.40.35:630][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.40.35:639][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.04.27-02.40.35:643][905]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2021.04.27-02.40.39:230][125]LogActorFactory: Actor Factory created sign_store_c1
+[2021.04.27-02.40.40:425][164]LogActorFactory: Actor Factory created sign_store_c1
+[2021.04.27-02.40.41:463][222]Cmd: DELETE
+[2021.04.27-02.40.41:463][222]Cmd: ACTOR DELETE
+[2021.04.27-02.40.41:514][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.40.41:523][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.04.27-02.40.41:525][222]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.04.27-02.40.43:865][340]LogActorFactory: Actor Factory created sign_store_b1
+[2021.04.27-02.40.44:221][353]LogActorFactory: Actor Factory created sign_store_b1
+[2021.04.27-02.40.45:296][414]Cmd: DELETE
+[2021.04.27-02.40.45:296][414]Cmd: ACTOR DELETE
+[2021.04.27-02.40.45:339][414]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.40.45:349][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.04.27-02.40.45:350][414]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.04.27-02.41.01:489][188]LogActorFactory: Actor Factory created deco_upper_ornament_flower_a
+[2021.04.27-02.41.01:997][205]LogActorFactory: Actor Factory created deco_upper_ornament_flower_a
+[2021.04.27-02.41.03:419][286]Cmd: DELETE
+[2021.04.27-02.41.03:419][286]Cmd: ACTOR DELETE
+[2021.04.27-02.41.03:461][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.41.03:471][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.04.27-02.41.03:476][286]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2021.04.27-02.41.06:262][432]LogActorFactory: Actor Factory created deco_upper_ornament_flower_b
+[2021.04.27-02.41.06:544][444]LogActorFactory: Actor Factory created deco_upper_ornament_flower_b
+[2021.04.27-02.41.07:504][498]Cmd: DELETE
+[2021.04.27-02.41.07:504][498]Cmd: ACTOR DELETE
+[2021.04.27-02.41.07:554][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.41.07:564][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.04.27-02.41.07:567][498]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.04.27-02.41.08:940][563]LogActorFactory: Actor Factory created deco_upper_ornament_flower_c
+[2021.04.27-02.41.09:130][569]LogActorFactory: Actor Factory created deco_upper_ornament_flower_c
+[2021.04.27-02.41.10:128][625]Cmd: DELETE
+[2021.04.27-02.41.10:128][625]Cmd: ACTOR DELETE
+[2021.04.27-02.41.10:172][625]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.41.10:182][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.04.27-02.41.10:184][625]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2021.04.27-02.41.13:761][763]LogActorFactory: Actor Factory created deco_upper_ornament_flower_c
+[2021.04.27-02.41.13:976][772]LogActorFactory: Actor Factory created deco_upper_ornament_flower_c
+[2021.04.27-02.41.23:427][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (deco_upper_ornament_flower_c)
+[2021.04.27-02.41.25:506][542]Cmd: DELETE
+[2021.04.27-02.41.25:506][542]Cmd: ACTOR DELETE
+[2021.04.27-02.41.25:548][542]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.41.25:557][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.04.27-02.41.25:562][542]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2021.04.27-02.41.28:191][657]LogActorFactory: Actor Factory created deco_upper_blocks_cnr_1x2
+[2021.04.27-02.41.28:527][668]LogActorFactory: Actor Factory created deco_upper_blocks_cnr_1x2
+[2021.04.27-02.41.30:873][800]Cmd: DELETE
+[2021.04.27-02.41.30:873][800]Cmd: ACTOR DELETE
+[2021.04.27-02.41.30:916][800]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.41.30:926][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.27-02.41.30:928][800]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2021.04.27-02.41.38:720][198]LogActorFactory: Actor Factory created plane_ground_4x4
+[2021.04.27-02.41.39:652][233]LogActorFactory: Actor Factory created plane_ground_4x4
+[2021.04.27-02.41.42:384][391]Cmd: DELETE
+[2021.04.27-02.41.42:384][391]Cmd: ACTOR DELETE
+[2021.04.27-02.41.42:429][391]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.27-02.41.42:440][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.04.27-02.41.42:443][391]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2021.04.27-02.42.03:018][578]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.42.03:275][584]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.42.50:098][926]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.42.51:438][ 32]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.42.59:997][893]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.43.00:874][949]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.43.04:255][258]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.05:525][329]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.07:567][528]Cmd: TRANSACTION UNDO
+[2021.04.27-02.43.07:567][528]LogEditorTransaction: Undo Create Actors
+[2021.04.27-02.43.08:937][595]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.10:277][696]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.12:813][914]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.43.14:266][  5]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.43.17:544][313]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.18:070][330]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.42:407][408]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.43:227][462]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.48:079][928]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.43.49:104][991]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.43.51:686][150]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.52:558][205]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.56:120][483]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.56:924][533]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.57:992][601]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.43.59:688][741]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.00:628][792]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.44.02:136][896]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.44.05:032][122]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.06:355][226]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.09:343][497]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.10:002][541]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.10:976][607]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.44.11:915][672]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.44.16:152][981]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.17:305][ 35]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.18:687][ 97]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.19:318][126]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.21:398][234]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.44.22:400][290]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.44.26:170][589]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.27:180][664]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.28:756][797]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-02.44.34:349][235]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.36:307][404]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.38:628][598]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.39:445][657]LogActorFactory: Actor Factory created rubble_trash_pile_a
+[2021.04.27-02.44.43:996][ 73]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.44.45:450][200]LogActorFactory: Actor Factory created rubble_dirt_pebble_pile_a
+[2021.04.27-02.44.47:765][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.04.27-02.44.49:411][353]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.44.49:456][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-02.44.49:873][353]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox9756B2E446F64004557565AF09651249.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.44.49:884][353]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.443
+[2021.04.27-02.44.49:901][353]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.44.49:901][353]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.44.54:981][655]MapCheck: New page: Map Check
+[2021.04.27-02.44.55:033][655]Cmd: MAP REBUILD ALLVISIBLE
+[2021.04.27-02.44.55:033][655]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.04.27-02.44.55:340][655]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_GBox, bSessionEnded=true, bCleanupResources=false
+[2021.04.27-02.44.55:764][655]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.04.27-02.44.55:764][655]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.04.27-02.44.55:764][655]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.04.27-02.44.55:793][655]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.04.27-02.44.55:815][655]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.03s
+[2021.04.27-02.44.55:837][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.04.27-02.44.55:981][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.04.27-02.44.56:310][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 48
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 47
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 46
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 45
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 44
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 43
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 42
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 41
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 40
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 39
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 38
+[2021.04.27-02.44.56:315][655]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 37
+[2021.04.27-02.44.56:315][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:324][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:331][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:336][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:343][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:346][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:349][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:353][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:355][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:358][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:360][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:364][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:366][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:368][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:370][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:373][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:376][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:380][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:395][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.44.56:403][655]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 78
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 77
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 76
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 75
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 74
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 73
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 72
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 71
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 70
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 69
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 68
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 67
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 66
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 65
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 64
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 63
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 62
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 61
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 60
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 59
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 58
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 57
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 56
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 55
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 54
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 53
+[2021.04.27-02.45.03:000][655]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 52
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 51
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 50
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 49
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 48
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 47
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 46
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 45
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 44
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 43
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 42
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 41
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 40
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 39
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 37
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 36
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 35
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 34
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 33
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 32
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 31
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 30
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 28
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 27
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 25
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 24
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 23
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 22
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 18
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 16
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.04.27-02.45.03:001][655]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.04.27-02.45.03:001][655]TextureStreamingBuild: Display: Compiling optional shaders took 7.119 seconds.
+[2021.04.27-02.45.03:437][655]LogLevel: Display: Export Material TexCoord Scales took 0.436 seconds.
+[2021.04.27-02.45.03:476][655]TextureStreamingBuild: Display: Build Texture Streaming took 0.039 seconds.
+[2021.04.27-02.45.03:495][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.04.27-02.45.03:498][655]LightingResults: New page: Lighting Build - Apr 26, 2021, 6:45:03 PM
+[2021.04.27-02.45.03:513][655]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.27-02.45.03:523][655]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.27-02.45.03:523][655]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.27-02.45.03:524][655]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.27-02.45.03:524][655]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5864
+[2021.04.27-02.45.08:098][655]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.04.27-02.45.08:101][655]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.27-02.45.08:101][655]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.27-02.45.08:101][655]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.27-02.45.08:101][655]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.27-02.45.08:101][655]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.27-02.45.08:226][655]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.04.27-02.45.08:226][655]MapCheck: New page: Kivett_FinalMap_GBox - Apr 26, 2021, 6:45:08 PM
+[2021.04.27-02.45.08:270][655]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.04.27-02.45.08:284][655]MapCheck: Warning: BP_lightpost_a3 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:284][655]MapCheck: Warning: BP_lightpost_a4 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:284][655]MapCheck: Warning: BP_lightpost_a5 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:284][655]MapCheck: Warning: BP_lightpost_a6 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:284][655]MapCheck: Warning: BP_lightpost_a7 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:284][655]MapCheck: Warning: BP_lightpost_a8 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:284][655]MapCheck: Warning: BP_lightpost_a9 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:285][655]MapCheck: Warning: BP_lightpost_a10 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:285][655]MapCheck: Warning: BP_lightpost_a11 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:285][655]MapCheck: Warning: BP_lightpost_a12 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:285][655]MapCheck: Warning: BP_lightpost_a13 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:285][655]MapCheck: Warning: BP_lightpost_a14 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:285][655]MapCheck: Warning: BP_lightpost_a15 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:285][655]MapCheck: Warning: BP_lightpost_a16 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:285][655]MapCheck: Warning: BP_lightpost_a17 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:285][655]MapCheck: Warning: BP_lightpost_a18 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:285][655]MapCheck: Warning: BP_lightpost_a19 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:286][655]MapCheck: Warning: BP_lightpost_a20 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:286][655]MapCheck: Warning: BP_lightpost_a21 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:286][655]MapCheck: Warning: BP_lightpost_a22 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.08:286][655]MapCheck: Map check complete: 1 Error(s), 20 Warning(s), took 59.356ms to complete.
+[2021.04.27-02.45.08:290][655]LogEditorBuildUtils: Build time 0:13
+[2021.04.27-02.45.08:646][655]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer trash_pile, compiling. 
+[2021.04.27-02.45.08:654][655]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer trash_pile, compiling. 
+[2021.04.27-02.45.08:661][655]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.04.27-02.45.08:661][655]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.04.27-02.45.08:666][655]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.04.27-02.45.08:666][655]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.04.27-02.45.09:090][656]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer dirt_pebble_pile, compiling. 
+[2021.04.27-02.45.09:096][656]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.04.27-02.45.09:096][656]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.04.27-02.45.09:096][656]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer dirt_pebble_pile, compiling. 
+[2021.04.27-02.45.09:101][656]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer dirt_pebble_pile, compiling. 
+[2021.04.27-02.45.09:143][657]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.04.27-02.45.09:143][657]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.04.27-02.45.09:143][657]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.04.27-02.45.09:143][657]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.04.27-02.45.09:152][657]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer brick_wall_beige, compiling. 
+[2021.04.27-02.45.09:159][657]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer brick_wall_beige, compiling. 
+[2021.04.27-02.45.10:501][659]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.04.27-02.45.10:501][659]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.04.27-02.45.10:501][659]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2021.04.27-02.45.10:501][659]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.04.27-02.45.10:803][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.04.27-02.45.29:148][266]Job is a success!
+[2021.04.27-02.45.29:388][267]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2021.04.27-02.45.29:388][267]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.04.27-02.45.29:388][267]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 1.2Mb due to 0.010000 MinBrickError)
+[2021.04.27-02.45.29:388][267]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.27-02.45.29:388][267]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2021.04.27-02.45.29:388][267]LogVolumetricLightmapImport:          1: 90.0% covering 14.1% of volume
+[2021.04.27-02.45.29:388][267]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.04.27-02.45.29:388][267]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.27-02.45.29:388][267]LogVolumetricLightmapImport:          Kivett_FinalMap_GBox 			 10 bricks 	 100.0% (Persistent Level)
+[2021.04.27-02.45.31:467][267]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:467][267]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:467][267]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:467][267]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:467][267]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:467][267]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:467][267]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:467][267]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 64X64)
+[2021.04.27-02.45.31:468][267]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 64X64)
+[2021.04.27-02.45.31:867][267]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 512X1024)
+[2021.04.27-02.45.32:067][267]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 32X32)
+[2021.04.27-02.45.32:068][267]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2021.04.27-02.45.32:285][267]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2021.04.27-02.45.32:285][267]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X1024)
+[2021.04.27-02.45.32:300][267]LogStaticLightingSystem: Kivett_FinalMap_GBox_BuiltData storing lightmap data for 1299 meshes in 28 LightmapResourceClusters (46.4 Meshes per cluster).
+[2021.04.27-02.45.32:617][267]Lightmass on DESKTOP-NR30UB4: 20.3 sec total, 489 ms importing, 137 ms setup, 2.40 sec photons, 17.1 sec processing, 0 ms extra exporting [1374/1374 mappings]. Threads: 4:17 min total, 2:43 min processing.
+[2021.04.27-02.45.32:749][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.04.27-02.45.33:058][267]LogStaticLightingSystem: Illumination: 29.5 sec (1.27 sec encoding lightmaps, 789 ms encoding shadowmaps)
+[2021.04.27-02.45.33:058][267]LogStaticLightingSystem: Lightmap texture memory:  22.0 MB (20.0 MB streaming, 2.0 MB non-streaming), 24 textures
+[2021.04.27-02.45.33:058][267]LogStaticLightingSystem: Shadowmap texture memory: 14.7 MB (12.0 MB streaming, 2.7 MB non-streaming), 5 textures
+[2021.04.27-02.45.38:125][267]DumpUnbuiltLightIteractions
+[2021.04.27-02.45.38:125][267]Lights with unbuilt interactions: 0
+[2021.04.27-02.45.38:125][267]
+[2021.04.27-02.45.38:125][267]Primitives with unbuilt interactions: 0
+[2021.04.27-02.45.38:234][268]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.27-02.45.38:234][268]MapCheck: New page: Kivett_FinalMap_GBox - Apr 26, 2021, 6:45:38 PM
+[2021.04.27-02.45.38:242][268]MapCheck: Warning: BP_lightpost_a3 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:242][268]MapCheck: Warning: BP_lightpost_a4 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:242][268]MapCheck: Warning: BP_lightpost_a5 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:242][268]MapCheck: Warning: BP_lightpost_a6 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:242][268]MapCheck: Warning: BP_lightpost_a7 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:242][268]MapCheck: Warning: BP_lightpost_a8 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:242][268]MapCheck: Warning: BP_lightpost_a9 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a10 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a11 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a12 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a13 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a14 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a15 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a16 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a17 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a18 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a19 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a20 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a21 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Warning: BP_lightpost_a22 Static mesh actor has NULL StaticMesh property 
+[2021.04.27-02.45.38:243][268]MapCheck: Map check complete: 0 Error(s), 20 Warning(s), took 9.21ms to complete.
+[2021.04.27-02.45.42:297][487]LogSlate: Window 'Message Log' being destroyed
+[2021.04.27-02.45.42:317][487]LogSlate: Window 'Message Log' being destroyed
+[2021.04.27-02.45.43:448][554]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-02.45.43:456][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-02.45.43:456][554]PIE: New page: PIE session: Kivett_FinalMap_GBox (Apr 26, 2021, 6:45:43 PM)
+[2021.04.27-02.45.43:456][554]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox
+[2021.04.27-02.45.43:599][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142222s)
+[2021.04.27-02.45.43:600][554]LogAIModule: Creating AISystem for world Kivett_FinalMap_GBox
+[2021.04.27-02.45.43:600][554]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2021.04.27-02.45.43:600][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox to /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox.Kivett_FinalMap_GBox (0.144120s)
+[2021.04.27-02.45.43:613][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.27-02.45.43:616][554]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.04.27-02.45.43:616][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-02.45.43:616][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-02.45.43:616][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-02.45.43:616][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-02.45.43:616][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-02.45.43:616][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-02.45.43:616][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-02.45.43:616][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-02.45.43:617][554]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-02.45.43:617][554]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-02.45.43:620][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-02.45.43:621][554]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-02.45.43:694][554]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.27-02.45.43:694][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-02.45.43:694][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-02.45.43:694][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-02.45.43:695][554]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-02.45.43:696][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-02.45.43:696][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-02.45.43:723][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-02.45.43:723][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-02.45.43:723][554]LogInit: FAudioDevice initialized.
+[2021.04.27-02.45.43:723][554]LogAudio: Display: Audio Device (ID: 8) registered with world 'Kivett_FinalMap_GBox'.
+[2021.04.27-02.45.43:738][554]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-02.45.43:785][554]LogWorld: Bringing World /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox.Kivett_FinalMap_GBox up for play (max tick rate 0) at 2021.04.26-22.45.43
+[2021.04.27-02.45.43:787][554]LogWorld: Bringing up level for play took: 0.047655
+[2021.04.27-02.45.43:787][554]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.04.27-02.45.43:793][554]PIE: Server logged in
+[2021.04.27-02.45.43:794][554]PIE: Play in editor total start time 0.34 seconds.
+[2021.04.27-02.46.58:227][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-02.46.58:227][494]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/UEDPIE_0_Kivett_FinalMap_GBox
+[2021.04.27-02.46.58:229][494]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_GBox, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-02.46.58:235][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-02.46.58:249][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-02.46.58:280][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-02.46.58:298][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-02.46.58:299][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-02.46.58:300][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-02.46.58:329][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.04.27-02.46.58:373][495]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.04.27-02.47.10:269][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.04.27-02.47.11:123][461]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.47.11:161][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-02.47.11:802][461]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox5BB89E4E4EE0B954ACF3D18CB3E280BF.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.47.11:810][461]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.658
+[2021.04.27-02.47.12:592][461]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox_BuiltDataC7D227D940793CE6BE119584312AF40D.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox_BuiltData.uasset'
+[2021.04.27-02.47.13:362][461]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox_BuiltDataB79A80D942A432D08B35BBBE4331374A.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox_BuiltData.uasset'
+[2021.04.27-02.47.13:413][461]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.27-02.47.13:413][461]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Kivett_FinalMap/Kivett_FinalMap_GBox_BuiltData.Kivett_FinalMap_GBox_BuiltData
+[2021.04.27-02.47.13:413][461]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.48.37:135][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.04.27-02.48.38:181][165]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-02.48.38:219][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.27-02.48.38:858][165]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBoxB0F07D7A4E2F94A2559FA587BDD3A29D.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Kivett_FinalMap_GBox.umap'
+[2021.04.27-02.48.38:879][165]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox' took 0.676
+[2021.04.27-02.48.38:937][165]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox
+[2021.04.27-02.48.38:937][165]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Kivett_FinalMap_GBox.Kivett_FinalMap_GBox
+[2021.04.27-02.48.39:835][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.04.27-02.48.40:239][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.27-02.48.40:439][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-02.48.47:312][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-02.48.47:485][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-02.48.47:642][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-02.48.47:797][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.27-02.48.47:953][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.27-02.48.48:109][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-02.48.48:244][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-02.48.48:421][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.27-02.48.48:580][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.04.27-02.48.48:711][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-02.48.48:911][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-02.48.49:067][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-02.48.49:238][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.27-02.48.49:400][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.27-02.48.49:573][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.27-02.48.49:738][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.27-02.48.57:648][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.27-02.48.57:815][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-02.48.57:982][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.04.27-02.48.58:123][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.27-02.48.58:266][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-02.48.58:408][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.04.27-02.48.58:549][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.27-02.48.58:692][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-02.48.58:838][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.27-02.51.13:474][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
