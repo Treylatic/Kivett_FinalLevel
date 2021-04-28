@@ -2568,3 +2568,921 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-02.31.55:487][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2021.04.28-02.31.56:588][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2021.04.28-02.31.56:714][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.04.28-02.32.28:754][322]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.28-02.32.28:769][322]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.04.28-02.32.28:782][322]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.04.28-02.32.32:133][587]LogContentBrowser: Attempting asset rename: NewBlueprint -> Door
+[2021.04.28-02.32.32:154][587]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.04.28-02.32.42:934][456]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kivett_FinalMap/BluePrints/Door.Door
+[2021.04.28-02.34.11:586][740]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.28-02.35.19:696][209]BlueprintLog: New page: Compile Door
+[2021.04.28-02.35.19:767][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.04.28-02.41.38:415][513]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper:PersistentLevel.Kivett_FinalMap_Ripper
+[2021.04.28-02.43.19:294][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.04.28-02.43.20:313][501]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_Ripper_Auto1A9AAEC504250C83AEE0E10B7652C51E9.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Autosaves/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper_Auto1.umap'
+[2021.04.28-02.43.20:317][501]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper' took 1.065
+[2021.04.28-02.43.20:318][501]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.065
+[2021.04.28-02.44.40:654][612]BlueprintLog: New page: Compile Kivett_FinalMap_Ripper
+[2021.04.28-02.44.40:779][612]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.04.28-02.44.43:342][750]LogSlate: Window 'Kivett_FinalMap_Ripper' being destroyed
+[2021.04.28-02.44.43:401][750]LogSlate: Window 'Kivett_FinalMap_Ripper' being destroyed
+[2021.04.28-02.44.43:410][750]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.44.43:410][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.44.43:524][750]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.28-02.44.43:524][750]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.44.43:524][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.44.43:598][750]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.44.43:599][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.45.16:384][275]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.28-02.47.13:151][  7]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.28-02.47.13:154][  7]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.28-02.47.13:162][  7]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.47.13:162][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.47.42:046][725]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy_Character.Enemy_Character
+[2021.04.28-02.51.08:111][ 64]BlueprintLog: New page: Compile Enemy_Character
+[2021.04.28-02.51.08:318][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.04.28-02.51.16:024][484]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.28-02.52.35:606][575]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.28-02.52.35:668][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.04.28-02.52.37:913][703]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-02.52.37:921][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-02.52.37:921][703]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 6:52:37 PM)
+[2021.04.28-02.52.37:921][703]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.52.38:499][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.578506s)
+[2021.04.28-02.52.38:502][703]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.52.38:503][703]LogPlayLevel: PIE: World Init took: (0.003258s)
+[2021.04.28-02.52.38:503][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.582327s)
+[2021.04.28-02.52.38:536][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.04.28-02.52.38:537][703]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.04.28-02.52.38:537][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-02.52.38:537][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-02.52.38:537][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-02.52.38:537][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-02.52.38:537][703]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-02.52.38:537][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-02.52.38:537][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-02.52.38:537][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-02.52.38:538][703]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-02.52.38:538][703]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-02.52.38:627][703]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-02.52.38:627][703]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-02.52.38:649][703]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-02.52.38:650][703]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-02.52.38:650][703]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-02.52.38:650][703]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-02.52.38:650][703]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-02.52.38:650][703]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-02.52.38:650][703]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-02.52.38:668][703]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-02.52.38:669][703]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-02.52.38:669][703]LogInit: FAudioDevice initialized.
+[2021.04.28-02.52.38:669][703]LogAudio: Display: Audio Device (ID: 16) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.52.38:679][703]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.52.38:740][703]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.52.38
+[2021.04.28-02.52.38:742][703]LogWorld: Bringing up level for play took: 0.061850
+[2021.04.28-02.52.38:742][703]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.04.28-02.52.38:747][703]PIE: Server logged in
+[2021.04.28-02.52.38:748][703]PIE: Play in editor total start time 0.829 seconds.
+[2021.04.28-02.52.51:963][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-02.52.51:963][811]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.52.51:965][811]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.52.51:975][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.52.51:988][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-02.52.52:019][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.52.52:085][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.52.52:090][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-02.52.52:092][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-02.52.52:110][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-02.52.52:123][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.04.28-02.52.52:165][812]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.04.28-02.53.04:781][474]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.28-02.53.04:839][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.04.28-02.53.05:729][521]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.53.05:729][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.53.09:904][769]BlueprintLog: New page: Compile Enemy_Character
+[2021.04.28-02.53.09:967][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.04.28-02.53.10:977][828]LogSlate: Window 'Enemy_Character' being destroyed
+[2021.04.28-02.53.10:983][828]LogSlate: Window 'Enemy_Character' being destroyed
+[2021.04.28-02.53.10:987][828]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.28-02.53.10:987][828]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.53.10:987][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.53.11:679][882]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-02.53.11:686][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-02.53.11:686][882]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 6:53:11 PM)
+[2021.04.28-02.53.11:724][882]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.53.11:913][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188540s)
+[2021.04.28-02.53.11:914][882]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.53.11:915][882]LogPlayLevel: PIE: World Init took: (0.002284s)
+[2021.04.28-02.53.11:915][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.191253s)
+[2021.04.28-02.53.11:940][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.04.28-02.53.11:942][882]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.04.28-02.53.11:942][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-02.53.11:942][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-02.53.11:942][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-02.53.11:942][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-02.53.11:942][882]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-02.53.11:942][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-02.53.11:942][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-02.53.11:942][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-02.53.11:942][882]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-02.53.11:942][882]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-02.53.11:946][882]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-02.53.11:947][882]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-02.53.11:959][882]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-02.53.11:959][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-02.53.11:960][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-02.53.11:960][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-02.53.11:961][882]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-02.53.11:961][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-02.53.11:961][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-02.53.11:977][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-02.53.11:977][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-02.53.11:977][882]LogInit: FAudioDevice initialized.
+[2021.04.28-02.53.11:977][882]LogAudio: Display: Audio Device (ID: 17) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.53.11:985][882]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.53.12:045][882]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.53.12
+[2021.04.28-02.53.12:047][882]LogWorld: Bringing up level for play took: 0.061095
+[2021.04.28-02.53.12:047][882]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.04.28-02.53.12:052][882]PIE: Server logged in
+[2021.04.28-02.53.12:053][882]PIE: Play in editor total start time 0.368 seconds.
+[2021.04.28-02.53.23:057][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-02.53.23:058][645]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.53.23:061][645]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.53.23:077][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.53.23:088][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-02.53.23:118][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.53.23:146][645]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.53.23:146][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-02.53.23:148][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-02.53.23:167][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-02.53.23:180][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.04.28-02.53.23:223][646]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.04.28-02.53.24:151][704]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.28-02.54.07:028][307]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.28-02.54.07:083][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.04.28-02.54.08:924][423]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.28-02.54.08:931][423]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.28-02.54.08:935][423]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.54.08:935][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.54.10:808][571]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-02.54.10:815][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-02.54.10:816][571]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 6:54:10 PM)
+[2021.04.28-02.54.10:841][571]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.54.11:025][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.183912s)
+[2021.04.28-02.54.11:026][571]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.54.11:027][571]LogPlayLevel: PIE: World Init took: (0.002007s)
+[2021.04.28-02.54.11:027][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.186281s)
+[2021.04.28-02.54.11:054][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.04.28-02.54.11:056][571]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.04.28-02.54.11:056][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-02.54.11:056][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-02.54.11:056][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-02.54.11:056][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-02.54.11:056][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-02.54.11:056][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-02.54.11:056][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-02.54.11:056][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-02.54.11:057][571]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-02.54.11:057][571]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-02.54.11:061][571]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-02.54.11:061][571]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-02.54.11:073][571]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-02.54.11:073][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-02.54.11:073][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-02.54.11:073][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-02.54.11:074][571]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-02.54.11:074][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-02.54.11:074][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-02.54.11:093][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-02.54.11:093][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-02.54.11:093][571]LogInit: FAudioDevice initialized.
+[2021.04.28-02.54.11:093][571]LogAudio: Display: Audio Device (ID: 18) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.54.11:102][571]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.54.11:164][571]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.54.11
+[2021.04.28-02.54.11:165][571]LogWorld: Bringing up level for play took: 0.063124
+[2021.04.28-02.54.11:166][571]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.04.28-02.54.11:171][571]PIE: Server logged in
+[2021.04.28-02.54.11:172][571]PIE: Play in editor total start time 0.358 seconds.
+[2021.04.28-02.54.24:834][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-02.54.24:834][890]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.54.24:836][890]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.54.24:848][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.54.24:860][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-02.54.24:892][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.54.24:925][890]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.54.24:925][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-02.54.24:927][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-02.54.24:945][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-02.54.24:966][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.04.28-02.54.25:005][891]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.04.28-02.54.30:333][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kivett_FinalMap/BluePrints/Door.Door
+[2021.04.28-02.54.32:051][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.04.28-02.54.32:847][353]LogSlate: Window 'Save Content' being destroyed
+[2021.04.28-02.54.32:906][353]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Door8A10E00D47C608ADCF41EF96C70C7095.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/BluePrints/Door.uasset'
+[2021.04.28-02.54.33:036][353]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Enemy_Character8902B15C433D279DB985A180CEB6D7C5.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Blueprints/Enemy_Character.uasset'
+[2021.04.28-02.54.33:158][353]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/FirstPersonCharacter91A03C1E45FC015E09A7A38BDD15DA54.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.04.28-02.54.33:301][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.04.28-02.54.34:282][353]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox129A15AF8459F69AD87227EA13C9FB6BB.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Built_Levels/Kivett_FinalMap_GBox1.umap'
+[2021.04.28-02.54.34:378][353]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox1' took 1.218
+[2021.04.28-02.54.34:423][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.04.28-02.54.35:358][353]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_RipperF3D7124C4E480F66EB3E1486210666BC.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.umap'
+[2021.04.28-02.54.35:371][353]LogFileHelpers: Saving map 'Kivett_FinalMap_Ripper' took 0.992
+[2021.04.28-02.54.35:444][353]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-02.54.35:444][353]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_Character.Enemy_Character
+[2021.04.28-02.54.35:444][353]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.28-02.54.35:445][353]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper
+[2021.04.28-02.54.35:445][353]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Built_Levels/Kivett_FinalMap_GBox1.Kivett_FinalMap_GBox1
+[2021.04.28-02.54.35:445][353]LogContentValidation: Display: Validating Blueprint /Game/Kivett_FinalMap/BluePrints/Door.Door
+[2021.04.28-02.54.36:808][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.04.28-02.54.37:146][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.04.28-02.55.49:821][781]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.28-02.57.33:921][ 91]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.28-02.57.33:931][ 91]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.28-03.02.36:432][156]BlueprintLog: New page: Compile Door
+[2021.04.28-03.02.37:545][156]LogUObjectHash: Compacting FUObjectHashTables data took  31.00ms
+[2021.04.28-03.04.09:251][705]BlueprintLog: New page: Compile Door
+[2021.04.28-03.04.09:270][705]LogBlueprint: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] Could not find a variable named "GateClosed" in 'Door_C'.
+Make sure 'Door_C' has been compiled for  Set GateClosed
+[2021.04.28-03.04.09:270][705]LogBlueprint: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] Could not find a variable named "GateClosed" in 'Door_C'.
+Make sure 'Door_C' has been compiled for  Set GateClosed
+[2021.04.28-03.04.09:271][705]LogBlueprint: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] Could not find a variable named "AlphaBar" in 'Door_C'.
+Make sure 'Door_C' has been compiled for  Get AlphaBar
+[2021.04.28-03.04.09:271][705]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] In use pin  New Track 0  no longer exists on node  Timeline_0 . Please refresh node or break links to remove pin.
+[2021.04.28-03.04.09:279][705]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] The property associated with  Gate Closed  could not be found in '/Game/Kivett_FinalMap/BluePrints/Door.Door_C'
+[2021.04.28-03.04.09:279][705]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] The property associated with  Alpha Bar  could not be found in '/Game/Kivett_FinalMap/BluePrints/Door.Door_C'
+[2021.04.28-03.04.09:279][705]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] The property associated with  Gate Closed  could not be found in '/Game/Kivett_FinalMap/BluePrints/Door.Door_C'
+[2021.04.28-03.04.09:592][705]LogUObjectHash: Compacting FUObjectHashTables data took  12.37ms
+[2021.04.28-03.04.10:535][769]BlueprintLog: New page: Compile Door
+[2021.04.28-03.04.10:572][769]LogBlueprint: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] Could not find a variable named "GateClosed" in 'Door_C'.
+Make sure 'Door_C' has been compiled for  Set GateClosed
+[2021.04.28-03.04.10:572][769]LogBlueprint: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] Could not find a variable named "GateClosed" in 'Door_C'.
+Make sure 'Door_C' has been compiled for  Set GateClosed
+[2021.04.28-03.04.10:573][769]LogBlueprint: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] Could not find a variable named "AlphaBar" in 'Door_C'.
+Make sure 'Door_C' has been compiled for  Get AlphaBar
+[2021.04.28-03.04.10:573][769]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] In use pin  New Track 0  no longer exists on node  Timeline_0 . Please refresh node or break links to remove pin.
+[2021.04.28-03.04.10:575][769]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] The property associated with  Gate Closed  could not be found in '/Game/Kivett_FinalMap/BluePrints/Door.Door_C'
+[2021.04.28-03.04.10:576][769]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] The property associated with  Alpha Bar  could not be found in '/Game/Kivett_FinalMap/BluePrints/Door.Door_C'
+[2021.04.28-03.04.10:576][769]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] The property associated with  Gate Closed  could not be found in '/Game/Kivett_FinalMap/BluePrints/Door.Door_C'
+[2021.04.28-03.04.10:625][769]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.04.28-03.05.13:197][635]BlueprintLog: New page: Compile Door
+[2021.04.28-03.05.13:201][635]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] In use pin  New Track 0  no longer exists on node  Timeline_0 . Please refresh node or break links to remove pin.
+[2021.04.28-03.05.13:202][635]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.04.28-03.05.13:250][635]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.04.28-03.05.49:009][619]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SButton [STimelineEditor.cpp(999)].
+[2021.04.28-03.05.49:079][619]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2021.04.28-03.05.49:084][619]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper' took 0.039
+[2021.04.28-03.05.49:085][619]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Kivett_FinalMap/BluePrints/Door] ([1] browsable assets)...
+[2021.04.28-03.05.49:108][619]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Kivett_FinalMap/BluePrints/Door.Door]
+[2021.04.28-03.05.49:108][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kivett_FinalMap/BluePrints/Door]
+[2021.04.28-03.05.49:215][619]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Door_Auto28CE352F94B63DF730F6EED800A3EAF7D.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Autosaves/Game/Kivett_FinalMap/BluePrints/Door_Auto2.uasset'
+[2021.04.28-03.05.49:237][619]LogFileHelpers: Auto-saving content packages took 0.153
+[2021.04.28-03.06.07:807][491]BlueprintLog: New page: Compile Door
+[2021.04.28-03.06.07:884][491]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.04.28-03.06.09:772][605]BlueprintLog: New page: Compile Door
+[2021.04.28-03.06.09:822][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.04.28-03.06.09:959][611]BlueprintLog: New page: Compile Door
+[2021.04.28-03.06.10:028][611]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.04.28-03.06.10:114][614]BlueprintLog: New page: Compile Door
+[2021.04.28-03.06.10:205][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2021.04.28-03.06.42:944][147]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2021.04.28-03.06.53:660][ 89]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.28-03.08.18:644][960]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.28-03.08.18:649][960]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.28-03.08.20:720][ 84]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.28-03.08.24:799][329]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.28-03.08.24:805][329]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.28-03.08.37:726][163]BlueprintLog: New page: Compile Door
+[2021.04.28-03.08.37:820][163]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.04.28-03.08.39:563][270]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-03.08.39:595][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-03.08.39:595][270]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 7:08:39 PM)
+[2021.04.28-03.08.39:595][270]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.08.39:818][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.222915s)
+[2021.04.28-03.08.39:821][270]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-03.08.39:821][270]LogPlayLevel: PIE: World Init took: (0.003005s)
+[2021.04.28-03.08.39:822][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.226311s)
+[2021.04.28-03.08.39:873][270]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2021.04.28-03.08.39:876][270]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.04.28-03.08.39:876][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-03.08.39:876][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-03.08.39:876][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-03.08.39:876][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-03.08.39:876][270]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-03.08.39:876][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-03.08.39:876][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-03.08.39:876][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-03.08.39:876][270]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-03.08.39:876][270]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-03.08.39:880][270]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-03.08.39:880][270]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-03.08.39:894][270]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-03.08.39:894][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-03.08.39:894][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-03.08.39:894][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-03.08.39:895][270]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-03.08.39:895][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-03.08.39:895][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-03.08.39:912][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-03.08.39:913][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-03.08.39:913][270]LogInit: FAudioDevice initialized.
+[2021.04.28-03.08.39:913][270]LogAudio: Display: Audio Device (ID: 19) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-03.08.39:926][270]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-03.08.40:012][270]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-23.08.40
+[2021.04.28-03.08.40:014][270]LogWorld: Bringing up level for play took: 0.087106
+[2021.04.28-03.08.40:014][270]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.04.28-03.08.40:045][270]PIE: Server logged in
+[2021.04.28-03.08.40:046][270]PIE: Play in editor total start time 0.477 seconds.
+[2021.04.28-03.08.45:596][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.08.45:596][796]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.08.45:599][796]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-03.08.45:613][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.08.45:628][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-03.08.45:646][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.08.45:737][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.08.45:744][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.08.45:746][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.08.45:779][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.04.28-03.08.45:823][797]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.04.28-03.08.48:836][994]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-03.08.48:843][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-03.08.48:844][994]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 7:08:48 PM)
+[2021.04.28-03.08.48:844][994]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.08.49:014][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.170214s)
+[2021.04.28-03.08.49:016][994]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-03.08.49:016][994]LogPlayLevel: PIE: World Init took: (0.002011s)
+[2021.04.28-03.08.49:016][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.172566s)
+[2021.04.28-03.08.49:047][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.04.28-03.08.49:048][994]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.04.28-03.08.49:048][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-03.08.49:048][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-03.08.49:048][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-03.08.49:048][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-03.08.49:048][994]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-03.08.49:048][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-03.08.49:050][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-03.08.49:050][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-03.08.49:050][994]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-03.08.49:050][994]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-03.08.49:054][994]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-03.08.49:054][994]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-03.08.49:065][994]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-03.08.49:066][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-03.08.49:066][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-03.08.49:066][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-03.08.49:066][994]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-03.08.49:066][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-03.08.49:066][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-03.08.49:086][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-03.08.49:086][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-03.08.49:086][994]LogInit: FAudioDevice initialized.
+[2021.04.28-03.08.49:086][994]LogAudio: Display: Audio Device (ID: 20) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-03.08.49:098][994]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-03.08.49:161][994]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-23.08.49
+[2021.04.28-03.08.49:163][994]LogWorld: Bringing up level for play took: 0.064669
+[2021.04.28-03.08.49:163][994]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.04.28-03.08.49:169][994]PIE: Server logged in
+[2021.04.28-03.08.49:170][994]PIE: Play in editor total start time 0.328 seconds.
+[2021.04.28-03.09.05:728][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.09.05:728][741]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.09.05:730][741]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-03.09.05:741][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.09.05:752][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-03.09.05:770][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.09.05:859][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.09.05:859][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.09.05:861][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.09.05:929][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.04.28-03.09.05:974][742]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.04.28-03.09.32:029][361]BlueprintLog: New page: Compile Door
+[2021.04.28-03.09.32:092][361]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.04.28-03.09.44:324][965]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.28-03.09.58:184][610]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.28-03.10.02:787][854]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.28-03.10.03:032][859]LogEditorTransaction: Undo Change Vector Pin Value
+[2021.04.28-03.10.26:262][291]BlueprintLog: New page: Compile Door
+[2021.04.28-03.10.26:352][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.04.28-03.10.28:305][414]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-03.10.28:313][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-03.10.28:313][414]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 7:10:28 PM)
+[2021.04.28-03.10.28:313][414]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.10.28:487][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.173551s)
+[2021.04.28-03.10.28:488][414]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-03.10.28:489][414]LogPlayLevel: PIE: World Init took: (0.001974s)
+[2021.04.28-03.10.28:489][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.175853s)
+[2021.04.28-03.10.28:522][414]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.04.28-03.10.28:523][414]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.04.28-03.10.28:523][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-03.10.28:523][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-03.10.28:523][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-03.10.28:523][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-03.10.28:523][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-03.10.28:523][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-03.10.28:523][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-03.10.28:523][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-03.10.28:524][414]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-03.10.28:524][414]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-03.10.28:528][414]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-03.10.28:528][414]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-03.10.28:540][414]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-03.10.28:541][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-03.10.28:541][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-03.10.28:541][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-03.10.28:542][414]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-03.10.28:542][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-03.10.28:542][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-03.10.28:560][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-03.10.28:560][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-03.10.28:560][414]LogInit: FAudioDevice initialized.
+[2021.04.28-03.10.28:560][414]LogAudio: Display: Audio Device (ID: 21) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-03.10.28:570][414]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-03.10.28:633][414]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-23.10.28
+[2021.04.28-03.10.28:634][414]LogWorld: Bringing up level for play took: 0.063785
+[2021.04.28-03.10.28:634][414]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.04.28-03.10.28:640][414]PIE: Server logged in
+[2021.04.28-03.10.28:641][414]PIE: Play in editor total start time 0.33 seconds.
+[2021.04.28-03.10.33:730][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.10.33:730][909]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.10.33:732][909]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-03.10.33:743][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.10.33:756][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-03.10.33:772][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.10.33:807][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-03.10.33:808][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.10.33:810][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.10.33:829][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.10.33:853][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.04.28-03.10.33:904][910]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.04.28-03.10.38:107][227]Cmd: DELETE
+[2021.04.28-03.10.38:135][227]Cmd: ACTOR DELETE
+[2021.04.28-03.10.38:327][227]LogEditorActor: Deleted Actor: Door_C
+[2021.04.28-03.10.38:369][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.04.28-03.10.38:392][227]LogEditorActor: Deleted 1 Actors (0.157 secs)
+[2021.04.28-03.10.43:192][486]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-03.10.43:200][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-03.10.43:200][486]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 7:10:43 PM)
+[2021.04.28-03.10.43:228][486]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.10.43:429][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.201100s)
+[2021.04.28-03.10.43:432][486]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-03.10.43:434][486]LogPlayLevel: PIE: World Init took: (0.004819s)
+[2021.04.28-03.10.43:435][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.206670s)
+[2021.04.28-03.10.43:652][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.04.28-03.10.43:654][486]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.04.28-03.10.43:654][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-03.10.43:654][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-03.10.43:654][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-03.10.43:654][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-03.10.43:654][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-03.10.43:654][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-03.10.43:654][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-03.10.43:654][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-03.10.43:655][486]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-03.10.43:655][486]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-03.10.43:658][486]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-03.10.43:659][486]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-03.10.43:671][486]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-03.10.43:671][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-03.10.43:671][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-03.10.43:671][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-03.10.43:692][486]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-03.10.43:692][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-03.10.43:692][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-03.10.43:693][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-03.10.43:693][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-03.10.43:693][486]LogInit: FAudioDevice initialized.
+[2021.04.28-03.10.43:693][486]LogAudio: Display: Audio Device (ID: 22) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-03.10.43:702][486]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-03.10.43:762][486]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-23.10.43
+[2021.04.28-03.10.43:764][486]LogWorld: Bringing up level for play took: 0.061523
+[2021.04.28-03.10.43:764][486]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.04.28-03.10.43:772][486]PIE: Server logged in
+[2021.04.28-03.10.43:773][486]PIE: Play in editor total start time 0.574 seconds.
+[2021.04.28-03.10.57:632][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.10.57:632][497]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.10.57:634][497]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-03.10.57:646][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.10.57:663][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-03.10.57:680][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.10.57:716][497]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-03.10.57:716][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.10.57:717][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.10.57:736][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.10.57:762][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.04.28-03.10.57:807][498]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.04.28-03.11.33:291][430]BlueprintLog: New page: Compile Door
+[2021.04.28-03.11.33:357][430]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.04.28-03.11.35:367][558]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-03.11.35:374][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-03.11.35:374][558]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 7:11:35 PM)
+[2021.04.28-03.11.35:374][558]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.11.35:554][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180644s)
+[2021.04.28-03.11.35:556][558]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-03.11.35:557][558]LogPlayLevel: PIE: World Init took: (0.002692s)
+[2021.04.28-03.11.35:557][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.183664s)
+[2021.04.28-03.11.35:589][558]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.04.28-03.11.35:590][558]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.04.28-03.11.35:591][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-03.11.35:591][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-03.11.35:591][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-03.11.35:591][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-03.11.35:591][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-03.11.35:591][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-03.11.35:591][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-03.11.35:591][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-03.11.35:591][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-03.11.35:591][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-03.11.35:595][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-03.11.35:595][558]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-03.11.35:607][558]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-03.11.35:608][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-03.11.35:608][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-03.11.35:608][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-03.11.35:609][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-03.11.35:609][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-03.11.35:609][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-03.11.35:628][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-03.11.35:628][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-03.11.35:628][558]LogInit: FAudioDevice initialized.
+[2021.04.28-03.11.35:628][558]LogAudio: Display: Audio Device (ID: 23) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-03.11.35:660][558]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-03.11.35:729][558]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-23.11.35
+[2021.04.28-03.11.35:731][558]LogWorld: Bringing up level for play took: 0.070037
+[2021.04.28-03.11.35:732][558]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.04.28-03.11.35:737][558]PIE: Server logged in
+[2021.04.28-03.11.35:738][558]PIE: Play in editor total start time 0.365 seconds.
+[2021.04.28-03.11.42:392][  7]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+Door_C.BndEvt__Door_Trigger_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature
+
+[2021.04.28-03.12.07:771][  7]LogStats: FPlatformStackWalk::StackWalkAndDump - 25.329 s
+[2021.04.28-03.12.07:775][  7]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.28-03.12.07:775][  7]LogOutputDevice: Error: 
+[2021.04.28-03.12.07:775][  7]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 903]
+[2021.04.28-03.12.07:775][  7]LogOutputDevice: Error: Type mismatch: Expected Door_C, Found REINST_Door_C_314
+[2021.04.28-03.12.07:775][  7]LogOutputDevice: Error: Stack: 
+[2021.04.28-03.12.07:775][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb91670e7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:775][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb7a77c14 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:775][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb502615e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb549d34a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb6fcbee1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb6fe06b0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb6fb22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb6fb1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb6d22604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb6fb0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb777c435 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb767120b UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb7bb0082 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb7bf5eea UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb7c1d3a1 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb7c05e98 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb7b792a4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb7b67067 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb7b95853 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb7af0b43 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb7b25244 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb894297e UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb894b56f UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbba99ecdc UE4Editor-Core.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbba99f0ce UE4Editor-Core.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbba9b08fd UE4Editor-Core.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb8968464 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb896edaa UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb808ad8f UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:776][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb80955f7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.28-03.12.07:777][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb4bd9423 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.28-03.12.07:777][  7]LogOutputDevice: Error: [Callstack] 0x00007ffbb54f50e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.28-03.12.07:777][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7a34e9bc2 UE4Editor.exe!UnknownFunction []
+[2021.04.28-03.12.07:777][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7a350117c UE4Editor.exe!UnknownFunction []
+[2021.04.28-03.12.07:777][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7a350125a UE4Editor.exe!UnknownFunction []
+[2021.04.28-03.12.07:777][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7a35152bd UE4Editor.exe!UnknownFunction []
+[2021.04.28-03.12.07:777][  7]LogOutputDevice: Error: [Callstack] 0x00007ff7a3517fea UE4Editor.exe!UnknownFunction []
+[2021.04.28-03.12.07:777][  7]LogOutputDevice: Error: [Callstack] 0x00007ffc29727034 KERNEL32.DLL!UnknownFunction []
+[2021.04.28-03.12.07:777][  7]LogOutputDevice: Error: [Callstack] 0x00007ffc2b662651 ntdll.dll!UnknownFunction []
+[2021.04.28-03.12.07:777][  7]LogOutputDevice: Error: 
+[2021.04.28-03.12.07:797][  7]LogStats:                SubmitErrorReport -  0.000 s
+[2021.04.28-03.12.29:073][  7]LogStats:                    SendNewReport - 21.276 s
+[2021.04.28-03.12.29:074][  7]LogStats:             FDebug::EnsureFailed - 46.688 s
+[2021.04.28-03.12.29:077][  7]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.28-03.12.29:591][  7]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-03.12.29:591][  7]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-03.12.49:866][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.12.49:866][849]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.12.49:868][849]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-03.12.49:880][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.12.49:893][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-03.12.49:914][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.12.49:948][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-03.12.49:951][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.12.49:952][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.12.50:054][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.12.50:085][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.04.28-03.12.50:135][850]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.04.28-03.13.54:288][401]BlueprintLog: New page: Compile Door
+[2021.04.28-03.13.54:408][401]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2021.04.28-03.14.47:491][262]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.28-03.14.55:942][677]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.28-03.17.40:291][578]LogSlate: Took 0.057541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.04.28-03.19.54:054][179]BlueprintLog: New page: Compile Door
+[2021.04.28-03.19.54:157][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.04.28-03.19.59:183][508]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-03.19.59:195][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-03.19.59:195][508]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 7:19:59 PM)
+[2021.04.28-03.19.59:212][508]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.19.59:390][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.177890s)
+[2021.04.28-03.19.59:391][508]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-03.19.59:392][508]LogPlayLevel: PIE: World Init took: (0.002313s)
+[2021.04.28-03.19.59:392][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.180577s)
+[2021.04.28-03.19.59:423][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.04.28-03.19.59:427][508]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.04.28-03.19.59:427][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-03.19.59:427][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-03.19.59:427][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-03.19.59:427][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-03.19.59:427][508]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-03.19.59:427][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-03.19.59:427][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-03.19.59:427][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-03.19.59:427][508]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-03.19.59:427][508]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-03.19.59:431][508]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-03.19.59:431][508]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-03.19.59:444][508]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-03.19.59:444][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-03.19.59:444][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-03.19.59:444][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-03.19.59:445][508]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-03.19.59:445][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-03.19.59:445][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-03.19.59:446][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-03.19.59:446][508]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-03.19.59:446][508]LogInit: FAudioDevice initialized.
+[2021.04.28-03.19.59:446][508]LogAudio: Display: Audio Device (ID: 24) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-03.19.59:496][508]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-03.19.59:560][508]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-23.19.59
+[2021.04.28-03.19.59:564][508]LogWorld: Bringing up level for play took: 0.067018
+[2021.04.28-03.19.59:565][508]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2021.04.28-03.19.59:572][508]PIE: Server logged in
+[2021.04.28-03.19.59:574][508]PIE: Play in editor total start time 0.384 seconds.
+[2021.04.28-03.20.19:144][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.20.19:144][664]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.20.19:146][664]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-03.20.19:156][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.20.19:169][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-03.20.19:187][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.20.19:217][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-03.20.19:217][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.20.19:218][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.20.19:237][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.20.19:264][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.04.28-03.20.19:365][665]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.04.28-03.20.47:838][748]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.28-03.20.55:095][ 10]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.28-03.20.55:375][ 14]LogEditorTransaction: Undo Change Number Pin Value
+[2021.04.28-03.21.12:368][780]BlueprintLog: New page: Compile Door
+[2021.04.28-03.21.12:444][780]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.04.28-03.21.14:947][904]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-03.21.14:954][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-03.21.14:955][904]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 7:21:14 PM)
+[2021.04.28-03.21.15:030][904]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.21.15:255][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.224734s)
+[2021.04.28-03.21.15:256][904]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-03.21.15:257][904]LogPlayLevel: PIE: World Init took: (0.002118s)
+[2021.04.28-03.21.15:257][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.227272s)
+[2021.04.28-03.21.15:291][904]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.04.28-03.21.15:320][904]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.04.28-03.21.15:320][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-03.21.15:320][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-03.21.15:320][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-03.21.15:320][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-03.21.15:320][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-03.21.15:320][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-03.21.15:320][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-03.21.15:320][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-03.21.15:321][904]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-03.21.15:321][904]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-03.21.15:326][904]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-03.21.15:326][904]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-03.21.15:340][904]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-03.21.15:340][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-03.21.15:340][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-03.21.15:340][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-03.21.15:341][904]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-03.21.15:341][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-03.21.15:341][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-03.21.15:361][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-03.21.15:361][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-03.21.15:361][904]LogInit: FAudioDevice initialized.
+[2021.04.28-03.21.15:361][904]LogAudio: Display: Audio Device (ID: 25) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-03.21.15:372][904]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-03.21.15:442][904]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-23.21.15
+[2021.04.28-03.21.15:444][904]LogWorld: Bringing up level for play took: 0.070609
+[2021.04.28-03.21.15:444][904]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.04.28-03.21.15:450][904]PIE: Server logged in
+[2021.04.28-03.21.15:451][904]PIE: Play in editor total start time 0.498 seconds.
+[2021.04.28-03.21.26:593][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.21.26:593][613]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.21.26:594][613]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-03.21.26:605][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.21.26:623][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-03.21.26:642][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.21.26:673][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-03.21.26:675][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.21.26:676][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.21.26:694][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.21.26:719][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.04.28-03.21.26:763][614]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.04.28-03.23.05:966][955]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2021.04.28-03.23.06:987][955]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_Ripper_Auto3276D5530480DE3F67A2857B486D0E5EF.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Autosaves/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper_Auto3.umap'
+[2021.04.28-03.23.07:025][955]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper' took 1.094
+[2021.04.28-03.23.07:025][955]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.094
+[2021.04.28-03.23.07:026][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Kivett_FinalMap/BluePrints/Door] ([1] browsable assets)...
+[2021.04.28-03.23.07:064][955]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Kivett_FinalMap/BluePrints/Door.Door]
+[2021.04.28-03.23.07:064][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kivett_FinalMap/BluePrints/Door]
+[2021.04.28-03.23.07:132][955]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Door_Auto33F33904643035ED6EADA68893DA9CC1C.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Autosaves/Game/Kivett_FinalMap/BluePrints/Door_Auto3.uasset'
+[2021.04.28-03.23.07:135][955]LogFileHelpers: Auto-saving content packages took 0.111
+[2021.04.28-03.24.11:873][392]BlueprintLog: New page: Compile Door
+[2021.04.28-03.24.11:877][392]LogBlueprint: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\Door.uasset: [Compiler] On Component Hit (Interaction)  does not have a valid matching component!
+[2021.04.28-03.24.11:943][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.04.28-03.24.32:898][270]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2021.04.28-03.24.32:898][270]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (Trigger)  and was replaced as a Custom Event!
+[2021.04.28-03.24.36:635][407]LogEditorTransaction: Undo Move Node
+[2021.04.28-03.24.49:176][912]BlueprintLog: New page: Compile Door
+[2021.04.28-03.24.49:258][912]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.04.28-03.24.52:557][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-03.24.52:565][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-03.24.52:565][ 53]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 7:24:52 PM)
+[2021.04.28-03.24.52:565][ 53]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.24.52:759][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.193152s)
+[2021.04.28-03.24.52:761][ 53]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-03.24.52:762][ 53]LogPlayLevel: PIE: World Init took: (0.002111s)
+[2021.04.28-03.24.52:762][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.195620s)
+[2021.04.28-03.24.52:797][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.04.28-03.24.52:800][ 53]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.04.28-03.24.52:800][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-03.24.52:800][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-03.24.52:800][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-03.24.52:800][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-03.24.52:800][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-03.24.52:800][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-03.24.52:800][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-03.24.52:800][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-03.24.52:801][ 53]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-03.24.52:801][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-03.24.52:805][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-03.24.52:805][ 53]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-03.24.52:817][ 53]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-03.24.52:818][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-03.24.52:818][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-03.24.52:818][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-03.24.52:819][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-03.24.52:819][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-03.24.52:819][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-03.24.52:836][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-03.24.52:836][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-03.24.52:836][ 53]LogInit: FAudioDevice initialized.
+[2021.04.28-03.24.52:836][ 53]LogAudio: Display: Audio Device (ID: 26) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-03.24.52:848][ 53]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-03.24.52:910][ 53]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-23.24.52
+[2021.04.28-03.24.52:912][ 53]LogWorld: Bringing up level for play took: 0.063281
+[2021.04.28-03.24.52:912][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2021.04.28-03.24.52:917][ 53]PIE: Server logged in
+[2021.04.28-03.24.52:918][ 53]PIE: Play in editor total start time 0.354 seconds.
+[2021.04.28-03.25.14:252][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.25.14:252][264]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-03.25.14:254][264]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-03.25.14:264][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.25.14:285][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-03.25.14:302][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.25.14:329][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-03.25.14:338][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.25.14:339][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.25.14:374][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.04.28-03.25.14:419][265]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2021.04.28-03.25.29:498][807]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2021.04.28-03.25.35:931][195]Cmd: TRANSACTION UNDO
+[2021.04.28-03.25.35:931][195]LogEditorTransaction: Undo Rotate Actors
+[2021.04.28-03.26.18:578][102]LogSlate: Window 'Door' being destroyed
+[2021.04.28-03.26.18:604][102]LogSlate: Window 'Door' being destroyed
+[2021.04.28-03.26.18:633][102]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-03.26.18:633][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-03.26.21:127][176]LogUObjectHash: Compacting FUObjectHashTables data took   8.95ms
+[2021.04.28-03.26.21:958][176]LogSlate: Window 'Save Content' being destroyed
+[2021.04.28-03.26.22:034][176]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Door6A156B22454C04C3EE19FA8A34B002D5.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/BluePrints/Door.uasset'
+[2021.04.28-03.26.22:621][176]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.04.28-03.26.23:545][176]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_Ripper220A568340A1FF7CBCB0B0AB2515D243.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.umap'
+[2021.04.28-03.26.23:601][176]LogFileHelpers: Saving map 'Kivett_FinalMap_Ripper' took 1.564
+[2021.04.28-03.26.23:650][176]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-03.26.23:650][176]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper
+[2021.04.28-03.26.23:650][176]LogContentValidation: Display: Validating Blueprint /Game/Kivett_FinalMap/BluePrints/Door.Door
+[2021.04.28-03.26.47:509][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.04.28-03.26.48:521][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.04.28-03.26.48:773][674]LogSlate: Window 'Kivett_FinalLevel - Unreal Editor' being destroyed
+[2021.04.28-03.26.48:784][674]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.28-03.26.56:244][675]Cmd: QUIT_EDITOR
+[2021.04.28-03.26.56:244][675]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.04.28-03.26.56:821][675]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.04.28-03.26.57:650][675]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.04.28-03.26.57:650][675]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.04.28-03.26.57:650][675]LogAudio: Display: Audio Device unregistered from world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-03.26.57:666][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.26.57:668][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-03.26.58:068][675]LogAudio: Display: Audio Device Manager Shutdown
+[2021.04.28-03.26.58:513][675]LogExit: Preparing to exit.
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [00000242997C6F00] Windows
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [00000242997C6E00] Default__DeviceProfile
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [00000242997CD300] WindowsNoEditor
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [00000242997C5300] WindowsServer
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [00000242997CE800] WindowsClient
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [00000242997C6700] IOS
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [00000242997CDB00] iPadAir
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [00000242997C5A00] iPadAir2
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [000002429977C300] IPadPro
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [000002429977BF00] iPadAir3
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [00000242997C7100] iPadAir4
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [0000024299779800] iPadMini2
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [00000242997C5100] iPadMini3
+[2021.04.28-03.27.00:900][675]LogDeviceProfile: Device profile begin destroy: [000002429977BC00] iPadMini4
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997C6A00] iPadMini5
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CF300] iPhone6
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CCC00] iPodTouch6
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [0000024299779B00] iPhone7
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [0000024299779700] iPodTouch7
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CCB00] iPhone5S
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [0000024299779200] iPhone6Plus
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CF000] iPhone6S
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [0000024299779A00] iPhone6SPlus
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CDD00] iPhone7Plus
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [0000024299778600] iPhoneSE
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CD400] iPhone8
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [0000024299779C00] iPhone8Plus
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CD700] iPhoneX
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [0000024299778200] iPhoneXS
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CDC00] iPhoneXSMax
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [0000024299779300] iPhoneXR
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CC200] iPhone11
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [000002429977B400] iPhone11Pro
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CEF00] iPhone11ProMax
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [000002429977AE00] iPhoneSE2
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CE700] iPhone12Mini
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [0000024299779100] iPhone12
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CC900] iPhone12Pro
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [000002429977A700] iPhone12ProMax
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CF500] iPadPro105
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [0000024299778800] iPadPro129
+[2021.04.28-03.27.00:901][675]LogDeviceProfile: Device profile begin destroy: [00000242997CD500] iPadPro97
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977A900] iPadPro2_129
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [00000242997CF600] iPad5
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [0000024299779E00] iPad6
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [00000242997CFB00] iPad7
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977BE00] iPad8
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [00000242997CDE00] iPadPro11
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977A800] iPadPro2_11
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [00000242997CCE00] iPadPro3_129
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [0000024299778D00] iPadPro4_129
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [00000242997CDF00] AppleTV
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [00000242997CEE00] AppleTV4K
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977D900] TVOS
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [00000242997CE400] Mac
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977E900] MacClient
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429984C600] MacNoEditor
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977FA00] MacServer
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429984CD00] Linux
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977D600] LinuxAArch64
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429984C300] LinuxNoEditor
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977F300] LinuxAArch64NoEditor
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429984CB00] LinuxClient
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977D500] LinuxAArch64Client
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429984D300] LinuxServer
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977F100] LinuxAArch64Server
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977AB00] Android
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977CA00] Android_Low
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [0000024299778C00] Android_Mid
+[2021.04.28-03.27.00:902][675]LogDeviceProfile: Device profile begin destroy: [000002429977F900] Android_High
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [0000024299778E00] Android_Default
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977FD00] Android_Adreno4xx
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977A400] Android_Adreno5xx_Low
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977DE00] Android_Adreno5xx
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977B300] Android_Adreno6xx
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977CE00] Android_Adreno6xx_Vulkan
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [0000024299779F00] Android_Mali_T6xx
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977F800] Android_Mali_T7xx
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977B800] Android_Mali_T8xx
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977C200] Android_Mali_G71
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977B500] Android_Mali_G72
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977FE00] Android_Mali_G72_Vulkan
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [0000024299778B00] Android_Mali_G76
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977D300] Android_Mali_G76_Vulkan
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [0000024299778100] Android_Mali_G77
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977F700] Android_Mali_G77_Vulkan
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [0000024299779500] Android_Vulkan_SM5
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977D000] Android_PowerVR_G6xxx
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977B000] Android_PowerVR_GT7xxx
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977F600] Android_PowerVR_GE8xxx
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977AD00] Android_PowerVR_GM9xxx
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977DD00] Android_PowerVR_GM9xxx_Vulkan
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977BB00] Android_TegraK1
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977DB00] Android_Unknown_Vulkan
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [0000024299778F00] Lumin
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [000002429977FB00] Lumin_Desktop
+[2021.04.28-03.27.00:903][675]LogDeviceProfile: Device profile begin destroy: [00000242997CEA00] HoloLens
