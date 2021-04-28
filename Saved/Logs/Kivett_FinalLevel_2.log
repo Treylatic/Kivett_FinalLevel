@@ -2228,3 +2228,105 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.27-23.39.48:221][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
 [2021.04.27-23.39.48:713][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
 [2021.04.27-23.39.48:888][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.27-23.40.46:310][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.27-23.40.46:992][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.27-23.40.47:153][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.27-23.40.47:332][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.27-23.40.47:493][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.27-23.40.47:633][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.27-23.40.47:847][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.04.27-23.41.24:966][454]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.28-00.33.15:320][487]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.28-00.33.15:462][487]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.04.28-00.33.15:657][487]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.04.28-00.33.23:179][986]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewsPaper01
+[2021.04.28-00.33.24:148][986]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.04.28-00.33.25:271][ 22]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kivett_FinalMap/BluePrints/NewsPaper01.NewsPaper01
+[2021.04.28-00.33.27:715][ 22]LogBlueprintEditor: Perf: 1.5 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.04.28-00.33.27:715][ 22]LogBlueprintEditor: Perf: 0.9 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2021.04.28-00.33.27:715][ 22]LogBlueprintEditor: Perf: 0.4 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.04.28-00.33.30:482][ 22]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0326 seconds. Added 126 classes and 0 folders.
+[2021.04.28-00.33.39:165][ 23]LogRenderer: Reallocating scene render targets to support 1048x608 Format 10 NumSamples 1 (Frame:1).
+[2021.04.28-00.33.42:029][107]LogSlate: Took 0.062294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.28-00.33.48:344][350]LogSlate: Took 0.072967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.28-00.34.40:443][585]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.28-00.34.49:357][946]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.28-00.34.55:888][219]LogEditorTransaction: Undo Modify Component Scale
+[2021.04.28-00.35.01:427][452]BlueprintLog: New page: Compile NewsPaper01
+[2021.04.28-00.35.01:470][452]LogBlueprint: Error: [AssetLog] /Game/Kivett_FinalMap/BluePrints/NewsPaper01.NewsPaper01 (no disk path found): [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.04.28-00.35.01:471][452]LogBlueprint: Warning: [AssetLog] /Game/Kivett_FinalMap/BluePrints/NewsPaper01.NewsPaper01 (no disk path found): [Compiler] Could not find a variable named "CubeGotten" in 'NewsPaper01_C'.
+Make sure 'NewsPaper01_C' has been compiled for  Set CubeGotten
+[2021.04.28-00.35.01:471][452]LogBlueprint: Warning: [AssetLog] /Game/Kivett_FinalMap/BluePrints/NewsPaper01.NewsPaper01 (no disk path found): [Compiler] Could not find a variable named "MyCubeWidget" in 'NewsPaper01_C'.
+Make sure 'NewsPaper01_C' has been compiled for  Set MyCubeWidget
+[2021.04.28-00.35.01:472][452]LogBlueprint: Warning: [AssetLog] /Game/Kivett_FinalMap/BluePrints/NewsPaper01.NewsPaper01 (no disk path found): [Compiler] Could not find a variable named "Cube" in 'NewsPaper01_C'.
+Make sure 'NewsPaper01_C' has been compiled for  Get Cube
+[2021.04.28-00.35.01:473][452]LogBlueprint: Error: [AssetLog] /Game/Kivett_FinalMap/BluePrints/NewsPaper01.NewsPaper01 (no disk path found): [Compiler] The property associated with  Cube  could not be found in '/Game/Kivett_FinalMap/BluePrints/NewsPaper01.NewsPaper01_C'
+[2021.04.28-00.35.01:850][452]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.04.28-00.35.10:935][863]LogSlate: Window 'NewsPaper01' being destroyed
+[2021.04.28-00.35.10:941][863]LogSlate: Window 'NewsPaper01' being destroyed
+[2021.04.28-00.35.11:041][863]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-00.35.11:041][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-00.35.14:471][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.04.28-00.35.15:630][ 10]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.28-00.35.15:687][ 10]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Kivett_FinalMap/BluePrints/NewsPaper01.NewsPaper01
+[2021.04.28-00.35.27:017][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.04.28-00.35.27:485][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.04.28-00.36.29:438][284]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.04.28-00.36.29:438][284]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  My Cube Widget  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.29:439][284]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.29:528][284]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kivett_FinalMap/BluePrints/AAGAM3362/01_Door_Puzzle/HeagneyBrian/PickupHeagney_BP.PickupHeagney_BP
+[2021.04.28-00.36.35:149][526]BlueprintLog: New page: Compile PickupHeagney_BP
+[2021.04.28-00.36.35:152][526]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.04.28-00.36.35:152][526]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  My Cube Widget  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.35:152][526]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.35:213][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.04.28-00.36.35:688][548]BlueprintLog: New page: Compile PickupHeagney_BP
+[2021.04.28-00.36.35:691][548]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.04.28-00.36.35:691][548]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  My Cube Widget  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.35:691][548]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.35:784][548]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2021.04.28-00.36.35:885][551]BlueprintLog: New page: Compile PickupHeagney_BP
+[2021.04.28-00.36.35:888][551]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.04.28-00.36.35:888][551]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  My Cube Widget  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.35:889][551]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.35:930][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.04.28-00.36.36:052][554]BlueprintLog: New page: Compile PickupHeagney_BP
+[2021.04.28-00.36.36:055][554]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.04.28-00.36.36:057][554]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  My Cube Widget  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.36:057][554]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.36:095][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.04.28-00.36.36:706][580]BlueprintLog: New page: Compile PickupHeagney_BP
+[2021.04.28-00.36.36:710][580]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.04.28-00.36.36:710][580]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  My Cube Widget  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.36:710][580]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\PickupHeagney_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.04.28-00.36.36:780][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.04.28-00.36.51:479][320]LogSlate: Window 'PickupHeagney_BP' being destroyed
+[2021.04.28-00.36.51:505][320]LogSlate: Window 'PickupHeagney_BP' being destroyed
+[2021.04.28-00.36.51:512][320]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-00.36.51:512][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-00.37.00:065][798]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\Cube_Widget.uasset: Failed to load '/Game/AAGAM3362/01_Door_Puzzle/HeagneyBrian/Cube': Can't find file.
+[2021.04.28-00.37.00:065][798]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\Cube_Widget.uasset: Failed to load '/Game/AAGAM3362/01_Door_Puzzle/HeagneyBrian/Cube': Can't find file.
+[2021.04.28-00.37.00:066][798]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\Cube_Widget.uasset: Failed to load '/Game/AAGAM3362/01_Door_Puzzle/HeagneyBrian/Cube': Can't find file.
+[2021.04.28-00.37.00:066][798]LogLinker: Warning: Failed to load '/Game/AAGAM3362/01_Door_Puzzle/HeagneyBrian/Cube': Can't find file.
+[2021.04.28-00.37.00:066][798]LogLinker: Warning: Failed to load '/Game/AAGAM3362/01_Door_Puzzle/HeagneyBrian/Cube': Can't find file.
+[2021.04.28-00.37.00:140][798]LogLinker: Warning: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Kivett_FinalMap\BluePrints\AAGAM3362\01_Door_Puzzle\HeagneyBrian\Cube_Widget.uasset: Failed to load '/Game/AAGAM3362/01_Door_Puzzle/HeagneyBrian/Cube': Can't find file.
+[2021.04.28-00.37.00:141][798]LoadErrors: Failed to load /Game/AAGAM3362/01_Door_Puzzle/HeagneyBrian/Cube.Cube Referenced by Image_141
+[2021.04.28-00.37.00:397][798]LogTexture: Display: Building textures: Cube (AutoDXT, 256X256)
+[2021.04.28-00.37.00:403][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.04.28-00.37.01:606][798]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.28-00.37.01:666][798]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Kivett_FinalMap/BluePrints/AAGAM3362/01_Door_Puzzle/HeagneyBrian/PickupHeagney_BP.PickupHeagney_BP
+	Asset Name: /Game/Kivett_FinalMap/BluePrints/AAGAM3362/01_Door_Puzzle/HeagneyBrian/Cube_Widget.Cube_Widget
+	Asset Name: /Game/Kivett_FinalMap/BluePrints/AAGAM3362/01_Door_Puzzle/HeagneyBrian/Cube.Cube
+[2021.04.28-00.37.02:456][798]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2021.04.28-00.37.02:815][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.04.28-00.37.02:860][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.28-00.37.02:929][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.28-00.37.02:948][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.28-00.37.02:988][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.28-00.37.06:257][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.04.28-00.37.09:431][958]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.28-00.37.09:508][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.04.28-00.37.09:571][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.28-00.37.09:589][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
