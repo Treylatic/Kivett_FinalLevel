@@ -1801,3 +1801,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-23.40.38:779][691]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper:PersistentLevel.Kivett_FinalMap_Ripper
 [2021.04.28-23.41.09:565][112]BlueprintLog: New page: Compile Kivett_FinalMap_Ripper
 [2021.04.28-23.41.09:676][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.04.28-23.41.59:904][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.04.28-23.42.00:929][583]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_Ripper_Auto110812AE941FECBDBBB150785FDAC9439.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Autosaves/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper_Auto1.umap'
+[2021.04.28-23.42.00:933][583]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper' took 1.061
+[2021.04.28-23.42.00:933][583]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.061
+[2021.04.28-23.42.00:933][583]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy_Character] ([1] browsable assets)...
+[2021.04.28-23.42.00:955][583]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy_Character.Enemy_Character]
+[2021.04.28-23.42.00:955][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy_Character]
+[2021.04.28-23.42.01:032][583]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Enemy_Character_Auto11FF9533946E95BC1EE3964BB187633D8.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Autosaves/Game/Blueprints/Enemy_Character_Auto1.uasset'
+[2021.04.28-23.42.01:033][583]LogFileHelpers: Auto-saving content packages took 0.100
