@@ -1615,3 +1615,344 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-02.02.42:316][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
 [2021.04.28-02.02.42:535][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
 [2021.04.28-02.02.42:696][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.04.28-02.22.29:721][763]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-02.22.29:728][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-02.22.29:729][763]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 6:22:29 PM)
+[2021.04.28-02.22.29:757][763]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.22.29:931][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.173920s)
+[2021.04.28-02.22.29:933][763]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.22.29:933][763]LogPlayLevel: PIE: World Init took: (0.002024s)
+[2021.04.28-02.22.29:933][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.176315s)
+[2021.04.28-02.22.29:960][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.04.28-02.22.29:966][763]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.04.28-02.22.29:966][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-02.22.29:966][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-02.22.29:966][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-02.22.29:966][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-02.22.29:966][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-02.22.29:966][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-02.22.29:966][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-02.22.29:966][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-02.22.29:967][763]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-02.22.29:967][763]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-02.22.29:988][763]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-02.22.29:988][763]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-02.22.30:006][763]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-02.22.30:007][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-02.22.30:007][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-02.22.30:007][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-02.22.30:009][763]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-02.22.30:009][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-02.22.30:009][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-02.22.30:027][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-02.22.30:027][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-02.22.30:027][763]LogInit: FAudioDevice initialized.
+[2021.04.28-02.22.30:027][763]LogAudio: Display: Audio Device (ID: 8) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.22.30:058][763]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.22.30:125][763]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.22.30
+[2021.04.28-02.22.30:127][763]LogWorld: Bringing up level for play took: 0.067832
+[2021.04.28-02.22.30:127][763]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.04.28-02.22.30:134][763]PIE: Server logged in
+[2021.04.28-02.22.30:135][763]PIE: Play in editor total start time 0.409 seconds.
+[2021.04.28-02.22.31:698][887]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.22.31:698][887]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.22.31:698][887]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.22.31:700][887]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.22.31:710][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.22.31:764][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.22.31:776][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.04.28-02.22.31:780][887]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.22.31:942][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161976s)
+[2021.04.28-02.22.31:943][887]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.22.31:944][887]LogPlayLevel: PIE: World Init took: (0.001968s)
+[2021.04.28-02.22.31:944][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.164322s)
+[2021.04.28-02.22.31:944][887]LogAudio: Display: Audio Device (ID: 8) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.22.31:944][887]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.22.31:971][887]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.22.31
+[2021.04.28-02.22.31:973][887]LogWorld: Bringing up level for play took: 0.028068
+[2021.04.28-02.22.31:981][887]LogLoad: Took 0.283122 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.22.33:520][ 38]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.22.33:520][ 38]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.22.33:520][ 38]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.22.33:522][ 38]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.22.33:532][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.22.33:606][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.22.33:617][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.04.28-02.22.33:620][ 38]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.22.33:780][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159422s)
+[2021.04.28-02.22.33:781][ 38]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.22.33:782][ 38]LogPlayLevel: PIE: World Init took: (0.002197s)
+[2021.04.28-02.22.33:783][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.162078s)
+[2021.04.28-02.22.33:783][ 38]LogAudio: Display: Audio Device (ID: 8) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.22.33:783][ 38]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.22.33:810][ 38]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.22.33
+[2021.04.28-02.22.33:811][ 38]LogWorld: Bringing up level for play took: 0.028153
+[2021.04.28-02.22.33:820][ 38]LogLoad: Took 0.300118 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.22.38:055][532]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.22.38:055][532]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.22.38:055][532]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.22.38:057][532]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.22.38:067][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.22.38:126][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.22.38:136][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.04.28-02.22.38:140][532]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.22.38:307][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166943s)
+[2021.04.28-02.22.38:309][532]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.22.38:310][532]LogPlayLevel: PIE: World Init took: (0.002136s)
+[2021.04.28-02.22.38:310][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.169435s)
+[2021.04.28-02.22.38:310][532]LogAudio: Display: Audio Device (ID: 8) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.22.38:310][532]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.22.38:337][532]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.22.38
+[2021.04.28-02.22.38:338][532]LogWorld: Bringing up level for play took: 0.027952
+[2021.04.28-02.22.38:346][532]LogLoad: Took 0.291360 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.22.46:686][455]LogMetaData: Removing '/Game/Kivett_FinalMap/Built_Levels/Kivett_FinalMap_GBox1.Kivett_FinalMap_GBox1_C' ref from Metadata '/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox1.PackageMetaData'
+[2021.04.28-02.22.46:687][455]LogMetaData: Removing '/Game/Kivett_FinalMap/Built_Levels/Kivett_FinalMap_GBox1.SKEL_Kivett_FinalMap_GBox1_C:ReceiveBeginPlay' ref from Metadata '/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox1.PackageMetaData'
+[2021.04.28-02.22.46:687][455]LogMetaData: Removing '/Game/Kivett_FinalMap/Built_Levels/Kivett_FinalMap_GBox1.SKEL_Kivett_FinalMap_GBox1_C:ReceiveTick' ref from Metadata '/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox1.PackageMetaData'
+[2021.04.28-02.22.46:687][455]LogMetaData: Removing '/Game/Kivett_FinalMap/Built_Levels/Kivett_FinalMap_GBox1.SKEL_Kivett_FinalMap_GBox1_C' ref from Metadata '/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox1.PackageMetaData'
+[2021.04.28-02.22.46:687][455]LogMetaData: Removing '/Game/Kivett_FinalMap/Built_Levels/Kivett_FinalMap_GBox1.Kivett_FinalMap_GBox1_C:ReceiveBeginPlay' ref from Metadata '/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_GBox1.PackageMetaData'
+[2021.04.28-02.22.46:838][455]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2021.04.28-02.22.47:645][455]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_GBox1C3CF649E4150C436492E7AA7C23E3677.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Built_Levels/Kivett_FinalMap_GBox1.umap'
+[2021.04.28-02.22.47:722][455]LogFileHelpers: Saving map 'Kivett_FinalMap_GBox1' took 1.034
+[2021.04.28-02.22.47:776][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.04.28-02.22.47:799][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.04.28-02.22.47:818][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.04.28-02.22.48:068][455]AssetCheck: New page: Asset Save: Kivett_FinalMap_GBox1
+[2021.04.28-02.22.48:068][455]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Built_Levels/Kivett_FinalMap_GBox1.Kivett_FinalMap_GBox1
+[2021.04.28-02.23.03:831][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-02.23.03:832][237]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.03:874][237]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.23.03:890][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.03:903][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-02.23.03:913][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.03:936][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-02.23.03:945][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-02.23.03:946][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-02.23.03:976][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.04.28-02.23.04:090][238]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.04.28-02.23.05:204][366]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-02.23.05:211][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-02.23.05:211][366]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 27, 2021, 6:23:05 PM)
+[2021.04.28-02.23.05:232][366]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.05:397][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.165698s)
+[2021.04.28-02.23.05:399][366]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.23.05:399][366]LogPlayLevel: PIE: World Init took: (0.001988s)
+[2021.04.28-02.23.05:400][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.168053s)
+[2021.04.28-02.23.05:421][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.04.28-02.23.05:422][366]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.04.28-02.23.05:422][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-02.23.05:422][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-02.23.05:422][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-02.23.05:423][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-02.23.05:423][366]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-02.23.05:423][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-02.23.05:423][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-02.23.05:423][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-02.23.05:423][366]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-02.23.05:423][366]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-02.23.05:427][366]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-02.23.05:427][366]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-02.23.05:439][366]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-02.23.05:439][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-02.23.05:439][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-02.23.05:439][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-02.23.05:440][366]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-02.23.05:440][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-02.23.05:440][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-02.23.05:457][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-02.23.05:457][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-02.23.05:457][366]LogInit: FAudioDevice initialized.
+[2021.04.28-02.23.05:457][366]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.23.05:469][366]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.23.05:529][366]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.23.05
+[2021.04.28-02.23.05:531][366]LogWorld: Bringing up level for play took: 0.061669
+[2021.04.28-02.23.05:531][366]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.04.28-02.23.05:538][366]PIE: Server logged in
+[2021.04.28-02.23.05:540][366]PIE: Play in editor total start time 0.33 seconds.
+[2021.04.28-02.23.06:429][458]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.06:429][458]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.06:429][458]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.06:432][458]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.23.06:442][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.06:513][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.23.06:525][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.04.28-02.23.06:528][458]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.06:693][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164701s)
+[2021.04.28-02.23.06:694][458]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.23.06:695][458]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2021.04.28-02.23.06:695][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.166973s)
+[2021.04.28-02.23.06:695][458]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.23.06:695][458]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.23.06:724][458]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.23.06
+[2021.04.28-02.23.06:726][458]LogWorld: Bringing up level for play took: 0.030548
+[2021.04.28-02.23.06:734][458]LogLoad: Took 0.305173 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.23.07:381][517]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.07:381][517]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.07:381][517]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.07:384][517]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.23.07:393][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.07:448][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.23.07:471][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.04.28-02.23.07:473][517]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.07:640][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166329s)
+[2021.04.28-02.23.07:641][517]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.23.07:642][517]LogPlayLevel: PIE: World Init took: (0.002182s)
+[2021.04.28-02.23.07:642][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.169057s)
+[2021.04.28-02.23.07:642][517]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.23.07:642][517]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.23.07:669][517]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.23.07
+[2021.04.28-02.23.07:671][517]LogWorld: Bringing up level for play took: 0.027816
+[2021.04.28-02.23.07:680][517]LogLoad: Took 0.298633 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.23.08:241][570]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.08:241][570]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.08:241][570]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.08:243][570]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.23.08:253][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.08:315][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.23.08:340][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.04.28-02.23.08:342][570]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.08:506][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163628s)
+[2021.04.28-02.23.08:507][570]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.23.08:508][570]LogPlayLevel: PIE: World Init took: (0.002182s)
+[2021.04.28-02.23.08:508][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.166201s)
+[2021.04.28-02.23.08:508][570]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.23.08:508][570]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.23.08:537][570]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.23.08
+[2021.04.28-02.23.08:538][570]LogWorld: Bringing up level for play took: 0.029222
+[2021.04.28-02.23.08:547][570]LogLoad: Took 0.306267 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.23.09:000][615]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.09:000][615]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.09:000][615]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.09:002][615]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.23.09:012][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.09:072][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.23.09:084][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.04.28-02.23.09:087][615]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.09:247][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159688s)
+[2021.04.28-02.23.09:248][615]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.23.09:249][615]LogPlayLevel: PIE: World Init took: (0.002031s)
+[2021.04.28-02.23.09:249][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.162084s)
+[2021.04.28-02.23.09:249][615]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.23.09:249][615]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.23.09:281][615]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.23.09
+[2021.04.28-02.23.09:282][615]LogWorld: Bringing up level for play took: 0.032938
+[2021.04.28-02.23.09:291][615]LogLoad: Took 0.291368 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.23.09:716][658]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.09:716][658]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.09:716][658]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.09:718][658]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.23.09:728][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.09:790][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.23.09:801][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.04.28-02.23.09:805][658]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.09:974][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169691s)
+[2021.04.28-02.23.09:976][658]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.23.09:976][658]LogPlayLevel: PIE: World Init took: (0.001819s)
+[2021.04.28-02.23.09:977][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.171898s)
+[2021.04.28-02.23.09:977][658]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.23.09:977][658]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.23.10:008][658]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.23.10
+[2021.04.28-02.23.10:009][658]LogWorld: Bringing up level for play took: 0.031625
+[2021.04.28-02.23.10:018][658]LogLoad: Took 0.302359 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.23.10:467][703]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.10:467][703]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.10:467][703]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.10:470][703]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.23.10:480][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.10:535][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.23.10:562][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.28-02.23.10:563][703]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.10:723][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159784s)
+[2021.04.28-02.23.10:724][703]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.23.10:725][703]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2021.04.28-02.23.10:725][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.162074s)
+[2021.04.28-02.23.10:725][703]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.23.10:725][703]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.23.10:757][703]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.23.10
+[2021.04.28-02.23.10:758][703]LogWorld: Bringing up level for play took: 0.032222
+[2021.04.28-02.23.10:770][703]LogLoad: Took 0.302896 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.23.11:096][734]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.11:096][734]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.11:096][734]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.11:098][734]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.23.11:108][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.11:179][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.23.11:206][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.28-02.23.11:207][734]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.11:367][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159975s)
+[2021.04.28-02.23.11:368][734]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.23.11:369][734]LogPlayLevel: PIE: World Init took: (0.002027s)
+[2021.04.28-02.23.11:369][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.162348s)
+[2021.04.28-02.23.11:369][734]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.23.11:369][734]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.23.11:398][734]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.23.11
+[2021.04.28-02.23.11:399][734]LogWorld: Bringing up level for play took: 0.029426
+[2021.04.28-02.23.11:408][734]LogLoad: Took 0.312387 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.23.11:891][782]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.11:891][782]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.11:891][782]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.11:894][782]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.23.11:905][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.11:970][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.23.11:981][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.04.28-02.23.11:985][782]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.12:147][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162129s)
+[2021.04.28-02.23.12:148][782]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.23.12:149][782]LogPlayLevel: PIE: World Init took: (0.001864s)
+[2021.04.28-02.23.12:149][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.164357s)
+[2021.04.28-02.23.12:149][782]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.23.12:149][782]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.23.12:179][782]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.23.12
+[2021.04.28-02.23.12:180][782]LogWorld: Bringing up level for play took: 0.030426
+[2021.04.28-02.23.12:188][782]LogLoad: Took 0.296788 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.23.13:511][932]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.13:511][932]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-02.23.13:511][932]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.13:514][932]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.23.13:524][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.23.13:593][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-02.23.13:605][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.04.28-02.23.13:608][932]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.23.13:770][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162803s)
+[2021.04.28-02.23.13:772][932]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-02.23.13:773][932]LogPlayLevel: PIE: World Init took: (0.002398s)
+[2021.04.28-02.23.13:773][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.165672s)
+[2021.04.28-02.23.13:773][932]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-02.23.13:773][932]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-02.23.13:800][932]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.27-22.23.13
+[2021.04.28-02.23.13:802][932]LogWorld: Bringing up level for play took: 0.028085
+[2021.04.28-02.23.13:810][932]LogLoad: Took 0.299204 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-02.23.28:969][737]Cmd: SELECT NONE
+[2021.04.28-02.24.03:293][847]Cmd: SELECT NONE
+[2021.04.28-02.24.04:051][935]Cmd: SELECT NONE
+[2021.04.28-02.24.04:810][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-02.24.04:811][ 20]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-02.24.04:862][ 20]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.24.04:875][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.24.04:890][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-02.24.04:902][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.24.04:933][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-02.24.04:933][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-02.24.04:935][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-02.24.04:965][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.04.28-02.24.05:052][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.04.28-02.24.07:454][273]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper:PersistentLevel.Kivett_FinalMap_Ripper
+[2021.04.28-02.24.31:991][335]LogSlate: Window 'Kivett_FinalMap_Ripper' being destroyed
+[2021.04.28-02.24.31:996][335]LogSlate: Window 'Kivett_FinalMap_Ripper' being destroyed
+[2021.04.28-02.24.32:032][335]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-02.24.32:032][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-02.24.36:686][791]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.28-02.24.36:705][791]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.28-02.24.40:422][237]LogContentBrowser: Attempting asset rename: NewFolder -> Pictures
+[2021.04.28-02.24.40:423][237]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.28-02.24.43:197][485]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/HighresScreenshot0000290C6C803452F3F076A79C99957CFBA70.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/BluePrints/Pictures/HighresScreenshot00002.uasset'
+[2021.04.28-02.24.43:452][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.04.28-02.24.43:482][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.04.28-02.24.43:500][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.28-02.24.43:536][485]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/MainMenu07686FC24E2162018AC607952C4DA2C1.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/BluePrints/MainMenu.uasset'
+[2021.04.28-02.24.43:719][485]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-02.24.43:720][485]LogContentValidation: Display: Validating Texture2D /Game/Kivett_FinalMap/BluePrints/Pictures/HighresScreenshot00002.HighresScreenshot00002
+[2021.04.28-02.24.43:720][485]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/MainMenu.MainMenu
+[2021.04.28-02.24.46:293][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.28-02.24.47:435][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.04.28-02.24.47:592][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.28-02.24.47:750][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
