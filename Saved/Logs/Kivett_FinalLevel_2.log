@@ -1810,3 +1810,1036 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-23.42.00:955][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy_Character]
 [2021.04.28-23.42.01:032][583]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Enemy_Character_Auto11FF9533946E95BC1EE3964BB187633D8.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Autosaves/Game/Blueprints/Enemy_Character_Auto1.uasset'
 [2021.04.28-23.42.01:033][583]LogFileHelpers: Auto-saving content packages took 0.100
+[2021.04.28-23.42.47:065][936]MapCheck: New page: Map Check
+[2021.04.28-23.42.47:153][936]Cmd: MAP REBUILD ALLVISIBLE
+[2021.04.28-23.42.47:153][936]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.04.28-23.42.47:596][936]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=false
+[2021.04.28-23.42.48:646][936]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.04.28-23.42.48:646][936]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.04.28-23.42.48:646][936]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.04.28-23.42.48:677][936]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.04.28-23.42.48:697][936]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.03s
+[2021.04.28-23.42.48:744][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.04.28-23.42.48:766][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.04.28-23.42.49:190][936]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 48
+[2021.04.28-23.42.49:190][936]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 47
+[2021.04.28-23.42.49:190][936]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 46
+[2021.04.28-23.42.49:190][936]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 45
+[2021.04.28-23.42.49:191][936]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 44
+[2021.04.28-23.42.49:191][936]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 43
+[2021.04.28-23.42.49:191][936]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 42
+[2021.04.28-23.42.49:191][936]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 41
+[2021.04.28-23.42.49:191][936]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 40
+[2021.04.28-23.42.49:191][936]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 39
+[2021.04.28-23.42.49:191][936]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 38
+[2021.04.28-23.42.49:191][936]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 37
+[2021.04.28-23.42.49:191][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:193][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:195][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:198][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:200][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:202][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:204][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:206][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:208][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:210][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:212][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:213][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:215][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:217][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:219][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:221][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:223][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:225][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:227][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:229][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.49:233][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 78
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 77
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 76
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 75
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 74
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 73
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 72
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 71
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 70
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 69
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 68
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 67
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 66
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 65
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 64
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 63
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 62
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 61
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 60
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 59
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 58
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 57
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 56
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 55
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 54
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 53
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 52
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 51
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 50
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 49
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 48
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 47
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 46
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 45
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 43
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 41
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 40
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 39
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 38
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 37
+[2021.04.28-23.42.59:664][936]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 36
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 35
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 34
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 33
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 32
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 31
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 30
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 29
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 27
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 25
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 24
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 23
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 20
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 16
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.04.28-23.42.59:665][936]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.04.28-23.42.59:665][936]TextureStreamingBuild: Display: Compiling optional shaders took 10.905 seconds.
+[2021.04.28-23.42.59:792][936]LogLevel: Display: Export Material TexCoord Scales took 0.127 seconds.
+[2021.04.28-23.42.59:808][936]TextureStreamingBuild: Display: Build Texture Streaming took 0.016 seconds.
+[2021.04.28-23.42.59:847][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.28-23.42.59:880][936]LightingResults: New page: Lighting Build - Apr 28, 2021, 3:42:59 PM
+[2021.04.28-23.43.01:418][936]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.28-23.43.02:304][936]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.28-23.43.03:100][936]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.28-23.43.07:192][936]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.28-23.43.07:193][936]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17656
+[2021.04.28-23.43.22:627][936]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.04.28-23.43.22:637][936]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.28-23.43.22:637][936]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.28-23.43.22:637][936]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.28-23.43.22:637][936]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.28-23.43.22:637][936]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.28-23.43.23:963][936]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.04.28-23.43.23:963][936]MapCheck: New page: Kivett_FinalMap_Ripper - Apr 28, 2021, 3:43:23 PM
+[2021.04.28-23.43.23:963][936]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.04.28-23.43.24:046][936]MapCheck: Warning: BP_lightpost_a3 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:046][936]MapCheck: Warning: BP_lightpost_a4 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:046][936]MapCheck: Warning: BP_lightpost_a5 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:046][936]MapCheck: Warning: BP_lightpost_a6 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:046][936]MapCheck: Warning: BP_lightpost_a7 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:046][936]MapCheck: Warning: BP_lightpost_a8 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:046][936]MapCheck: Warning: BP_lightpost_a9 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:047][936]MapCheck: Warning: BP_lightpost_a10 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:047][936]MapCheck: Warning: BP_lightpost_a11 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:047][936]MapCheck: Warning: BP_lightpost_a12 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:047][936]MapCheck: Warning: BP_lightpost_a13 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:047][936]MapCheck: Warning: BP_lightpost_a14 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:047][936]MapCheck: Warning: BP_lightpost_a15 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:047][936]MapCheck: Warning: BP_lightpost_a16 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:047][936]MapCheck: Warning: BP_lightpost_a17 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:047][936]MapCheck: Warning: BP_lightpost_a18 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:047][936]MapCheck: Warning: BP_lightpost_a19 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:048][936]MapCheck: Warning: BP_lightpost_a20 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:048][936]MapCheck: Warning: BP_lightpost_a21 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:048][936]MapCheck: Warning: BP_lightpost_a22 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:048][936]MapCheck: Warning: BP_lamps_light_sign_b_2 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:048][936]MapCheck: Warning: BP_lamps_light_sign_b2 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:049][936]MapCheck: Warning: BP_lamps_light_sign_b3 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:049][936]MapCheck: Warning: BP_lamps_light_sign_b4 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:049][936]MapCheck: Warning: BP_lamps_light_sign_b5 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:049][936]MapCheck: Warning: BP_lamps_light_sign_b6 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:049][936]MapCheck: Warning: BP_lamps_light_sign_b7 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:049][936]MapCheck: Warning: BP_lamps_light_sign_b8 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:049][936]MapCheck: Warning: BP_lamps_light_sign_b9 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:049][936]MapCheck: Warning: BP_lamps_light_sign_b10 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:049][936]MapCheck: Warning: BP_lamps_light_sign_b11 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:050][936]MapCheck: Warning: BP_lamps_light_sign_b12 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:050][936]MapCheck: Warning: BP_lamps_light_sign_b13 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:050][936]MapCheck: Warning: BP_lamps_light_sign_b14 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:050][936]MapCheck: Warning: BP_lamps_light_sign_b15 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:050][936]MapCheck: Warning: BP_lamps_light_sign_b16 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:050][936]MapCheck: Warning: BP_lamps_light_sign_b17 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:050][936]MapCheck: Warning: BP_lamps_light_sign_b18 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:055][936]MapCheck: Warning: BP_lamps_light_sign_b19 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:055][936]MapCheck: Warning: BP_lamps_light_sign_b20 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:056][936]MapCheck: Warning: BP_lamps_light_sign_b21 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:056][936]MapCheck: Warning: BP_lamps_light_sign_b22 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:056][936]MapCheck: Warning: BP_lamps_light_sign_b23 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.43.24:056][936]MapCheck: Map check complete: 1 Error(s), 43 Warning(s), took 92.989ms to complete.
+[2021.04.28-23.43.24:091][936]LogEditorBuildUtils: Build time 0:36
+[2021.04.28-23.43.24:691][938]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Black, compiling. 
+[2021.04.28-23.43.24:725][938]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Black, compiling. 
+[2021.04.28-23.43.24:777][938]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.04.28-23.43.24:777][938]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.04.28-23.43.24:777][938]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.04.28-23.43.24:777][938]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.04.28-23.43.25:813][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.28-23.43.37:657][289]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.37:658][289]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.38:286][309]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.38:286][309]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.38:492][315]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.38:492][315]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.38:696][321]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.38:696][321]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.38:824][324]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.38:846][325]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.39:024][331]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.39:024][331]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.39:215][337]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.39:215][337]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.39:342][341]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.39:342][341]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.40:897][389]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.40:897][389]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.41:079][394]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.41:079][394]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.41:204][398]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.41:204][398]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.41:632][411]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.41:632][411]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.41:769][415]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.41:769][415]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.46:721][568]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.46:721][568]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.46:871][572]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.46:871][572]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.46:965][575]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.46:965][575]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.47:103][580]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.47:103][580]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.47:257][584]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.47:257][584]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.47:324][586]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.47:324][586]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.47:418][589]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.47:418][589]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.47:678][597]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.47:678][597]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.51:380][709]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.51:380][709]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.51:572][715]LightingResults: Warning: SM_lamps_light_sign_b Object has overlapping UVs.
+[2021.04.28-23.43.51:572][715]LightingResults: SM_lamps_light_sign_b Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-23.43.53:077][766]Job is a success!
+[2021.04.28-23.43.53:411][767]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.047s
+[2021.04.28-23.43.53:412][767]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.04.28-23.43.53:448][767]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 1.2Mb due to 0.010000 MinBrickError)
+[2021.04.28-23.43.53:448][767]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.28-23.43.53:448][767]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2021.04.28-23.43.53:448][767]LogVolumetricLightmapImport:          1: 90.0% covering 14.1% of volume
+[2021.04.28-23.43.53:448][767]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.04.28-23.43.53:448][767]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.28-23.43.53:448][767]LogVolumetricLightmapImport:          Kivett_FinalMap_Ripper 			 10 bricks 	 100.0% (Persistent Level)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:875][767]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 64X64)
+[2021.04.28-23.43.56:876][767]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 64X64)
+[2021.04.28-23.43.57:675][767]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2021.04.28-23.43.58:123][767]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X512)
+[2021.04.28-23.43.58:123][767]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2021.04.28-23.43.58:123][767]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2021.04.28-23.43.58:123][767]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2021.04.28-23.43.58:123][767]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2021.04.28-23.44.03:148][767]Lightmass on DESKTOP-NR30UB4: 28.9 sec total, 1.46 sec importing, 262 ms setup, 2.80 sec photons, 24.1 sec processing, 0 ms extra exporting [1849/1849 mappings]. Threads: 6:02 min total, 3:53 min processing.
+[2021.04.28-23.44.03:327][767]LogStaticLightingSystem: Kivett_FinalMap_Ripper_BuiltData storing lightmap data for 1769 meshes in 36 LightmapResourceClusters (49.1 Meshes per cluster).
+[2021.04.28-23.44.03:412][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.28-23.44.07:175][767]LogStaticLightingSystem: Illumination: 1:07 min (2.23 sec encoding lightmaps, 1.26 sec encoding shadowmaps)
+[2021.04.28-23.44.07:175][767]LogStaticLightingSystem: Lightmap texture memory:  30.0 MB (28.0 MB streaming, 2.0 MB non-streaming), 32 textures
+[2021.04.28-23.44.07:175][767]LogStaticLightingSystem: Shadowmap texture memory: 6.0 MB (5.3 MB streaming, 0.7 MB non-streaming), 6 textures
+[2021.04.28-23.44.13:991][767]DumpUnbuiltLightIteractions
+[2021.04.28-23.44.13:991][767]Lights with unbuilt interactions: 0
+[2021.04.28-23.44.13:991][767]
+[2021.04.28-23.44.13:991][767]Primitives with unbuilt interactions: 0
+[2021.04.28-23.44.14:145][768]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.28-23.44.14:145][768]MapCheck: New page: Kivett_FinalMap_Ripper - Apr 28, 2021, 3:44:14 PM
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a3 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a4 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a5 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a6 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a7 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a8 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a9 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a10 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a11 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a12 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a13 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a14 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a15 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a16 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a17 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a18 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a19 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a20 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a21 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:153][768]MapCheck: Warning: BP_lightpost_a22 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b_2 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b2 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b3 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b4 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b5 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b6 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b7 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b8 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b9 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b10 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b11 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b12 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b13 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b14 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b15 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b16 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b17 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:154][768]MapCheck: Warning: BP_lamps_light_sign_b18 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:157][768]MapCheck: Warning: BP_lamps_light_sign_b19 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:157][768]MapCheck: Warning: BP_lamps_light_sign_b20 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:157][768]MapCheck: Warning: BP_lamps_light_sign_b21 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:157][768]MapCheck: Warning: BP_lamps_light_sign_b22 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:157][768]MapCheck: Warning: BP_lamps_light_sign_b23 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-23.44.14:157][768]MapCheck: Map check complete: 0 Error(s), 43 Warning(s), took 11.778ms to complete.
+[2021.04.28-23.44.17:037][883]LogSlate: Window 'Message Log' being destroyed
+[2021.04.28-23.44.17:061][883]LogSlate: Window 'Message Log' being destroyed
+[2021.04.28-23.44.22:660][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.04.28-23.44.23:592][220]LogSlate: Window 'Save Content' being destroyed
+[2021.04.28-23.44.23:752][220]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Enemy_Character609378C841F0ABA110CCCC992481C7E0.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Blueprints/Enemy_Character.uasset'
+[2021.04.28-23.44.23:787][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.28-23.44.24:652][220]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_Ripper0DF791F348FA2FC6B900F1850C7E2E1B.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.umap'
+[2021.04.28-23.44.24:663][220]LogFileHelpers: Saving map 'Kivett_FinalMap_Ripper' took 0.908
+[2021.04.28-23.44.25:646][220]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_Ripper_BuiltDataD437153A4DB43F609A44ECB8BDD8EDAD.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper_BuiltData.uasset'
+[2021.04.28-23.44.26:781][220]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_Ripper_BuiltData9CCC8A56420ED8F577D583B5847CFE61.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper_BuiltData.uasset'
+[2021.04.28-23.44.27:355][220]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-23.44.27:355][220]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_Character.Enemy_Character
+[2021.04.28-23.44.27:355][220]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper_BuiltData.Kivett_FinalMap_Ripper_BuiltData
+[2021.04.28-23.44.27:355][220]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper
+[2021.04.28-23.47.13:953][170]BlueprintLog: New page: Compile Enemy_Character
+[2021.04.28-23.47.13:983][170]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Blueprints\Enemy_Character.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To DeathScreen  to imply a specific type.
+[2021.04.28-23.47.13:984][170]LogBlueprint: Error: [AssetLog] C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Content\Blueprints\Enemy_Character.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.04.28-23.47.14:156][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.04.28-23.47.19:437][455]BlueprintLog: New page: Compile Enemy_Character
+[2021.04.28-23.47.19:594][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.04.28-23.54.30:124][752]BlueprintLog: New page: Compile Kivett_FinalMap_Ripper
+[2021.04.28-23.54.30:232][752]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.04.28-23.54.36:394][136]BlueprintLog: New page: Compile Kivett_FinalMap_Ripper
+[2021.04.28-23.54.36:499][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.04.28-23.54.38:991][301]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-23.54.38:999][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-23.54.38:999][301]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 28, 2021, 3:54:38 PM)
+[2021.04.28-23.54.38:999][301]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.54.39:161][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161686s)
+[2021.04.28-23.54.39:162][301]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-23.54.39:163][301]LogPlayLevel: PIE: World Init took: (0.002010s)
+[2021.04.28-23.54.39:163][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.164045s)
+[2021.04.28-23.54.39:194][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.04.28-23.54.39:195][301]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.04.28-23.54.39:195][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-23.54.39:195][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-23.54.39:195][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-23.54.39:195][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-23.54.39:195][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-23.54.39:195][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-23.54.39:195][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-23.54.39:195][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-23.54.39:196][301]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-23.54.39:196][301]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-23.54.39:202][301]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-23.54.39:202][301]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-23.54.39:214][301]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-23.54.39:215][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-23.54.39:215][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-23.54.39:215][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-23.54.39:216][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-23.54.39:216][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-23.54.39:216][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-23.54.39:234][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-23.54.39:234][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-23.54.39:234][301]LogInit: FAudioDevice initialized.
+[2021.04.28-23.54.39:234][301]LogAudio: Display: Audio Device (ID: 12) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-23.54.39:243][301]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-23.54.39:303][301]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-19.54.39
+[2021.04.28-23.54.39:304][301]LogWorld: Bringing up level for play took: 0.061281
+[2021.04.28-23.54.39:305][301]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.04.28-23.54.39:311][301]PIE: Server logged in
+[2021.04.28-23.54.39:313][301]PIE: Play in editor total start time 0.316 seconds.
+[2021.04.28-23.54.40:250][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.54.45:661][912]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-23.54.45:661][912]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-23.54.45:661][912]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.54.45:663][912]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.54.45:671][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.54.45:729][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-23.54.45:752][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.04.28-23.54.45:755][912]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.54.45:917][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162753s)
+[2021.04.28-23.54.45:919][912]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-23.54.45:919][912]LogPlayLevel: PIE: World Init took: (0.002103s)
+[2021.04.28-23.54.45:920][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.165330s)
+[2021.04.28-23.54.45:920][912]LogAudio: Display: Audio Device (ID: 12) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-23.54.45:920][912]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-23.54.45:955][912]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-19.54.45
+[2021.04.28-23.54.45:956][912]LogWorld: Bringing up level for play took: 0.035533
+[2021.04.28-23.54.45:965][912]LogLoad: Took 0.303634 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-23.54.47:520][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.54.51:759][429]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-23.54.51:759][429]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-23.54.51:759][429]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.54.51:761][429]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.54.51:769][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.54.51:836][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-23.54.51:849][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.04.28-23.54.51:852][429]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.54.52:013][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161606s)
+[2021.04.28-23.54.52:015][429]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-23.54.52:015][429]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2021.04.28-23.54.52:016][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.163840s)
+[2021.04.28-23.54.52:016][429]LogAudio: Display: Audio Device (ID: 12) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-23.54.52:016][429]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-23.54.52:043][429]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-19.54.52
+[2021.04.28-23.54.52:044][429]LogWorld: Bringing up level for play took: 0.027863
+[2021.04.28-23.54.52:053][429]LogLoad: Took 0.292885 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-23.54.53:991][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.54.53:992][647]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.54.54:021][647]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.54.54:032][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.54.54:054][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-23.54.54:109][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.54.54:141][647]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-23.54.54:142][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.54.54:144][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.54.54:163][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.54.54:177][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.04.28-23.54.54:267][648]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.04.28-23.54.59:188][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.04.28-23.55.00:052][982]LogSlate: Window 'Save Content' being destroyed
+[2021.04.28-23.55.00:142][982]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Enemy_Character707C995D4AC3C3274761B68EC712C66E.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Blueprints/Enemy_Character.uasset'
+[2021.04.28-23.55.00:174][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.04.28-23.55.01:010][982]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_RipperFE71A4674D6AD8E9A1C4178A858D7DAF.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.umap'
+[2021.04.28-23.55.01:019][982]LogFileHelpers: Saving map 'Kivett_FinalMap_Ripper' took 0.874
+[2021.04.28-23.55.01:050][982]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-23.55.01:050][982]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_Character.Enemy_Character
+[2021.04.28-23.55.01:050][982]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper
+[2021.04.28-23.55.51:315][387]BlueprintLog: New page: Compile Enemy_Character
+[2021.04.28-23.55.51:477][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.04.28-23.55.53:908][504]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-23.55.53:916][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-23.55.53:916][504]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 28, 2021, 3:55:53 PM)
+[2021.04.28-23.55.53:916][504]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.55.54:079][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162832s)
+[2021.04.28-23.55.54:081][504]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-23.55.54:082][504]LogPlayLevel: PIE: World Init took: (0.002933s)
+[2021.04.28-23.55.54:082][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.166244s)
+[2021.04.28-23.55.54:114][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.04.28-23.55.54:115][504]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.04.28-23.55.54:115][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-23.55.54:115][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-23.55.54:115][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-23.55.54:115][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-23.55.54:115][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-23.55.54:115][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-23.55.54:115][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-23.55.54:115][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-23.55.54:116][504]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-23.55.54:116][504]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-23.55.54:120][504]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-23.55.54:120][504]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-23.55.54:132][504]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-23.55.54:133][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-23.55.54:133][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-23.55.54:133][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-23.55.54:133][504]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-23.55.54:134][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-23.55.54:134][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-23.55.54:152][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-23.55.54:152][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-23.55.54:152][504]LogInit: FAudioDevice initialized.
+[2021.04.28-23.55.54:152][504]LogAudio: Display: Audio Device (ID: 13) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-23.55.54:160][504]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-23.55.54:220][504]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-19.55.54
+[2021.04.28-23.55.54:222][504]LogWorld: Bringing up level for play took: 0.061068
+[2021.04.28-23.55.54:222][504]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.04.28-23.55.54:229][504]PIE: Server logged in
+[2021.04.28-23.55.54:230][504]PIE: Play in editor total start time 0.315 seconds.
+[2021.04.28-23.55.55:096][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.55.59:382][918]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-23.55.59:382][918]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.28-23.55.59:382][918]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.55.59:384][918]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.55.59:394][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.55.59:483][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-23.55.59:495][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.04.28-23.55.59:499][918]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.55.59:661][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162768s)
+[2021.04.28-23.55.59:663][918]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-23.55.59:663][918]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2021.04.28-23.55.59:664][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.165050s)
+[2021.04.28-23.55.59:664][918]LogAudio: Display: Audio Device (ID: 13) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-23.55.59:664][918]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-23.55.59:692][918]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-19.55.59
+[2021.04.28-23.55.59:693][918]LogWorld: Bringing up level for play took: 0.028509
+[2021.04.28-23.55.59:703][918]LogLoad: Took 0.320836 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.28-23.56.06:954][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.56.06:955][766]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.56.07:002][766]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.56.07:017][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.56.07:043][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-23.56.07:097][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.56.07:129][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.56.07:129][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.56.07:131][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.56.07:178][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.04.28-23.56.07:277][767]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.04.28-23.56.26:881][764]BlueprintLog: New page: Compile Enemy_Character
+[2021.04.28-23.56.27:039][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.04.28-23.56.29:074][875]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-23.56.29:082][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-23.56.29:082][875]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 28, 2021, 3:56:29 PM)
+[2021.04.28-23.56.29:112][875]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.56.29:293][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180884s)
+[2021.04.28-23.56.29:294][875]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-23.56.29:295][875]LogPlayLevel: PIE: World Init took: (0.002061s)
+[2021.04.28-23.56.29:295][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.183375s)
+[2021.04.28-23.56.29:330][875]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.04.28-23.56.29:331][875]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.04.28-23.56.29:331][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-23.56.29:331][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-23.56.29:331][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-23.56.29:331][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-23.56.29:331][875]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-23.56.29:331][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-23.56.29:331][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-23.56.29:331][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-23.56.29:332][875]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-23.56.29:332][875]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-23.56.29:336][875]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-23.56.29:336][875]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-23.56.29:348][875]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-23.56.29:349][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-23.56.29:349][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-23.56.29:349][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-23.56.29:350][875]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-23.56.29:350][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-23.56.29:350][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-23.56.29:368][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-23.56.29:368][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-23.56.29:368][875]LogInit: FAudioDevice initialized.
+[2021.04.28-23.56.29:368][875]LogAudio: Display: Audio Device (ID: 14) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-23.56.29:376][875]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-23.56.29:436][875]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-19.56.29
+[2021.04.28-23.56.29:437][875]LogWorld: Bringing up level for play took: 0.061010
+[2021.04.28-23.56.29:438][875]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.04.28-23.56.29:444][875]PIE: Server logged in
+[2021.04.28-23.56.29:445][875]PIE: Play in editor total start time 0.364 seconds.
+[2021.04.28-23.56.30:512][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.56.37:993][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.57.00:798][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.57.00:798][607]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.57.00:799][607]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.57.00:809][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.57.00:835][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-23.57.00:894][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.57.00:932][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-23.57.00:932][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.57.00:934][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.57.00:954][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.57.00:966][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.04.28-23.57.01:023][608]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.04.28-23.57.04:714][859]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-23.57.04:722][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-23.57.04:723][859]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 28, 2021, 3:57:04 PM)
+[2021.04.28-23.57.04:723][859]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.57.04:885][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161953s)
+[2021.04.28-23.57.04:886][859]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-23.57.04:887][859]LogPlayLevel: PIE: World Init took: (0.001984s)
+[2021.04.28-23.57.04:887][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.164292s)
+[2021.04.28-23.57.04:915][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.04.28-23.57.04:916][859]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.04.28-23.57.04:916][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-23.57.04:917][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-23.57.04:917][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-23.57.04:917][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-23.57.04:917][859]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-23.57.04:917][859]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-23.57.04:917][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-23.57.04:917][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-23.57.04:917][859]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-23.57.04:917][859]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-23.57.04:921][859]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-23.57.04:921][859]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-23.57.04:934][859]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-23.57.04:934][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-23.57.04:934][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-23.57.04:934][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-23.57.04:935][859]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-23.57.04:935][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-23.57.04:935][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-23.57.04:954][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-23.57.04:954][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-23.57.04:954][859]LogInit: FAudioDevice initialized.
+[2021.04.28-23.57.04:954][859]LogAudio: Display: Audio Device (ID: 15) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-23.57.04:965][859]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-23.57.05:027][859]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-19.57.05
+[2021.04.28-23.57.05:028][859]LogWorld: Bringing up level for play took: 0.062237
+[2021.04.28-23.57.05:028][859]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.04.28-23.57.05:034][859]PIE: Server logged in
+[2021.04.28-23.57.05:035][859]PIE: Play in editor total start time 0.314 seconds.
+[2021.04.28-23.57.06:382][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.57.08:278][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.57.08:279][189]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.57.08:280][189]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.57.08:292][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.57.08:306][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-23.57.08:368][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.57.08:405][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.57.08:405][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.57.08:407][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.57.08:438][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.04.28-23.57.08:492][190]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.04.28-23.57.41:521][ 84]BlueprintLog: New page: Compile Kivett_FinalMap_Ripper
+[2021.04.28-23.57.41:626][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.04.28-23.57.43:362][177]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-23.57.43:369][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-23.57.43:369][177]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 28, 2021, 3:57:43 PM)
+[2021.04.28-23.57.43:370][177]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.57.43:533][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163719s)
+[2021.04.28-23.57.43:535][177]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-23.57.43:535][177]LogPlayLevel: PIE: World Init took: (0.002019s)
+[2021.04.28-23.57.43:536][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.166081s)
+[2021.04.28-23.57.43:565][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.04.28-23.57.43:566][177]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.04.28-23.57.43:566][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-23.57.43:566][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-23.57.43:566][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-23.57.43:566][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-23.57.43:566][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-23.57.43:566][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-23.57.43:566][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-23.57.43:566][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-23.57.43:566][177]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-23.57.43:566][177]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-23.57.43:570][177]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-23.57.43:570][177]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-23.57.43:582][177]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-23.57.43:583][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-23.57.43:583][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-23.57.43:583][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-23.57.43:584][177]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-23.57.43:584][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-23.57.43:584][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-23.57.43:602][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-23.57.43:602][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-23.57.43:602][177]LogInit: FAudioDevice initialized.
+[2021.04.28-23.57.43:602][177]LogAudio: Display: Audio Device (ID: 16) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-23.57.43:611][177]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-23.57.43:675][177]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-19.57.43
+[2021.04.28-23.57.43:677][177]LogWorld: Bringing up level for play took: 0.064276
+[2021.04.28-23.57.43:677][177]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.04.28-23.57.43:683][177]PIE: Server logged in
+[2021.04.28-23.57.43:684][177]PIE: Play in editor total start time 0.315 seconds.
+[2021.04.28-23.57.45:367][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.57.52:032][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.57.54:365][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.57.54:365][133]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.57.54:366][133]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.57.54:376][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.57.54:399][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-23.57.54:454][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.57.54:481][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.57.54:487][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.57.54:488][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.57.54:523][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.04.28-23.57.54:577][134]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.04.28-23.58.18:888][ 72]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/MainMenu.MainMenu
+[2021.04.28-23.58.57:180][867]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-23.58.57:188][867]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.28-23.58.57:190][867]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2021.04.28-23.58.57:249][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.04.28-23.58.57:250][867]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (1 blueprints)
+[2021.04.28-23.58.57:250][867]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 28, 2021, 3:58:57 PM)
+[2021.04.28-23.58.57:250][867]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.58.57:417][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166691s)
+[2021.04.28-23.58.57:418][867]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.28-23.58.57:419][867]LogPlayLevel: PIE: World Init took: (0.002174s)
+[2021.04.28-23.58.57:420][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.169298s)
+[2021.04.28-23.58.57:451][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.04.28-23.58.57:452][867]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.04.28-23.58.57:452][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-23.58.57:452][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-23.58.57:452][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-23.58.57:452][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-23.58.57:452][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-23.58.57:452][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-23.58.57:452][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-23.58.57:452][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-23.58.57:452][867]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-23.58.57:452][867]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-23.58.57:456][867]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-23.58.57:456][867]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-23.58.57:468][867]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.28-23.58.57:469][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-23.58.57:469][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-23.58.57:469][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-23.58.57:470][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-23.58.57:470][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-23.58.57:470][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-23.58.57:488][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-23.58.57:488][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-23.58.57:488][867]LogInit: FAudioDevice initialized.
+[2021.04.28-23.58.57:488][867]LogAudio: Display: Audio Device (ID: 17) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.28-23.58.57:496][867]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-23.58.57:557][867]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-19.58.57
+[2021.04.28-23.58.57:558][867]LogWorld: Bringing up level for play took: 0.061484
+[2021.04.28-23.58.57:559][867]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.04.28-23.58.57:565][867]PIE: Server logged in
+[2021.04.28-23.58.57:566][867]PIE: Play in editor total start time 0.379 seconds.
+[2021.04.28-23.58.58:274][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.59.00:133][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.59.00:133][159]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.28-23.59.00:136][159]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.59.00:154][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.59.00:173][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-23.59.00:235][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.59.00:268][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-23.59.00:273][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.59.00:274][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-23.59.00:309][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.04.28-23.59.00:354][160]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.04.28-23.59.12:913][705]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.59.12:913][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.59.12:921][705]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-23.59.12:921][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-23.59.14:979][792]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/MainMenu.MainMenu
+[2021.04.28-23.59.41:074][271]BlueprintLog: New page: Compile MainMenu
+[2021.04.28-23.59.41:129][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.04.29-00.00.09:320][ 18]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.00.09:320][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.00.09:332][ 18]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.00.09:332][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.00.11:345][ 92]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/DeathScreen.DeathScreen
+[2021.04.29-00.00.27:246][929]BlueprintLog: New page: Compile DeathScreen
+[2021.04.29-00.00.27:311][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.04.29-00.00.47:128][ 72]BlueprintLog: New page: Compile Enemy_Character
+[2021.04.29-00.00.47:294][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.04.29-00.00.48:920][159]LogSlate: Window 'DeathScreen' being destroyed
+[2021.04.29-00.00.48:925][159]LogSlate: Window 'DeathScreen' being destroyed
+[2021.04.29-00.00.48:955][159]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.00.48:955][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.00.49:063][159]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.00.49:064][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.00.49:111][159]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.00.49:111][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.00.49:118][159]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.00.49:118][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.00.49:171][159]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.00.49:171][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.00.49:179][159]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.00.49:179][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.00.50:949][312]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-00.00.50:956][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-00.00.50:956][312]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 28, 2021, 4:00:50 PM)
+[2021.04.29-00.00.50:985][312]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.00.51:172][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.186310s)
+[2021.04.29-00.00.51:173][312]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.29-00.00.51:174][312]LogPlayLevel: PIE: World Init took: (0.002467s)
+[2021.04.29-00.00.51:174][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.189176s)
+[2021.04.29-00.00.51:307][312]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2021.04.29-00.00.51:311][312]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.04.29-00.00.51:311][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-00.00.51:311][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-00.00.51:311][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-00.00.51:311][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-00.00.51:311][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-00.00.51:311][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-00.00.51:311][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-00.00.51:311][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-00.00.51:312][312]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-00.00.51:312][312]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-00.00.51:316][312]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-00.00.51:316][312]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-00.00.51:330][312]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.29-00.00.51:330][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-00.00.51:330][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-00.00.51:330][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-00.00.51:331][312]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-00.00.51:331][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-00.00.51:331][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.29-00.00.51:358][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-00.00.51:358][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-00.00.51:358][312]LogInit: FAudioDevice initialized.
+[2021.04.29-00.00.51:358][312]LogAudio: Display: Audio Device (ID: 18) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.29-00.00.51:371][312]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.29-00.00.51:432][312]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-20.00.51
+[2021.04.29-00.00.51:434][312]LogWorld: Bringing up level for play took: 0.062241
+[2021.04.29-00.00.51:434][312]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.04.29-00.00.51:440][312]PIE: Server logged in
+[2021.04.29-00.00.51:441][312]PIE: Play in editor total start time 0.485 seconds.
+[2021.04.29-00.00.52:241][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.00.56:687][739]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.29-00.00.56:687][739]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.29-00.00.56:687][739]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.00.56:689][739]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.00.56:697][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.00.56:765][739]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-00.00.56:777][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.04.29-00.00.56:781][739]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.00.56:942][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160867s)
+[2021.04.29-00.00.56:944][739]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.29-00.00.56:944][739]LogPlayLevel: PIE: World Init took: (0.001841s)
+[2021.04.29-00.00.56:945][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.163108s)
+[2021.04.29-00.00.56:945][739]LogAudio: Display: Audio Device (ID: 18) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.29-00.00.56:945][739]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.29-00.00.56:972][739]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-20.00.56
+[2021.04.29-00.00.56:974][739]LogWorld: Bringing up level for play took: 0.028668
+[2021.04.29-00.00.56:982][739]LogLoad: Took 0.294852 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.29-00.01.02:870][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.01.06:422][823]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.29-00.01.06:422][823]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.29-00.01.06:422][823]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.01.06:424][823]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.01.06:433][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.01.06:496][823]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-00.01.06:507][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.04.29-00.01.06:513][823]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.01.06:677][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164325s)
+[2021.04.29-00.01.06:679][823]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.29-00.01.06:679][823]LogPlayLevel: PIE: World Init took: (0.002040s)
+[2021.04.29-00.01.06:679][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.166751s)
+[2021.04.29-00.01.06:679][823]LogAudio: Display: Audio Device (ID: 18) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.29-00.01.06:679][823]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.29-00.01.06:707][823]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-20.01.06
+[2021.04.29-00.01.06:709][823]LogWorld: Bringing up level for play took: 0.028359
+[2021.04.29-00.01.06:719][823]LogLoad: Took 0.296986 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.29-00.01.07:900][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.01.07:900][946]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.01.07:903][946]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.01.07:918][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.01.07:931][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-00.01.07:985][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.01.08:010][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.01.08:010][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-00.01.08:011][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-00.01.08:045][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.04.29-00.01.08:096][947]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.04.29-00.01.11:804][283]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy_Character.Enemy_Character
+[2021.04.29-00.01.15:408][417]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/MainMenu.MainMenu
+[2021.04.29-00.01.17:978][532]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/DeathScreen.DeathScreen
+[2021.04.29-00.01.49:335][255]BlueprintLog: New page: Compile Enemy_Character
+[2021.04.29-00.01.49:498][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.04.29-00.02.19:605][ 63]BlueprintLog: New page: Compile DeathScreen
+[2021.04.29-00.02.19:653][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.04.29-00.02.21:700][191]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-00.02.21:708][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-00.02.21:708][191]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 28, 2021, 4:02:21 PM)
+[2021.04.29-00.02.21:709][191]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.02.21:873][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164033s)
+[2021.04.29-00.02.21:874][191]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.29-00.02.21:875][191]LogPlayLevel: PIE: World Init took: (0.002044s)
+[2021.04.29-00.02.21:875][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.166408s)
+[2021.04.29-00.02.21:906][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.04.29-00.02.21:908][191]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.04.29-00.02.21:908][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-00.02.21:908][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-00.02.21:908][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-00.02.21:908][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-00.02.21:908][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-00.02.21:908][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-00.02.21:908][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-00.02.21:908][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-00.02.21:909][191]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-00.02.21:909][191]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-00.02.21:913][191]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-00.02.21:913][191]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-00.02.21:925][191]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.29-00.02.21:925][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-00.02.21:925][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-00.02.21:925][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-00.02.21:926][191]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-00.02.21:926][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-00.02.21:926][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.29-00.02.21:945][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-00.02.21:945][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-00.02.21:945][191]LogInit: FAudioDevice initialized.
+[2021.04.29-00.02.21:945][191]LogAudio: Display: Audio Device (ID: 19) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.29-00.02.21:955][191]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.29-00.02.22:018][191]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-20.02.22
+[2021.04.29-00.02.22:020][191]LogWorld: Bringing up level for play took: 0.065129
+[2021.04.29-00.02.22:021][191]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2021.04.29-00.02.22:027][191]PIE: Server logged in
+[2021.04.29-00.02.22:028][191]PIE: Play in editor total start time 0.321 seconds.
+[2021.04.29-00.02.22:779][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.02.28:896][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.02.28:898][750]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.29-00.02.28:898][750]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.29-00.02.28:898][750]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.02.28:900][750]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.02.28:909][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.02.28:972][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-00.02.28:984][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.04.29-00.02.28:988][750]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.02.29:152][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164340s)
+[2021.04.29-00.02.29:153][750]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.29-00.02.29:154][750]LogPlayLevel: PIE: World Init took: (0.001901s)
+[2021.04.29-00.02.29:154][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.166619s)
+[2021.04.29-00.02.29:154][750]LogAudio: Display: Audio Device (ID: 19) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.29-00.02.29:154][750]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.29-00.02.29:182][750]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-20.02.29
+[2021.04.29-00.02.29:183][750]LogWorld: Bringing up level for play took: 0.028367
+[2021.04.29-00.02.29:195][750]LogLoad: Took 0.296991 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.29-00.02.33:773][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.04.29-00.02.34:559][277]LogSlate: Window 'Save Content' being destroyed
+[2021.04.29-00.02.34:582][277]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/DeathScreen272769B74AAB27C176069F94FC8342BB.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/BluePrints/Widgets/DeathScreen.uasset'
+[2021.04.29-00.02.34:663][277]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Enemy_Character15045D764DC84F67C8233E99E9102BA0.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Blueprints/Enemy_Character.uasset'
+[2021.04.29-00.02.34:694][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.29-00.02.35:513][277]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_RipperC8E00BA446F87C17C8AFF98C88ACA18C.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.umap'
+[2021.04.29-00.02.35:522][277]LogFileHelpers: Saving map 'Kivett_FinalMap_Ripper' took 0.857
+[2021.04.29-00.02.35:536][277]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/MainMenuA5419DEE4CC68C44136AC99C175E9D37.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/BluePrints/Widgets/MainMenu.uasset'
+[2021.04.29-00.02.35:686][277]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.29-00.02.35:686][277]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_Character.Enemy_Character
+[2021.04.29-00.02.35:686][277]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/MainMenu.MainMenu
+[2021.04.29-00.02.35:687][277]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper
+[2021.04.29-00.02.35:687][277]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/DeathScreen.DeathScreen
+[2021.04.29-00.02.36:337][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.04.29-00.02.37:660][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.04.29-00.02.37:812][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.04.29-00.02.37:952][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.29-00.02.39:655][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.02.39:656][714]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.02.39:692][714]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.02.39:705][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.02.39:717][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-00.02.39:775][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.02.39:810][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.02.39:813][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-00.02.39:815][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-00.02.39:847][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.04.29-00.02.39:953][715]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.04.29-00.02.40:847][787]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-00.02.40:854][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-00.02.40:855][787]PIE: New page: PIE session: Kivett_FinalMap_Ripper (Apr 28, 2021, 4:02:40 PM)
+[2021.04.29-00.02.40:890][787]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.02.41:062][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171773s)
+[2021.04.29-00.02.41:064][787]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.29-00.02.41:064][787]LogPlayLevel: PIE: World Init took: (0.002006s)
+[2021.04.29-00.02.41:065][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.174398s)
+[2021.04.29-00.02.41:098][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.04.29-00.02.41:100][787]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.04.29-00.02.41:100][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-00.02.41:100][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-00.02.41:100][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-00.02.41:100][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-00.02.41:100][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-00.02.41:100][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-00.02.41:100][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-00.02.41:100][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-00.02.41:101][787]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-00.02.41:101][787]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-00.02.41:104][787]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-00.02.41:104][787]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-00.02.41:117][787]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.04.29-00.02.41:117][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-00.02.41:118][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-00.02.41:118][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-00.02.41:118][787]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-00.02.41:118][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-00.02.41:118][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.29-00.02.41:137][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-00.02.41:137][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-00.02.41:137][787]LogInit: FAudioDevice initialized.
+[2021.04.29-00.02.41:137][787]LogAudio: Display: Audio Device (ID: 20) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.29-00.02.41:148][787]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.29-00.02.41:212][787]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-20.02.41
+[2021.04.29-00.02.41:213][787]LogWorld: Bringing up level for play took: 0.064378
+[2021.04.29-00.02.41:214][787]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.04.29-00.02.41:220][787]PIE: Server logged in
+[2021.04.29-00.02.41:221][787]PIE: Play in editor total start time 0.368 seconds.
+[2021.04.29-00.02.41:731][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.02.49:570][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.02.49:572][494]LogNet: Browse: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.29-00.02.49:572][494]LogLoad: LoadMap: /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper
+[2021.04.29-00.02.49:572][494]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.02.49:574][494]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.02.49:583][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.02.49:669][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-00.02.49:681][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.04.29-00.02.49:684][494]LogPlayLevel: Creating play world package: /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.02.49:853][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.167961s)
+[2021.04.29-00.02.49:854][494]LogAIModule: Creating AISystem for world Kivett_FinalMap_Ripper
+[2021.04.29-00.02.49:855][494]LogPlayLevel: PIE: World Init took: (0.002235s)
+[2021.04.29-00.02.49:855][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper to /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper (0.170584s)
+[2021.04.29-00.02.49:855][494]LogAudio: Display: Audio Device (ID: 20) registered with world 'Kivett_FinalMap_Ripper'.
+[2021.04.29-00.02.49:855][494]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.29-00.02.49:882][494]LogWorld: Bringing World /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper up for play (max tick rate 0) at 2021.04.28-20.02.49
+[2021.04.29-00.02.49:884][494]LogWorld: Bringing up level for play took: 0.027976
+[2021.04.29-00.02.49:892][494]LogLoad: Took 0.319475 seconds to LoadMap(/Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper)
+[2021.04.29-00.02.51:434][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.02.59:033][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.02.59:034][357]LogWorld: BeginTearingDown for /Game/Kivett_FinalMap/Finished_Level/UEDPIE_0_Kivett_FinalMap_Ripper
+[2021.04.29-00.02.59:085][357]LogWorld: UWorld::CleanupWorld for Kivett_FinalMap_Ripper, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.02.59:099][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.02.59:112][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-00.02.59:174][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.02.59:211][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-00.02.59:211][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-00.02.59:213][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-00.02.59:244][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.04.29-00.02.59:368][358]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.04.29-00.03.02:531][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.04.29-00.03.02:823][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.29-00.03.03:024][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.29-00.03.03:180][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.29-00.03.03:359][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.29-00.03.03:471][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
