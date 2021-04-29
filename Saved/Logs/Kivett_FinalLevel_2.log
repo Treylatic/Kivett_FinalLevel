@@ -2843,3 +2843,77 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.29-00.03.03:180][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2021.04.29-00.03.03:359][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2021.04.29-00.03.03:471][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.29-00.04.01:049][596]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.04.29-00.04.01:066][596]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.04.29-00.04.10:527][146]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> EscapeScreen
+[2021.04.29-00.04.10:551][146]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.04.29-00.04.11:803][209]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/EscapeScreen.EscapeScreen
+[2021.04.29-00.05.22:085][896]LogClient: High resolution screenshot saved as C:/Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Screenshots/Windows/HighresScreenshot00004.png
+[2021.04.29-00.05.34:168][238]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Saved\Screenshots\Windows\HighresScreenshot00004.png)
+[2021.04.29-00.05.34:203][238]LogTexture: Display: Building textures: HighresScreenshot00004 (BGRA8, 1047X550)
+[2021.04.29-00.05.39:229][373]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2021.04.29-00.05.55:450][858]LogContentBrowser: Attempting asset rename: HighresScreenshot00004 -> PoliceEscape
+[2021.04.29-00.05.55:544][858]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/PoliceEscape398CA5844FD84213035731B43FC85D6C.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/BluePrints/Pictures/PoliceEscape.uasset'
+[2021.04.29-00.05.55:670][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.04.29-00.05.55:712][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.04.29-00.05.55:742][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.29-00.05.55:909][858]AssetCheck: New page: Asset Save: PoliceEscape
+[2021.04.29-00.05.55:909][858]LogContentValidation: Display: Validating Texture2D /Game/Kivett_FinalMap/BluePrints/Pictures/PoliceEscape.PoliceEscape
+[2021.04.29-00.06.48:298][197]LogClient: High resolution screenshot saved as C:/Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Screenshots/Windows/HighresScreenshot00005.png
+[2021.04.29-00.06.53:616][282]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2021.04.29-00.07.03:791][532]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\recon\Documents\Unreal Projects\Capstone\Kivett_FinalLevel\Saved\Screenshots\Windows\HighresScreenshot00005.png)
+[2021.04.29-00.07.03:816][532]LogTexture: Display: Building textures: HighresScreenshot00005 (BGRA8, 1047X550)
+[2021.04.29-00.07.16:625][522]LogContentBrowser: Attempting asset rename: HighresScreenshot00005 -> Victory
+[2021.04.29-00.07.16:732][522]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Victory9C10AFC245F3F5ABBD83978221CF6B06.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/BluePrints/Pictures/Victory.uasset'
+[2021.04.29-00.07.16:832][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.04.29-00.07.16:875][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.04.29-00.07.16:920][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.29-00.07.17:099][522]AssetCheck: New page: Asset Save: Victory
+[2021.04.29-00.07.17:099][522]LogContentValidation: Display: Validating Texture2D /Game/Kivett_FinalMap/BluePrints/Pictures/Victory.Victory
+[2021.04.29-00.08.04:558][486]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.29-00.08.59:344][455]BlueprintLog: New page: Compile EscapeScreen
+[2021.04.29-00.08.59:379][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.04.29-00.10.26:903][322]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.29-00.10.31:495][573]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.29-00.12.06:016][233]LogEditorTransaction: Undo Paste clipboard contents
+[2021.04.29-00.12.21:535][199]BlueprintLog: New page: Compile EscapeScreen
+[2021.04.29-00.12.21:575][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.04.29-00.12.25:173][423]BlueprintLog: New page: Compile EscapeScreen
+[2021.04.29-00.12.25:211][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.04.29-00.12.30:886][788]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.12.30:886][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.12.30:894][788]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-00.12.30:894][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-00.12.36:008][ 34]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/EscapeScreen.EscapeScreen
+[2021.04.29-00.12.54:468][109]BlueprintLog: New page: Compile EscapeScreen
+[2021.04.29-00.12.54:519][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.04.29-00.13.21:812][977]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.04.29-00.13.22:656][977]LogSlate: Window 'Save Content' being destroyed
+[2021.04.29-00.13.22:697][977]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/DeathScreenC36BAB6C46D5A2DD1FBE95B047A080DF.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/BluePrints/Widgets/DeathScreen.uasset'
+[2021.04.29-00.13.22:712][977]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/EscapeScreenBD49ECF94AFA72A111C923A85A717F88.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/BluePrints/Widgets/EscapeScreen.uasset'
+[2021.04.29-00.13.22:727][977]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.29-00.13.22:727][977]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/EscapeScreen.EscapeScreen
+[2021.04.29-00.13.22:727][977]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kivett_FinalMap/BluePrints/Widgets/DeathScreen.DeathScreen
+[2021.04.29-00.13.57:465][628]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2021.04.29-00.14.45:410][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.04.29-00.14.48:084][276]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.04.29-00.14.56:930][905]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.04.29-00.14.56:932][905]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.04.29-00.15.43:566][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.04.29-00.15.44:412][207]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_Ripper_Auto2E643B4A64B739600060BEFB9FDFC45A0.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Autosaves/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper_Auto2.umap'
+[2021.04.29-00.15.44:427][207]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper' took 0.898
+[2021.04.29-00.15.44:427][207]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.898
+[2021.04.29-00.16.17:355][750]LogEditorViewport: Clicking on Component (LMB): BoxComponent (CollisionComp)
+[2021.04.29-00.16.21:110][ 48]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2021.04.29-00.16.21:979][116]Cmd: DELETE
+[2021.04.29-00.16.21:979][116]Cmd: ACTOR DELETE
+[2021.04.29-00.16.22:024][116]LogEditorActor: Deleted Actor: TriggerBox
+[2021.04.29-00.16.22:055][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.29-00.16.22:056][116]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2021.04.29-00.16.24:360][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.29-00.16.25:279][288]LogSlate: Window 'Save Content' being destroyed
+[2021.04.29-00.16.25:327][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.04.29-00.16.26:179][288]LogSavePackage: Moving '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Saved/Kivett_FinalMap_RipperEB8799604833D373061F5DA6705C79DD.tmp' to '../../../../../../Users/recon/Documents/Unreal Projects/Capstone/Kivett_FinalLevel/Content/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.umap'
+[2021.04.29-00.16.26:189][288]LogFileHelpers: Saving map 'Kivett_FinalMap_Ripper' took 0.891
+[2021.04.29-00.16.26:223][288]AssetCheck: New page: Asset Save: Kivett_FinalMap_Ripper
+[2021.04.29-00.16.26:224][288]LogContentValidation: Display: Validating World /Game/Kivett_FinalMap/Finished_Level/Kivett_FinalMap_Ripper.Kivett_FinalMap_Ripper
